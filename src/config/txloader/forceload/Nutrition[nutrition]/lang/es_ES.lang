@@ -1,0 +1,22 @@
+# Keys
+key.nutrition=Abrir nutrición GUI
+
+# GUI
+gui.nutrition:nutrition_title=Nutrición
+gui.nutrition:close=Cerrar
+gui.nutrition:updating=Actualizando...
+
+# Nutrients
+nutrient.nutrition:grain=Cereales
+nutrient.nutrition:fruit=Fruta
+nutrient.nutrition:vegetable=Vegetales
+nutrient.nutrition:protein=Proteína
+nutrient.nutrition:dairy=Lácteo
+
+# Tooltips
+tooltip.nutrition:nutrients=Nutrientes:
+
+# Potions
+potion.nutrition:toughness=Toughness
+potion.nutrition:nourished=Nourished
+potion.nutrition:malnourished=Malnourished

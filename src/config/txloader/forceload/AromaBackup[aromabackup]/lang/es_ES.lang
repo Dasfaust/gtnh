@@ -1,0 +1,13 @@
+#Backup
+aromabackup:backup.start.server=Empezando respaldado. El servidor puede que se ralentice un poco!
+aromabackup:backup.start.client=Empezando respaldado. El mundo puede ralentizarse un poco!
+aromabackup:backup.done.server=Respaldo de Servidor listo!
+aromabackup:backup.done.client=Respaldo de Mundo listo!
+aromabackup:backup.failed.server=Respaldo de Servidor falló!
+aromabackup:backup.failed.client=Respaldo de Mundo falló!
+aromabackup:backup.next.server=Siguiente respaldo programado en %s minutos.
+aromabackup:backup.next.client=Siguiente respaldo programado en %s minutos.
+
+#Command
+aromabackup:command.alreadyrunning=Un respaldo ya esta corriendo.
+aromabackup:command.playerstarted=%s empezó un respaldo.

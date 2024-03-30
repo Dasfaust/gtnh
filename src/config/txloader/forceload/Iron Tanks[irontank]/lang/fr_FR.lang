@@ -1,0 +1,28 @@
+# Item localizations
+item.irontank:copperIronUpgrade.name=Amélioration de Réservoir de Cuivre à Fer
+item.irontank:copperSilverUpgrade.name=Amélioration de Réservoir de Cuivre à Acier
+item.irontank:diamondObsidianUpgrade.name=Amélioration de Réservoir de Diamant à Obsidienne
+item.irontank:diamondEmeraldUpgrade.name=Amélioration de Réservoir de Diamant à Aluminium
+item.irontank:goldDiamondUpgrade.name=Amélioration de Réservoir de Or à Diamant
+item.irontank:ironGoldUpgrade.name=Amélioration de Réservoir de Fer à Or
+item.irontank:silverGoldUpgrade.name=Amélioration de Réservoir de Acier à Or
+item.irontank:glassCopperUpgrade.name=Amélioration de Réservoir de Verre à Cuivre
+item.irontank:glassIronUpgrade.name=Amélioration de Réservoir de Verre à Fer
+item.irontank:silverDiamondUpgrade.name=Amélioration de Réservoir de Acier à Diamant
+item.irontank:emeraldStainlesssteelUpgrade.name=Amélioration de Réservoir de Aluminium à Acier Inoxydable
+item.irontank:stainlesssteelTitaniumUpgrade.name=Amélioration de Réservoir d'Acier Inoxydable à Titane
+item.irontank:titaniumTungstensteelUpgrade.name=Amélioration de Réservoir de Titane à Acier au Tungstène
+# Block localizations
+tile.irontank:ironTank.name=Réservoir en Fer
+tile.irontank:goldTank.name=Réservoir en Or
+tile.irontank:diamondTank.name=Réservoir en Diamant
+tile.irontank:emeraldTank.name=Réservoir en Aluminium
+tile.irontank:obsidianTank.name=Réservoir en Obsidienne
+tile.irontank:copperTank.name=Réservoir en Cuivre
+tile.irontank:silverTank.name=Réservoir en Acier
+tile.irontank:stainlesssteelTank.name=Réservoir en Acier Inoxydable
+tile.irontank:titaniumTank.name=Réservoir en Titane
+tile.irontank:tungstensteelTank.name=Réservoir en Acier au Tungstène
+
+# Misc localizations
+itemGroup.irontank=Iron Tanks
