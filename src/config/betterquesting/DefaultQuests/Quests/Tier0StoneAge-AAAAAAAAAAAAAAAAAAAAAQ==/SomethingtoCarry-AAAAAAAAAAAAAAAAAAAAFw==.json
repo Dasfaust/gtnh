@@ -30,7 +30,7 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§2§lSomething to Carry Liquids",
+      "name:8": "§a§lSomething to Carry Liquids",
       "isGlobal:1": 0,
       "lockedProgress:1": 1,
       "autoClaim:1": 0,
@@ -55,7 +55,7 @@
           "OreDict:8": ""
         }
       },
-      "taskID:8": "bq_standard:crafting"
+      "taskID:8": "bq_standard:retrieval"
     },
     "1:10": {
       "partialMatch:1": 1,

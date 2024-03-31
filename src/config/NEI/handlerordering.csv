@@ -4,12 +4,12 @@
 # Any handlers that are missing from this file will be assigned to 0.
 # Negative numbers are fine.
 # If you delete this file, it will be regenerated with all registered handler IDs.
-neicustomdiagram.diagramgroup.enderstorage.chestoverview,-1000
-neicustomdiagram.diagramgroup.enderstorage.tankoverview,-1000
-neicustomdiagram.diagramgroup.gregtech.circuits,-1000
-neicustomdiagram.diagramgroup.gregtech.lenses,-1000
-neicustomdiagram.diagramgroup.gregtech.materialparts,-1000
-neicustomdiagram.diagramgroup.gregtech.materialtools,-1000
+neicustomdiagram.diagramgroup.enderstorage.chestoverview,1000
+neicustomdiagram.diagramgroup.enderstorage.tankoverview,1000
+neicustomdiagram.diagramgroup.gregtech.circuits,1000
+neicustomdiagram.diagramgroup.gregtech.lenses,1000
+neicustomdiagram.diagramgroup.gregtech.materialparts,1000
+neicustomdiagram.diagramgroup.gregtech.materialtools,1000
 neicustomdiagram.diagramgroup.gregtech.oreprocessing,-1000
 gt.recipe.craker,-11
 gt.recipe.largechemicalreactor,-10

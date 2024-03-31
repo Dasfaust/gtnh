@@ -26,12 +26,12 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§6§lGut-Enough For You? Bet You Thought Newspapers Were Dead!",
+      "name:8": "§e§lGut-Enough For You? Bet You Thought Newspapers Were Dead!",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "The Typesetting Table and Printing Press will allow you to duplicate books, including enchanted books. The process is kinda complicated, so check out the Bibliocraft mod wiki page. You\u0027ll need to use XP to duplicate enchanted books, so now would be a good time to figure out how to collect large amounts...\n\nTo duplicate a Fortune III book you may need 40+ levels. Note that the wiki mentions black dye but only vanilla ink sacs will work.\n\n§3You\u0027ll need some Thaumium ingots. You can get into Thaumcraft, find some in a chest, or try breeding the Magic Metal Berry IC2 crop."
+      "desc:8": "The Typesetting Table and Printing Press will allow you to duplicate books, including enchanted books. The process is kinda complicated, so check out the Bibliocraft mod wiki page. You\u0027ll need to use XP to duplicate enchanted books, so now would be a good time to figure out how to collect large amounts...\n\nTo duplicate a Fortune III book you may need 40+ levels. Note that the wiki mentions black dye but only vanilla ink sacs will work.\n\n§bYou\u0027ll need some Thaumium ingots. You can get into Thaumcraft, find some in a chest, or try breeding the Magic Metal Berry IC2 crop."
     }
   },
   "tasks:9": {

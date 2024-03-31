@@ -27,12 +27,12 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§6§lConduits",
+      "name:8": "§e§lConduits",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "Probably the most awesome way to transport just about anything in multiple different ways. Get some conduits of each type. Higher tiers of each (except item) exist.\n\n§3There\u0027s also ME conduits for when you can do that."
+      "desc:8": "Probably the most awesome way to transport just about anything in multiple different ways. Get some conduits of each type. Higher tiers of each (except item) exist.\n\n§bThere\u0027s also ME conduits for when you can do that."
     }
   },
   "tasks:9": {

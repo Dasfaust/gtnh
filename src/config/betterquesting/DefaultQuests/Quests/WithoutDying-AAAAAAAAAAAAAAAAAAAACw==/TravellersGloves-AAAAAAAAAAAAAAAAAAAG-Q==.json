@@ -112,9 +112,9 @@
             "TinkerAccessory:10": {
               "BaseDurability:3": 500,
               "Built:1": 1,
-              "Tooltip1:8": "§4Haste",
+              "Tooltip1:8": "§cHaste",
               "Effect1:3": 1,
-              "ModifierTip1:8": "§4Redstone (500/500)",
+              "ModifierTip1:8": "§cRedstone (500/500)",
               "ModDurability:5": 0.0,
               "Broken:1": 0,
               "Redstone:11": [

@@ -26,12 +26,12 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§3§lYour Mom Says to Upgrade Your Drawers",
+      "name:8": "§b§lYour Mom Says to Upgrade Your Drawers",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "There are many tiers of upgrades for storage drawers. Make some iron and gold tier upgrades and I\u0027ll give you some of the special purpose upgrades to experiment with in your base. Check NEI for more options such as Obsidian, Emerald, and Diamond upgrades.\n\n§4To remove upgrades, shift-right-click with an empty hand to access the drawer interface."
+      "desc:8": "There are many tiers of upgrades for storage drawers. Make some iron and gold tier upgrades and I\u0027ll give you some of the special purpose upgrades to experiment with in your base. Check NEI for more options such as Obsidian, Emerald, and Diamond upgrades.\n\n§cTo remove upgrades, shift-right-click with an empty hand to access the drawer interface."
     }
   },
   "tasks:9": {

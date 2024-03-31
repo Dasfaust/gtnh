@@ -33,12 +33,12 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§3§lA Fool Fit for a King",
+      "name:8": "§b§lA Fool Fit for a King",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "Only the craziest fool would use diamonds to make a tool! Or is it crazy like a fox?\n\n§3PS: You can also §oburn them for fuel§r§3 for that extra bit of craziness."
+      "desc:8": "Only the craziest fool would use diamonds to make a tool! Or is it crazy like a fox?\n\n§bPS: You can also §oburn them for fuel§r§b for that extra bit of craziness."
     }
   },
   "tasks:9": {

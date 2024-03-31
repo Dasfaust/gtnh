@@ -26,12 +26,12 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§6§lDid You Run Low On Gold or Redstone?",
+      "name:8": "§e§lDid You Run Low On Gold or Redstone?",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "Did you run low on redstone and/or gold? It\u0027s no problem with a glowstone flower farm. You can centrifuge glowstone dust to redstone and gold dust. Redstone is also a good source of chrome. You\u0027ll need tons of gold for HV, so it\u0027s a good idea to set this up before then.\n\n§3There\u0027s actually a couple plants that produce glowstone, pick the one you like!"
+      "desc:8": "Did you run low on redstone and/or gold? It\u0027s no problem with a glowstone flower farm. You can centrifuge glowstone dust to redstone and gold dust. Redstone is also a good source of chrome. You\u0027ll need tons of gold for HV, so it\u0027s a good idea to set this up before then.\n\n§bThere\u0027s actually a couple plants that produce glowstone, pick the one you like!"
     }
   },
   "tasks:9": {

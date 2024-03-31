@@ -31,7 +31,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "Your thermionic fabricator needs heating coils to function. So combine some magnetized (requires polariser) steel rods with some copper wire and make some.\n\n§3Why is this a separate quest again?"
+      "desc:8": "Your thermionic fabricator needs heating coils to function. So combine some magnetized (requires polariser) steel rods with some copper wire and make some.\n\n§bWhy is this a separate quest again?"
     }
   },
   "tasks:9": {

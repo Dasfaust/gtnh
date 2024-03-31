@@ -25,11 +25,11 @@
       "globalShare:1": 0,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§6§lNeutron Accelerator",
+      "name:8": "§e§lNeutron Accelerator",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "It is used to accelerate the NKE. You just need to connect a cable to it and it will keep consuming the energy.\n\n§3PS: You can use a controller cover to stop it."
+      "desc:8": "It is used to accelerate the NKE. You just need to connect a cable to it and it will keep consuming the energy.\n\n§bPS: You can use a controller cover to stop it."
     }
   },
   "tasks:9": {

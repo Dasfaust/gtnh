@@ -22,6 +22,7 @@
     "buildcraft.api.transport.IPipeTile.PipeType",
     "net.minecraft.world.gen.structure.StructureStrongholdPieces$Stronghold$Door",
     "net.minecraftforge.event.terraingen.PopulateChunkEvent$Populate$EventType",
+    "ganymedes01.etfuturum.tileentities.TileEntityBanner$EnumBannerPattern",
     "Reika.DragonAPI.ModInteract.Bees.ButterflyAlleleRegistry$Fertility",
     "net.minecraft.entity.player.EntityPlayer$EnumStatus",
     "org.bukkit.Material",

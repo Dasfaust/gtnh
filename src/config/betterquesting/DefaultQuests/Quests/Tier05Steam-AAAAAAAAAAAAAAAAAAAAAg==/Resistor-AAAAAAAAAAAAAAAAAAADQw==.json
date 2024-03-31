@@ -26,7 +26,7 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§5§4§3§lResistor",
+      "name:8": "§d§c§b§lResistor",
       "isGlobal:1": 0,
       "lockedProgress:1": 1,
       "autoClaim:1": 0,
@@ -86,7 +86,7 @@
           "OreDict:8": ""
         }
       },
-      "taskID:8": "bq_standard:crafting"
+      "taskID:8": "bq_standard:retrieval"
     }
   },
   "rewards:9": {

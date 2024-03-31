@@ -26,12 +26,12 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§5§6§lDark Steel Pipes",
+      "name:8": "§d§e§lDark Steel Pipes",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "Dark steel pipes are much better than the bronze, steel, or potin pipes you might have been using. Make sure your wrench can handle mining level 3 or you can\u0027t deconstruct them.\n\n§3If you don\u0027t need these, just recycle them to get the materials back. Not everything needs ginormous pipes or high heat tolerance."
+      "desc:8": "Dark steel pipes are much better than the bronze, steel, or potin pipes you might have been using. Make sure your wrench can handle mining level 3 or you can\u0027t deconstruct them.\n\n§bIf you don\u0027t need these, just recycle them to get the materials back. Not everything needs ginormous pipes or high heat tolerance."
     }
   },
   "tasks:9": {

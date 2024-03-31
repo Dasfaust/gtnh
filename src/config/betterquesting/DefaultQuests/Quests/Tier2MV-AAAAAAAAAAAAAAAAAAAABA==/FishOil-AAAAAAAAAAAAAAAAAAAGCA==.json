@@ -26,12 +26,12 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§6§lFish Oil",
+      "name:8": "§e§lFish Oil",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "Got Fish?\n\n§3There are rumors of a weird crop in the shape of a fish...\n\nOtherwise look under Fishing Farming Cooking tab for fish catching options. "
+      "desc:8": "Got Fish?\n\n§bThere are rumors of a weird crop in the shape of a fish...\n\nOtherwise look under Fishing Farming Cooking tab for fish catching options. "
     }
   },
   "tasks:9": {

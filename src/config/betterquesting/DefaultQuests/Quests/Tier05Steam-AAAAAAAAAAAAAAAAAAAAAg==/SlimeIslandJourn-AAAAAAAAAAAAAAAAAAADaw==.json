@@ -26,12 +26,12 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§3§lSlime Island Journey",
+      "name:8": "§b§lSlime Island Journey",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "Rubber trees are not the only source for raw rubber. Go and find a slime island high in the sky. Slime balls and slime leaves give raw rubber too.\nMake some slime tree farms beside your rubber farm.\n\n§3Liquid slime is not allowed to be placed down, as it acts as a spawner, and can cause lag."
+      "desc:8": "Rubber trees are not the only source for raw rubber. Go and find a slime island high in the sky. Slime balls and slime leaves give raw rubber too.\nMake some slime tree farms beside your rubber farm.\n\n§bLiquid slime is not allowed to be placed down, as it acts as a spawner, and can cause lag."
     }
   },
   "tasks:9": {

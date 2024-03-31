@@ -26,7 +26,7 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§4§3§lWired, Weird?!",
+      "name:8": "§c§b§lWired, Weird?!",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
@@ -51,7 +51,7 @@
           "OreDict:8": ""
         }
       },
-      "taskID:8": "bq_standard:crafting"
+      "taskID:8": "bq_standard:retrieval"
     },
     "1:10": {
       "partialMatch:1": 1,
@@ -69,7 +69,7 @@
           "OreDict:8": ""
         }
       },
-      "taskID:8": "bq_standard:crafting"
+      "taskID:8": "bq_standard:retrieval"
     },
     "2:10": {
       "partialMatch:1": 1,
@@ -87,7 +87,7 @@
           "OreDict:8": ""
         }
       },
-      "taskID:8": "bq_standard:crafting"
+      "taskID:8": "bq_standard:retrieval"
     },
     "3:10": {
       "partialMatch:1": 1,
@@ -105,7 +105,7 @@
           "OreDict:8": ""
         }
       },
-      "taskID:8": "bq_standard:crafting"
+      "taskID:8": "bq_standard:retrieval"
     },
     "4:10": {
       "partialMatch:1": 1,

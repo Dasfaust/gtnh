@@ -26,7 +26,7 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§2§lChad - A Better Way to Make Paper",
+      "name:8": "§a§lChad - A Better Way to Make Paper",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
@@ -74,7 +74,7 @@
           "OreDict:8": ""
         }
       },
-      "taskID:8": "bq_standard:crafting"
+      "taskID:8": "bq_standard:retrieval"
     },
     "2:10": {
       "partialMatch:1": 1,
@@ -92,7 +92,7 @@
           "OreDict:8": ""
         }
       },
-      "taskID:8": "bq_standard:crafting"
+      "taskID:8": "bq_standard:retrieval"
     },
     "3:10": {
       "partialMatch:1": 1,
@@ -110,7 +110,7 @@
           "OreDict:8": ""
         }
       },
-      "taskID:8": "bq_standard:crafting"
+      "taskID:8": "bq_standard:retrieval"
     }
   },
   "rewards:9": {

@@ -26,12 +26,12 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§2§lYou Need MOOOOOOORE Wood",
+      "name:8": "§a§lYou Need MOOOOOOORE Wood",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "It\u0027s time to feed your new coke oven with some wood to get more charcoal. You\u0027re looking for the most efficient way to plant trees. Try to find some spruce saplings and some jungle saplings. Both can be planted in a 2x2 grid to get bigger trees.\n\n§4Warning label: Do not put your pets in the microwave to dry them. And do not plant any of these rewards in the middle of your base."
+      "desc:8": "It\u0027s time to feed your new coke oven with some wood to get more charcoal. You\u0027re looking for the most efficient way to plant trees. Try to find some spruce saplings and some jungle saplings. Both can be planted in a 2x2 grid to get bigger trees.\n\n§cWarning label: Do not put your pets in the microwave to dry them. And do not plant any of these rewards in the middle of your base."
     }
   },
   "tasks:9": {

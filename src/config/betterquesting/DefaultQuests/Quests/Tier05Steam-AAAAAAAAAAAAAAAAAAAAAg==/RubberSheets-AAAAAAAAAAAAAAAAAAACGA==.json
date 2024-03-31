@@ -26,7 +26,7 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§4§3§lRubber Sheets",
+      "name:8": "§c§b§lRubber Sheets",
       "isGlobal:1": 0,
       "lockedProgress:1": 1,
       "autoClaim:1": 0,
@@ -68,7 +68,7 @@
           "OreDict:8": ""
         }
       },
-      "taskID:8": "bq_standard:crafting"
+      "taskID:8": "bq_standard:retrieval"
     },
     "2:10": {
       "partialMatch:1": 1,

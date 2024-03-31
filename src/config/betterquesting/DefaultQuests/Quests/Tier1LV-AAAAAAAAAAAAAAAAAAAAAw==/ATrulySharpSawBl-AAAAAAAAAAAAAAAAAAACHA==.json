@@ -26,12 +26,12 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§5§lA Truly Sharp Saw Blade",
+      "name:8": "§d§lA Truly Sharp Saw Blade",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "Combining cobalt brass and diamond dust makes a really sharp saw blade for your cutting machine.\n\n§3This is the only use for cobalt brass in the game. Pretty pointless, yeah?"
+      "desc:8": "Combining cobalt brass and diamond dust makes a really sharp saw blade for your cutting machine.\n\n§bThis is the only use for cobalt brass in the game. Pretty pointless, yeah?"
     }
   },
   "tasks:9": {

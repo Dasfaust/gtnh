@@ -35,12 +35,12 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§6§lI need a drink. And more Chrome.",
+      "name:8": "§e§lI need a drink. And more Chrome.",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "The most efficient way to process Ruby Ore. Better than electrolysis.\n\n§3Check out NEI for similar processes based on Sapphire and Green Sapphire."
+      "desc:8": "The most efficient way to process Ruby Ore. Better than electrolysis.\n\n§bCheck out NEI for similar processes based on Sapphire and Green Sapphire."
     }
   },
   "tasks:9": {

@@ -11,12 +11,15 @@
       "config/InGameInfo*",
       "config/InvTweaks*",
       "config/*aila*",
-      "config/xaero*"
+      "config/xaero*",
+      "config/angelica*",
+      "config/duradisplay*",
+      "config/visualprospecting*"
     ],
     "exclude" : [ ]
   },
   "defaultJVMArguments" : "-XX:+UnlockExperimentalVMOptions\n-XX:+UnlockDiagnosticVMOptions\n-XX:+AlwaysActAsServerClassMachine\n-XX:+AlwaysPreTouch\n-XX:+DisableExplicitGC\n-XX:+UseNUMA\n-XX:NmethodSweepActivity=1\n-XX:ReservedCodeCacheSize=400M\n-XX:NonNMethodCodeHeapSize=12M\n-XX:ProfiledCodeHeapSize=194M\n-XX:NonProfiledCodeHeapSize=194M\n-XX:-DontCompileHugeMethods\n-XX:MaxNodeLimit=240000\n-XX:NodeLimitFudgeFactor=8000\n-XX:+UseVectorCmov\n-XX:+PerfDisableSharedMem\n-XX:+UseFastUnorderedTimeStamps\n-XX:AllocatePrefetchStyle=3\n-XX:+UseG1GC\n-XX:MaxGCPauseMillis=37\n-XX:G1HeapRegionSize=16M\n-XX:G1NewSizePercent=23\n-XX:G1ReservePercent=20\n-XX:SurvivorRatio=32\n-XX:G1MixedGCCountTarget=3\n-XX:G1HeapWastePercent=20\n-XX:InitiatingHeapOccupancyPercent=10\n-XX:G1RSetUpdatingPauseTimePercent=0\n-XX:MaxTenuringThreshold=1\n-XX:G1SATBBufferEnqueueingThresholdPercent=30\n-XX:G1ConcMarkStepDurationMillis=5.0\n-XX:G1ConcRSHotCardLimit=16\n-XX:G1ConcRefinementServiceIntervalMillis=150\n-XX:GCTimeRatio=99",
-  "defaultHeapAllocation" : 6,
+  "defaultHeapAllocation" : 4,
   "preview" : false,
   "launch" : {
     "flags" : [ ]

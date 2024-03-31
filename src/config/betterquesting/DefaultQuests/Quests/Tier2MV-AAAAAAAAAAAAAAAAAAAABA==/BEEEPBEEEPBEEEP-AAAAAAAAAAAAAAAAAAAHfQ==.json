@@ -26,12 +26,12 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§6§lBEEEP BEEEP BEEEP",
+      "name:8": "§e§lBEEEP BEEEP BEEEP",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "Knowing that your cleanroom needs maintenance is pretty important. Instead of just turning on a light, why not use a howler alarm? It\u0027ll notify you up to 128 blocks away.\n\n§4§d§cWarning: May cause uncontrollable urine leakage when activated."
+      "desc:8": "Knowing that your cleanroom needs maintenance is pretty important. Instead of just turning on a light, why not use a howler alarm? It\u0027ll notify you up to 128 blocks away.\n\n§c§d§cWarning: May cause uncontrollable urine leakage when activated."
     }
   },
   "tasks:9": {

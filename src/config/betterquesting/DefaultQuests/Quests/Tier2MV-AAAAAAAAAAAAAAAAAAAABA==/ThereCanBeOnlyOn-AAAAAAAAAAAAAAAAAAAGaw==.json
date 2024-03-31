@@ -26,12 +26,12 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§6§lThere Can Be Only One...",
+      "name:8": "§e§lThere Can Be Only One...",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "...so make them lose their heads. \n\nMake yourself a Cleaver with your tool forge and collect some wither skeleton skulls.\n\n§4If you have problems finding wither skeletons, once you get to HV you can put a powered skeleton spawner in the Nether."
+      "desc:8": "...so make them lose their heads. \n\nMake yourself a Cleaver with your tool forge and collect some wither skeleton skulls.\n\n§cIf you have problems finding wither skeletons, once you get to HV you can put a powered skeleton spawner in the Nether."
     }
   },
   "tasks:9": {

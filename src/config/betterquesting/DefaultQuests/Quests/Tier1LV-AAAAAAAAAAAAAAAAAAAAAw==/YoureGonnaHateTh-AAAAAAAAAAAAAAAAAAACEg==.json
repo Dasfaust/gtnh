@@ -26,12 +26,12 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§5§lYou\u0027re Gonna Hate This #6",
+      "name:8": "§d§lYou\u0027re Gonna Hate This #6",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "The sixth item you\u0027ll need a lot of. For the scanner and the seismic prospector.\n\n§3BTW, there\u0027s technically one more, the Field Generator, but you need higher tier circuits to make it, and it isn\u0027t used as often until later tiers."
+      "desc:8": "The sixth item you\u0027ll need a lot of. For the scanner and the seismic prospector.\n\n§bBTW, there\u0027s technically one more, the Field Generator, but you need higher tier circuits to make it, and it isn\u0027t used as often until later tiers."
     }
   },
   "tasks:9": {

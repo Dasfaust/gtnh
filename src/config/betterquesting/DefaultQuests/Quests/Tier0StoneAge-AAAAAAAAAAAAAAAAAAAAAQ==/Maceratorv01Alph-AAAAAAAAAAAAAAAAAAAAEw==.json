@@ -26,7 +26,7 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§1§2§lMacerator v0.1 Alpha",
+      "name:8": "§9§a§lMacerator v0.1 Alpha",
       "isGlobal:1": 0,
       "lockedProgress:1": 1,
       "ignoreNBT:1": 1,
@@ -52,7 +52,7 @@
           "OreDict:8": "craftingToolMortar"
         }
       },
-      "taskID:8": "bq_standard:crafting"
+      "taskID:8": "bq_standard:retrieval"
     }
   },
   "rewards:9": {

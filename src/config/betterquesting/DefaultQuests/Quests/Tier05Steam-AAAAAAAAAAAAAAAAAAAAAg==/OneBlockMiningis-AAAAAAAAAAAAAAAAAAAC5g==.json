@@ -63,12 +63,12 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§3§lOne Block Mining is so Old School",
+      "name:8": "§b§lOne Block Mining is so Old School",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "By making a hammer you are now able to mine a shaft of 3x3 blocks. You can use iron, steel, or alumite poured from the Smeltery, it doesn\u0027t need to be steel. Higher tier metals require the MV extruder. You\u0027ll need a hammer head, two large plates and a large rod for your hammer.  Be careful in the Nether or you could be boiled in lava very quickly.\n\n§6The quest should accept the tool whatever materials you used."
+      "desc:8": "By making a hammer you are now able to mine a shaft of 3x3 blocks. You can use iron, steel, or alumite poured from the Smeltery, it doesn\u0027t need to be steel. Higher tier metals require the MV extruder. You\u0027ll need a hammer head, two large plates and a large rod for your hammer.  Be careful in the Nether or you could be boiled in lava very quickly.\n\n§eThe quest should accept the tool whatever materials you used."
     }
   },
   "tasks:9": {

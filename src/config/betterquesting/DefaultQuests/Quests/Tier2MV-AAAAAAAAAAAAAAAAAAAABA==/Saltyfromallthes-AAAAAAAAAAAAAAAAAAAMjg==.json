@@ -25,11 +25,11 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§6§lSalty from all the silicon?",
+      "name:8": "§e§lSalty from all the silicon?",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "If you are salty about the ingredients needed to purify silicon, I got good news for you! You can recover all of the chlorine and sodium you used by electrolyzing the salt you got!\n\n\n§3You can also use zinc instead of sodium, the first reaction is longer but the recycling is much cheaper."
+      "desc:8": "If you are salty about the ingredients needed to purify silicon, I got good news for you! You can recover all of the chlorine and sodium you used by electrolyzing the salt you got!\n\n\n§bYou can also use zinc instead of sodium, the first reaction is longer but the recycling is much cheaper."
     }
   },
   "tasks:9": {
