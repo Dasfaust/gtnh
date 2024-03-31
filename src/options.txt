@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 clouds:true
-resourcePacks:["Unity-1.1.1.zip","Galacticraft16xTextures.zip","Galacticraft+16x.zip","DraconicEvolution16x16.zip","Better+Gendustry+Backported.zip","GT Future.zip","ZT_1.4.0_GT5U.zip","Modernity-format1-v3.7.1.zip","UU-Tex-main.zip","UU-Tex-patch.zip","VanillaTweaks_r191502.zip"]
+resourcePacks:["Unity-1.1.1.zip","Galacticraft16xTextures.zip","Galacticraft+16x.zip","DraconicEvolution16x16.zip","Better+Gendustry+Backported.zip","GT Future.zip","ZT_1.4.0_GT5U.zip","Modernity-format1-v3.7.1.zip","UU-Tex-main.zip","UU-Tex-patch.zip"]
 lastServer:
 lang:en_US
 chatVisibility:0
@@ -187,6 +187,26 @@ key_TG.keybind.activeAbility3:0
 key_visualprospecting.key.toggleore.name:0
 key_visualprospecting.key.togglefluid.name:0
 key_visualprospecting.key.togglenode.name:0
+key_gui.xaero_switch_waypoint_set:0
+key_gui.xaero_instant_waypoint:78
+key_gui.xaero_toggle_slime:0
+key_gui.xaero_toggle_grid:0
+key_gui.xaero_toggle_waypoints:0
+key_gui.xaero_toggle_map_waypoints:0
+key_gui.xaero_toggle_map:0
+key_gui.xaero_enlarge_map:44
+key_gui.xaero_waypoints_key:22
+key_gui.xaero_zoom_in:0
+key_gui.xaero_zoom_out:0
+key_gui.xaero_new_waypoint:48
+key_gui.xaero_display_all_sets:0
+key_gui.xaero_toggle_light_overlay:0
+key_gui.xaero_minimap_settings:21
+key_gui.xaero_open_map:50
+key_gui.xaero_open_settings:27
+key_gui.xaero_map_zoom_in:0
+key_gui.xaero_map_zoom_out:0
+key_gui.xaero_quick_confirm:54
 key_key.fastBlockPlacing.desc:0
 key_key.cofh.empower:0
 key_key.cofh.multimode:0
@@ -195,13 +215,10 @@ key_railcraft.keybind.loco.faster:0
 key_railcraft.keybind.loco.slower:0
 key_railcraft.keybind.loco.mode:0
 key_railcraft.keybind.loco.whistle:0
-key_key.journeymap.map_toggle:36
-key_key.journeymap.zoom_in:13
-key_key.journeymap.zoom_out:12
-key_key.journeymap.minimap_type:26
-key_key.journeymap.minimap_type:27
-key_key.journeymap.minimap_preset:43
-key_key.journeymap.create_waypoint:48
+key_key.entityculling.toggle:-1
+key_Profile GUI:0
+key_Chunk loading minimap:0
+key_Chunk redraw visualization:0
 key_sharewhereiam.keybinding.KEYBINDING_SHARE_NAME:210
 key_key.craftpresence.config_keycode.name:0
 soundCategory_master:1.0
