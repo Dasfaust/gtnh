@@ -1,37 +1,47 @@
 // For more info visit https://github.com/GTNewHorizons/ServerUtilities
 
 [survivor]
+priority: 1
 default_player_rank: true
 power: 1
 serverutilities.chat.name_format: <&e{name}&r>
 serverutilities.claims.max_chunks: 200
 serverutilities.chunkloader.max_chunks: 100
 serverutilities.chunkloader.load_offline: true
-serverutilities.homes.max: 5
+serverutilities.homes.max: 1
 serverutilities.homes.cross_dim: true
+serverutilities.back.home: true
+serverutilities.back.spawn: true
+serverutilities.back.tpa: true
+serverutilities.chat.speak: true
+serverutilities.back.rtp: true
+serverutilities.claims.block.edit.openblocks.grave: true
 
 [supporter]
+priority: 2
 power: 2
 serverutilities.chat.name_format: <&a{name}&r>
 parent: survivor
 
 [mvp]
+priority: 3
 power: 3
 serverutilities.chat.name_format: <&2{name}&r>
 parent: supporter
 
 [survivalist]
+priority: 4
 power: 4
 serverutilities.chat.name_format: <&b{name}&r>
 parent: mvp
 
 [mod]
+priority: 5
 power: 50
 serverutilities.chat.name_format: <&9{name}&r>
 parent: survivalist
 
 [admin]
-default_op_rank: true
+priority: 6
 power: 100
 serverutilities.chat.name_format: <&c{name}&r>
-parent: mod

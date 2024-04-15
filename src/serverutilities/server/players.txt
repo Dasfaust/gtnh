@@ -1,1 +1,21 @@
 // For more info visit https://github.com/GTNewHorizons/ServerUtilities
+
+// LordRengence
+[33e948d06fbb45b29905e946e48f87db]
+parent: mod
+
+// Dasfaust
+[98409180ce4048b2817c4df1ef3fac51]
+parent: admin
+
+// Hellcatt001
+[16bfe3472d4e44c28d32c7360c10b04d]
+parent: mod
+
+// Cinder_X
+[1d91fa5bb52f4741b0c2d1d7eced92d4]
+parent: mod
+
+// KodaRadar
+[4c4a81c08c8a4bfe93d52d7d3dc46f29]
+parent: mod
