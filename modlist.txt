@@ -245,3 +245,5 @@ XaerosWorldMap_1.14.1.31_Forge_1.7.10.jar
 Xaeros_Minimap_21.10.41_Forge_1.7.10.jar
 YAMCore-0.6.0.jar
 Ztones-1.7.10-2.2.2.jar
+[1.7.10]bspkrsCore-universal-6.16.jar
+[1.7.10]StatusEffectHUD-client-1.27.jar
