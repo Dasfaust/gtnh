@@ -127,6 +127,7 @@ IronChest-6.0.85.jar
 IronChestMinecarts-1.1.0.jar
 irontanks-1.3.0.jar
 JABBA-1.3.3.jar
+JustEnoughCalculation-1.7.10-4.0.jar
 kekztech-0.10.4.jar
 kubatech-0.14.7.jar
 laggoggles-mc1.7.10-4.15.0.jar
