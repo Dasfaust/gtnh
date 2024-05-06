@@ -3625,7 +3625,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_00836_Index_07=原木：锯（1x），圆锯（2x），链锯（4x）
     S:TileEntity_DESCRIPTION_00836_Index_08=树苗：剪枝器 (GT) (1x)，剪枝器 (林业) (3x)
     S:TileEntity_DESCRIPTION_00836_Index_09=  树叶：剪刀(1x),剪线钳(2x),自动剪线钳(4x)
-    S:TileEntity_DESCRIPTION_00836_Index_10=工具也可通过输入总线送入控制器中
+    S:TileEntity_DESCRIPTION_00836_Index_10=  Fruit: Knife (1x)
     S:TileEntity_DESCRIPTION_00836_Index_11=可以同时使用多种工具
     S:TileEntity_DESCRIPTION_00836_Index_12=-----------------------------------------
     S:TileEntity_DESCRIPTION_00836_Index_13=工作时间固定为5秒
@@ -16782,7 +16782,7 @@ languagefile {
     S:for.bees.species.sandwich=三明治
     S:for.bees.species.sapphire=蓝宝石
     S:for.bees.species.saturn=土星
-    S:for.bees.species.seaweed=藻类
+    S:for.bees.species.seaweed=海藻
     S:for.bees.species.shadowmetal=暗影金属
     S:for.bees.species.silver=银
     S:for.bees.species.silverfish=蠹虫
@@ -64592,7 +64592,7 @@ languagefile {
     S:gt.metaitem.02.32481.tooltip=可作覆盖板时
     S:gt.metaitem.02.32482.name=猴面包树木板
     S:gt.metaitem.02.32482.tooltip=可作覆盖板时
-    S:gt.metaitem.02.32483.name=红衫木木板
+    S:gt.metaitem.02.32483.name=红杉木木板
     S:gt.metaitem.02.32483.tooltip=可作覆盖板时
     S:gt.metaitem.02.32484.name=木棉木木板
     S:gt.metaitem.02.32484.tooltip=可作覆盖板时

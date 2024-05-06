@@ -283,7 +283,7 @@ item.railcraft.tool.surveyor.tip=Sinyalleri , Sinyal Bloklarına Bağlar
 item.railcraft.tool.whistle.tuner.name=Islık Ayarlayıcı
 
 
-item.railcraft.upgrade.lapotron=Lapotron Yükleyici Yükseltmesi
+item.railcraft.upgrade.lapotron.name=Lapotron Loader Upgrade
 
 item.synthetic=Sentetik
 
@@ -295,7 +295,7 @@ railcraft.color.gray=Gri
 railcraft.color.green=Yeşil 
 railcraft.color.light.blue=Açık Mavi
 railcraft.color.light.gray=Açık Gri 
-railcraft.color.lime=Açık Yeşil 
+railcraft.color.lime=Açık Yeşil
 railcraft.color.magenta=Magenta
 railcraft.color.orange=Turuncu
 railcraft.color.pink=Pembe

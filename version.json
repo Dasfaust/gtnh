@@ -1652,7 +1652,7 @@
             ]
         },
         {
-            "name": "com.github.GTNewHorizons:lwjgl3ify:2.0.2:forgePatches",
+            "name": "com.github.GTNewHorizons:lwjgl3ify:2.0.7:forgePatches",
             "url": "https://nexus.gtnewhorizons.com/repository/public/"
         },
         {
@@ -1726,7 +1726,7 @@
     },
     "mainClass": "com.gtnewhorizons.retrofuturabootstrap.Main",
     "minimumLauncherVersion": 21,
-    "releaseTime": "2024-03-23T11:11:24Z",
-    "time": "2024-03-23T11:11:24Z",
+    "releaseTime": "2024-04-28T06:39:56Z",
+    "time": "2024-04-28T06:39:56Z",
     "type": "release"
 }
