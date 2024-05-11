@@ -7,7 +7,7 @@ AFSU-1.3.0-GTNH.jar
 alchgrate-1.1.0-GTNH.jar
 amazingtrophies-1.2.1.jar
 AmunRa-GC-0.5.1.jar
-angelica-1.0.0-alpha40.jar
+angelica-1.0.0-alpha35.jar
 AngerMod-0.7.1.jar
 AppleCore-3.3.0.jar
 appliedenergistics2-rv3-beta-352-GTNH.jar
@@ -46,7 +46,7 @@ bugtorch-1.2.13-GTNH.jar
 buildcraft-7.1.39.jar
 buildcraft-compat-7.1.17.jar
 BuildCraftOilTweak-1.1.1.jar
-CarpentersBlocks-3.5.3-GTNH.jar
+CarpentersBlocks-3.6.0-GTNH.jar
 catwalks-2.2.1-GTNH.jar
 chisel-2.14.1-GTNH.jar
 chiseltones-1.1.0-GTNH.jar
@@ -64,6 +64,7 @@ creativecore-1.4.0-GTNH.jar
 CropLoadCore-0.2.0.jar
 CropsPP-1.6.5.jar
 custommainmenu-1.11.2.jar
+DamageTilt-1.7.10-0.1.0.jar
 defaultkeys-1.2.0.jar
 defaultserverlist-1.5.0.jar
 defaultworldgenerator-0.3.0.jar
@@ -110,7 +111,7 @@ HardcoreEnderExpansion-1.10.1-GTNH.jar
 harvestcraft-1.1.10-GTNH.jar
 Healer-1.2.1.jar
 HelpFixer-1.2.0.jar
-hodgepodge-2.4.43.jar
+hodgepodge-2.5.0.jar
 holoinventory-2.4.7-GTNH.jar
 HungerOverhaul-1.7.10-1.0.0.jenkins104.jar
 hydroenergy-1.2.0.jar
@@ -245,5 +246,3 @@ XaerosWorldMap_1.14.1.31_Forge_1.7.10.jar
 Xaeros_Minimap_21.10.41_Forge_1.7.10.jar
 YAMCore-0.6.0.jar
 Ztones-1.7.10-2.2.2.jar
-[1.7.10]bspkrsCore-universal-6.16.jar
-[1.7.10]StatusEffectHUD-client-1.27.jar
