@@ -1,21 +1,21 @@
 ## General Stuff ##
 
-wp.hud.msg.yes=Yes
-wp.hud.msg.no=No
+wp.hud.msg.yes=はい
+wp.hud.msg.no=いいえ
 
-wailaplugins.config.title=WAILAPlugins Configuration
-wailaplugins.config.section.blood_magic=Blood Magic Settings
-wailaplugins.config.section.railcraft=Railcraft Settings
-wailaplugins.config.section.plugins=Global Plugin Settings
+wailaplugins.config.title=WAILAPlugins Config設定
+wailaplugins.config.section.blood_magic=Blood Magic 設定
+wailaplugins.config.section.railcraft=Railcraft 設定
+wailaplugins.config.section.plugins=グローバルプラグイン設定
 
 ## Blood Magic ##
 
 wp.hud.msg.currentLP=Current LP: 
-wp.hud.msg.capacity=Capacity: 
+wp.hud.msg.capacity=容量: 
 wp.hud.msg.tier=Tier: 
-wp.hud.msg.progress=Progress: 
+wp.hud.msg.progress=進捗状況: 
 
-wp.hud.msg.owner=Owner: 
+wp.hud.msg.owner=所有者: 
 
 wp.config.AWWayofTime.altar=Show Altar
 wp.config.AWWayofTime.chemistrySet=Show Chemistry Set
@@ -44,7 +44,7 @@ wp.hud.msg.pollinated=Pollinated With: %s
 
 wp.hud.msg.mainbee=Current %s: %s
 wp.hud.msg.secondarybee=Breeding %s: %s
-wp.hud.msg.breedProgress=Work Progress: %s
+wp.hud.msg.breedProgress=進捗状況: 
 wp.hud.msg.breedError=Error: %s
 
 wp.hud.msg.effectiveProductionMul=Effective Production: %s
@@ -73,10 +73,10 @@ wp.config.Gregtech5U.basicmachine=Show Basicmachine Info
 
 ## IC2 Crops
 
-wp.config.IC2Crops.cropName=Show Crop Names
-wp.config.IC2Crops.cropStats=Show Crop Stats
-wp.config.IC2Crops.plantInfo=Show Plant Info
-wp.config.IC2Crops.envInfo=Show Environment Info
+wp.config.IC2Crops.cropName=作物の名前を表示
+wp.config.IC2Crops.cropStats=作物のGGR値を表示
+wp.config.IC2Crops.plantInfo=作物の散布物を表示
+wp.config.IC2Crops.envInfo=作物のNHA値を表示
 
 ## Magical Crops ##
 
@@ -94,29 +94,29 @@ wp.config.Mekanism.energy=Show Energy
 
 ## Railcraft ##
 
-wp.hud.msg.formed=Formed: %s
+wp.hud.msg.formed=構造体: %s
 
-wp.hud.msg.generating=Generating: %d RF/t
-wp.hud.msg.engineTemp=Temperature: %d / %d °C
-wp.hud.msg.temp=Temperature: %d °C
-wp.hud.msg.energyStored=Stored: %s
+wp.hud.msg.generating=発電量: %d RF/tick
+wp.hud.msg.engineTemp=温度: %d / %d °C
+wp.hud.msg.temp=温度: %d °C
+wp.hud.msg.energyStored=蓄電量: %s
 
-wp.hud.msg.charge=Charge: %s
-wp.hud.msg.needMeter=Hold Charge Meter
+wp.hud.msg.charge=蓄電量: %s
+wp.hud.msg.needMeter=《電力量計／Electric Meter》で確認
 
-wp.hud.msg.currentRate=Current rate: %d (%d L/s)
-wp.hud.msg.biomeHumidityRate=Biome humidity rate: %d
-wp.hud.msg.rainingRate=Raining rate: %d
-wp.hud.msg.snowingRate=Snowing rate: %d
-wp.hud.msg.cantSeeTheSkyRate=Can't see the sky rate: %d
+wp.hud.msg.currentRate=現在効率: %d (%d mB/s)
+wp.hud.msg.biomeHumidityRate=バイオーム湿度効率: %d
+wp.hud.msg.rainingRate=雨天効率: %d
+wp.hud.msg.snowingRate=雪天効率: %d
+wp.hud.msg.cantSeeTheSkyRate=空が塞がれた効率: %d
 
-wp.config.Railcraft.charge=Show Charge
-wp.config.Railcraft.energy=Show RF Energy
-wp.config.Railcraft.engines=Show Engine Info
-wp.config.Railcraft.heat=Show Heat Info
-wp.config.Railcraft.locomotives=Show Locomotives Info
-wp.config.Railcraft.multiblocks=Show Multiblock Formation
-wp.config.Railcraft.tanks=Show Machine Fluid Info
+wp.config.Railcraft.charge=RC電力を表示
+wp.config.Railcraft.energy=RF電力を表示
+wp.config.Railcraft.engines=エンジンの情報を表示
+wp.config.Railcraft.heat=熱量を表示
+wp.config.Railcraft.locomotives=機関車の情報を表示
+wp.config.Railcraft.multiblocks=マルチブロック構造体の認識を表示
+wp.config.Railcraft.tanks=機械の液体量を表示
 
 
 ## RedLogic ##

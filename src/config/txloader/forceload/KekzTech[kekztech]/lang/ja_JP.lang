@@ -7,15 +7,15 @@ mbdesc.beginStructureBlock.Structure=Structure
 mbdesc.addController.Controller=Controller
 mbdesc.addCasing.atleast=(at least)
 mbdesc.addEnergyHatch.EnergyHatch=Energy Hatch
-mbdesc.addDynamoHatch.DynamoHatch=Dynamo Hatch
-mbdesc.addMaintenanceHatch.MaintenanceHatch=Maintenance Hatch
+mbdesc.addDynamoHatch.DynamoHatch=ダイナモハッチ
+mbdesc.addMaintenanceHatch.MaintenanceHatch=メンテナンスハッチ
 mbdesc.addIOHatches.IOHatches=I/O Hatches
 mbdesc.addInputBus.InputBus=Input Bus/ses
 mbdesc.addInputHatch.InputHatch=Input Hatch/es
 mbdesc.addOutputBus.OutputBus=Output Bus/ses
 mbdesc.addOutputHatch.OutputHatch=Output Hatch/es
 mbdesc.signAndFinalize.Hold=Hold
-mbdesc.signAndFinalize.todisplay=to display structure guidelines
+mbdesc.signAndFinalize.todisplay=を押して構造ガイドを表示します
 mbdesc.signAndFinalize.createdby=Created by
 
 # -------- Fuel Cell: Structure Blocks
@@ -23,13 +23,13 @@ tile.kekztech_gdcceramicelectrolyteunit_block.name=GDC Ceramic Electrolyte Unit
 tile.kekztech_yszceramicelectrolyteunit_block.name=YSZ Ceramic Electrolyte Unit
 
 # -------- Fuel Cell: Crafting Components
-item.kekztech_crafting_item.9.name=YSZ Ceramic Dust
-item.kekztech_crafting_item.10.name=GDC Ceramic Dust
-item.kekztech_crafting_item.11.name=Yttria Dust
-item.kekztech_crafting_item.12.name=Zirconia Dust
-item.kekztech_crafting_item.13.name=Ceria Dust
-item.kekztech_crafting_item.14.name=YSZ Ceramic Plate
-item.kekztech_crafting_item.15.name=GDC Ceramic Plate
+item.kekztech_crafting_item.9.name=YSZセラミックの粉
+item.kekztech_crafting_item.10.name=GDCセラミックの粉
+item.kekztech_crafting_item.11.name=酸化イットリウムの粉
+item.kekztech_crafting_item.12.name=ジルコニアの粉
+item.kekztech_crafting_item.13.name=酸化セリウムの粉
+item.kekztech_crafting_item.14.name=YSZセラミックプレート
+item.kekztech_crafting_item.15.name=GDCセラミックプレート
 
 # -------- TFFT: Structure Blocks
 tile.kekztech_tfftstoragefield_block.0.name=T.F.F.T Casing

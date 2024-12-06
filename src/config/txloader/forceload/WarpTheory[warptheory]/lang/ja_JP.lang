@@ -1,6 +1,6 @@
 
 # << creative tab name >>
-itemGroup.warptheory.tab=Warp Theory
+itemGroup.warptheory.tab=WarpTheory
 
 # << chat item effects >>
 chat.warptheory.purgeminor=You feel a little better
@@ -32,7 +32,7 @@ entity.WarpTheory.phantom.name=Phantom
 
 # << tooltips >>
 tooltip.warptheory.cleanserminor=It's missing something...
-tooltip.warptheory.cleanser=Crunchy
+tooltip.warptheory.cleanser=サクサク
 tooltip.warptheory.amulet=Purges Warp
 tooltip.warptheory.something=Probably edible...
 tooltip.warptheory.paper=Reacts to Warp
@@ -127,4 +127,4 @@ chat.warptheory.wanddrain=Your wand feels a bit warm...
 chat.warptheory.witherpotion=You feel absolutely terrible...
 
 # << Research stuff >>
-tc.research_category.WT_Category=Warp Theory
+tc.research_category.WT_Category=歪術 - Warp Theory

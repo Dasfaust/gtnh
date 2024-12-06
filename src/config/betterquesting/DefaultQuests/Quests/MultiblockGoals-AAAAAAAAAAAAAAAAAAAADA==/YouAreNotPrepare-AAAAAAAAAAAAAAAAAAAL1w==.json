@@ -29,11 +29,11 @@
       "globalShare:1": 0,
       "questLogic:8": "XOR",
       "repeat_relative:1": 1,
-      "name:8": "§e§e§a§9§7§7§e§d§c§b§a§9§0§b§f§k§f§l§e§lYou Are Not Prepared!!!",
+      "name:8": "§f§k§f§l§e§lYou Are Not Prepared!!!",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "It\u0027s time for something really big: A smeltery! There\u0027s a lot to craft, so better gather some resources... or you could go try complete this with the help of some unhappy NPC friends, but that would void your quest rewards.\n\n§bNote: This quest is mutually exclusive with the other smeltery quest."
+      "desc:8": "It\u0027s time for something really big: A smeltery! There\u0027s a lot to craft, so better gather some resources... or you could go try complete this with the help of some unhappy NPC friends, but that would void your quest rewards.\n\n[note]Note: This quest is mutually exclusive with the other smeltery quest.[/note]"
     }
   },
   "tasks:9": {

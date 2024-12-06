@@ -50,6 +50,7 @@ botaniamisc.clickToSee=Clic para leer
 botaniamisc.shiftToRemove=Shift-clic para quitar
 botaniamisc.clickToAdd=Añadir marcador
 botaniamisc.ratio=Zoom: %sx
+botaniamisc.neiratio=Zoom (shift to zoom out)
 botaniamisc.bottleTooltip=Tiene un gusto refinado
 botaniamisc.coarseDirt0=Tierra basta, la hierba
 botaniamisc.coarseDirt1=no crece sobre ella
@@ -62,7 +63,7 @@ botaniamisc.noLexicon=Necesitas un Lexica Botania en la mano para leer eso.
 botaniamisc.cantOpen=Parece que tu Lexica Botania no tiene esa página. ¿Quizás venga de una fuente externa?
 botaniamisc.clickToShare=Comparte
 botaniamisc.drop=Deja caer
-botaniamisc.dropTip0=Consejo: puedes presionar %key% en tu inventario para dejarlo caer
+botaniamisc.dropTip0=Consejo: puedes pulsar %key% en tu inventario para soltarlo
 botaniamisc.dropTip1=CTRL-%key% dejará caer el montón entero
 botaniamisc.wandMode.bind=Modo vínculo
 botaniamisc.wandMode.function=Modo función
@@ -340,7 +341,7 @@ manaEnchanter.enabled=Habilita encantador de maná
 manaFluxfield.enabled=Habilita flujificador de maná
 relics.enabled=Habilita reliquias
 18stones.enabled=Habilita piedras de la 1.8 
-ringOfOdin.fireResist=Habilita anillo de Odín,resistencia al fuego
+ringOfOdin.fireResist=Habilitar Resistancia contra el Fuego del Anillo de Odín
 flower.forceCheck=Comprueba fuerza de flor 
 enderPickpocket.enabled=Habilita robo de los endermans
 thermalily.obsidian=Termalila necesita obsidiana
@@ -447,7 +448,7 @@ botania.versioning.disabled=Lo sentimos. Esta característica está deshabilitad
 botania.baubletype.amulet=Equipable en la ranura para &aamuleto&7
 botania.baubletype.ring=Equipable en la ranura para &aanillo&7
 botania.baubletype.belt=Equipable en la ranura para &acinturón&7
-botania.baubletooltip=Oprime la &b%key%&7 para abrir el menú de ornamentos
+botania.baubletooltip=Pulsa &b%key%&7 para abrir el menú de Baubles
 
 # RELIC POEMS
 item.dice.poem0=Echa las cartas para encontrar respuesta,
@@ -673,7 +674,7 @@ tile.botania:spreader0.name=Esparcidor de maná
 tile.botania:spreader1.name=Esparcidor de maná de redstone
 tile.botania:spreader2.name=Esparcidor de maná élfico
 tile.botania:spreader3.name=Esparcidor de maná de Gaia
-tile.botania:pool0.name=Pila de maná
+tile.botania:pool0.name=Piscina de maná
 tile.botania:pool1.name=Pila de culpa perpetua
 tile.botania:pool2.name=Pila de maná diluida
 tile.botania:pool3.name=Fabulous Mana Pool
@@ -1209,21 +1210,21 @@ tile.botania:manaGlassPane.name=Managlass Pane
 tile.botania:elfGlassPane.name=Alfglass Pane
 tile.botania:bifrostPermPane.name=Bifrost Pane
 tile.botania:teruTeruBozu.name=Teru Teru Bozu
-tile.botania:shimmerrock.name=Shimmerrock
-tile.botania:shimmerrock0Slab.name=Shimmerrock Slab
-tile.botania:shimmerrock0SlabFull.name=Shimmerrock Slab
-tile.botania:shimmerrock0Stairs.name=Shimmerrock Stairs
-tile.botania:shimmerwoodPlanks.name=Shimmerwood Planks
-tile.botania:shimmerwoodPlanks0Slab.name=Shimmerwood Plank Slab
-tile.botania:shimmerwoodPlanks0SlabFull.name=Shimmerwood Plank Slab
-tile.botania:shimmerwoodPlanks0Stairs.name=Shimmerwood Plank Stairs
-tile.botania:avatar.name=Livingwood Avatar
-tile.botania:altGrass0.name=Dry Grass
-tile.botania:altGrass1.name=Golden Grass
-tile.botania:altGrass2.name=Vivid Grass
-tile.botania:altGrass3.name=Scorched Grass
-tile.botania:altGrass4.name=Infused Grass
-tile.botania:altGrass5.name=Mutated Grass
+tile.botania:shimmerrock.name=Roca Brillante
+tile.botania:shimmerrock0Slab.name=Losa de Roca Brillante
+tile.botania:shimmerrock0SlabFull.name=Losa de Roca Brillante
+tile.botania:shimmerrock0Stairs.name=Escaleras de Roca Brillante
+tile.botania:shimmerwoodPlanks.name=Tablones de Roca Brillante
+tile.botania:shimmerwoodPlanks0Slab.name=Losa de Tablones de Roca Brillante
+tile.botania:shimmerwoodPlanks0SlabFull.name=Losa de Tablones de Roca Brillante
+tile.botania:shimmerwoodPlanks0Stairs.name=Escaleras de Tablones de Roca Brillante
+tile.botania:avatar.name=Avatar de Madera viviente
+tile.botania:altGrass0.name=Hierba Seca
+tile.botania:altGrass1.name=Hierba Dorada
+tile.botania:altGrass2.name=Hierba Vivida
+tile.botania:altGrass3.name=Hierba Chamuscada
+tile.botania:altGrass4.name=Hierba Imbuida
+tile.botania:altGrass5.name=Hierba Mutada
 
 # FLOWER NAMES
 tile.botania:flower..name=Flor de Botania
@@ -1465,7 +1466,7 @@ item.botania:terraformRod.name=Vara de Terra Firma
 item.botania:manaMirror.name=Espejo de maná
 item.botania:manasteelHelm.name=Casco de manacero
 item.botania:manasteelChest.name=Peto manacero
-item.botania:manasteelLegs.name=Grebas de manacero
+item.botania:manasteelLegs.name=Grebas de Manacero
 item.botania:manasteelBoots.name=Botas de manacero
 item.botania:manasteelPick.name=Pico de manacero
 item.botania:manasteelShovel.name=Pala de manacero
@@ -1478,7 +1479,7 @@ item.botania:grassHorn2.name=Cuerno de capa
 item.botania:terrasteel.name=Lingote de terracero
 item.botania:terrasteelHelm.name=Casco de terracero
 item.botania:terrasteelChest.name=Peto de terracero
-item.botania:terrasteelLegs.name=Grebas de terracero
+item.botania:terrasteelLegs.name=Grebas de Terracero
 item.botania:terrasteelBoots.name=Botas de terracero
 item.botania:terraSword.name=Hoja de Terra
 item.botania:tinyPlanet.name=Planeta diminuto
@@ -1690,7 +1691,7 @@ botania.brew.regen=revitalización
 botania.brew.regenWeak=restauración
 botania.brew.resistance=fortaleza
 botania.brew.fireResistance=piel magmática
-botania.brew.waterBreathing=agallas
+botania.brew.waterBreathing=Agallas
 botania.brew.invisibility=ocultamiento
 botania.brew.nightVision=vista de búho
 botania.brew.absorption=protección
@@ -2156,7 +2157,7 @@ botania.page.spreader5=Creando el &1esparcidor de maná&0
 botania.page.spreader10=Haciendo clic derecho sobre el esparcidor con un bloque de &1lana&0 lo recubrirá. aparte de hacerlo parecer más sofisticado, también reducirá el sonido que se produce al emitir un pulso, haciendo que sea bastante menos molesto cuando hay muchos esparcidores en una área.<br>Haciendo clic derecho con la mano vacía retirará esta cobertura.
 
 # -- MANA POOL
-botania.entry.pool=Pila de maná
+botania.entry.pool=Piscina de maná
 botania.tagline.pool=Mana storage for the masses
 botania.page.pool0=La &1pila de maná&0 es, en pocas palabras, un almacén de &4maná&0.<br>Se les puede meter maná usando &1esparcidores de maná&0 y cualquier &1esparcidor de maná&0 adjunto les extraerá maná de forma automática para aumentar su almacén interno.<br>Cualquier &4flor funcional&0 requiere una &1pila de maná&0 cerca de donde extraer energía.
 botania.page.pool9=Existen dos tipos de &1pilas de maná&0, una inferior, la &1diluida&0 que solo almacena una cantidad muy pequeña de &4maná&0 y no es capaz e infundir objetos, y una normal, que almacena hasta cien veces más que la diluida y puede infundir objetos.<br>Siempre que hable de "pila de maná", se hace referencia a la pila normal.
@@ -2882,7 +2883,7 @@ botania.page.teruTeruBozu0=&1Teru Teru Bozu&0 are known as amulets that can ward
 botania.page.teruTeruBozu1=Too spoopy
 
 # -- LIVINGWOOD AVATAR
-botania.entry.avatar=Livingwood Avatar
+botania.entry.avatar=Avatar de Madera viviente
 botania.tagline.avatar=Rod effects in a block
 botania.page.avatar0=Carving some &1Livingwood&0 and combining it with a &1Mana Diamond&0 heart creates an apparatus known as the &1Livingwood Avatar&0. By itself, this block doesn't do anything, aside from looking reasonably pretty.<br>However, giving it a &4Rod&0 can enable it to cast varied magic, depending on which one is given. At the cost of &4Mana&0, from a spreader, of course.
 botania.page.avatar1=Not all &4Rods&0 fit this criteria. Any that do, however, will have an explanation of what they can do when given to a &1Livingwood Avatar&0 on their entry.<br>A few examples of some rods that will work are the &1Rod of the Skies&0, &1Rod of the Hells&0 and &1Rod of the Plentiful Mantle&0.
@@ -3782,7 +3783,7 @@ botania.page.shedding0=Los seres vivos y no-muertos que moran nuestras tierras n
 # -- TINY POTATO
 botania.entry.tinyPotato=Patatita
 botania.tagline.tinyPotato=A potato friend for all of us
-botania.page.tinyPotato0=Es una patatita, ella cree en ti, tú puedes hacerlo.<br>En realidad no, así es, echando una &1patata&0 en una &1pila de maná&0, la patata obtiene un poco de esencia vital y felicidad.Es muy vivaz, dándole con clic derecho lo será aún más.
+botania.page.tinyPotato0=Es una patata diminuta, ella cree en ti, tú puedes hacerlo.<br>No, en serio, así es, echando una &1Patata&0 en una &1Piscina de Maná&0, la patata obtiene un poco de esencia vital y felicidad. Es muy vivaz, y dándole con clic derecho lo será aún más.<br>También se le puede dar nombre en un &1Yunque&0.
 botania.page.tinyPotato1=Ponla en Kickstarter, funcionará
 
 # -- HEAD CREATION
@@ -3802,7 +3803,7 @@ botania.page.azulejo3=Alternando entre patrones
 
 # -- STARFIELD CREATOR
 botania.entry.starfield=Creador de campo estrellado
-botania.tagline.starfield=Create a starry sky
+botania.tagline.starfield=Crea un cielo estrellado
 botania.page.starfield0=El &1creador de campo estrellado&0 hace lo que su nombre indica, soltando energías élficas al aire. Si se coloca en el mundo, por la noche creará un cielo estrellado a una distancia considerable.
 botania.page.starfield1=♪Estrellita que brillas...♪
 
@@ -3827,7 +3828,7 @@ botania.page.phantomInk1=¿A quién llamaras?
 
 # -- STONE ALCHEMY
 botania.entry.stoneAlchemy=Alquímia de piedras
-botania.tagline.stoneAlchemy=Create new stone types
+botania.tagline.stoneAlchemy=Crea nuevos tipos de piedra
 botania.page.stoneAlchemy0=El uso del &1catalizador alquímico&0 sirve como método de generar nuevos tipos de &1piedra&0. Muy simple, tirando una &1piedra&0 en la pila catalizadora lo transformará en otro, siguiendo un ciclo.<br>Al igual que la &1prismarina&0, algunos académicos admiten que esta técnica viene del futuro. Escaleras y losas se pueden hacer con piedras normales o ladrillos.
 botania.page.stoneAlchemy1=Creando las piedras
 botania.page.stoneAlchemy2=Puliendo
@@ -3836,13 +3837,13 @@ botania.page.stoneAlchemy4=Cincelando
 
 # -- BLAZE LIGHT
 botania.entry.blazeBlock=Luz de blaze
-botania.tagline.blazeBlock=Compact blaze storage and a renewable obsidian source
+botania.tagline.blazeBlock=Almacenamiento compacto de blaze y fuente renovable de obsidiana
 botania.page.blazeBlock0=Amalgamando un puñado de material de blaze crea un bloque decorativo luminoso. Es vulgar, cierto, pero es una fuente de luz no obstante.<br>Naturalmente, como un &1bloque de carbón&0, la &1luz de blaze&0 puede usarse como fuel en hornos y similares. Curiosamente, colocándolo junto a una &1margarita pura&0 lo convierte en &1obsidiana&0.
 botania.page.blazeBlock1=0x1a4
 
 # -- CHALLENGES
 botania.entry.challenges=Desafíos
-botania.tagline.challenges=Challenge yourself
+botania.tagline.challenges=Rétate a ti mismo
 botania.page.challenges0=Los &1desafíos&0 están disponibles en &1Lexica Botania&0 haciendo clic en la copa de la derecha en la página de inicio. Estos, como el nombre indica, desafía al jugador a crear mecanismos usando las características de solo de &1Botania&0 y &1Minecraft&0.<br>Por supuesto puedes usas artilugios de otros mods, pero eso no es tan divertido.
 botania.page.challenges1=Todos los desafíos son realizable, por supuesto. Requieren pensar y cierto conocimiento de los entresijos de la redstone y de las propias mecánicas de &1Botania&0.<br>Es muy recomendable que se hagan sin usas las características de mods externo, se han creado teniendo en cuenta eso, y no son desafíos si colocas un bloque que los solventa instantáneamente.
 botania.page.challenges2=Los desafíos no son obligatorios en absoluto, y no aportan ninguna recompensa material. Son simple sugerencias de lo que &1Botania&0 puede automatizar y solo es una muestra de todo lo que se puede hacer. Los desafíos completados se marcan manualmente.<br>Ten en cuenta que los límites de este mundo está en la imaginación propia, ¡así que no te conformes con solo estas ideas!
@@ -3855,7 +3856,7 @@ botania.page.cacophonium1=Digno de Les Luthiers
 botania.page.cacophonium2=For maximum cacophony, the &1Cacophonium&0 can be shift-right clicked onto a &1Note Block&0, creating the ability to sound off animal or monster sounds on demand.<br>You monster.
 
 # -- PORTUGUESE PAVEMENT
-botania.entry.pavement=Portuguese Pavement
+botania.entry.pavement=Pavimento Portugués 
 botania.tagline.pavement=Pavement for road building
 botania.page.pavement0=&1Portuguese Pavement&0 is a type of building block designed to be used to create detailed roads. It comes in various colors, all of which can be turned into slabs and stairs.<br>For those with experience in the arts of multiparts and microblocks, these blocks provide a great looking method to create patterns.
 botania.page.pavement1=These aren't slippery

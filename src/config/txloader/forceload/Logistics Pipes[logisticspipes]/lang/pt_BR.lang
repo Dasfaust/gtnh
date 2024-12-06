@@ -133,15 +133,15 @@ item.PipeItemsSystemDestinationLogistics.tip3=   matched Entrance Pipe
 item.PipeItemsSystemDestinationLogistics.tip4= - Both Entrance and Destination pipe
 item.PipeItemsSystemDestinationLogistics.tip5=   must share a coded frequency card.
 
-item.PipeItemsFirewall=Logistics Firewall Pipe
+item.PipeItemsFirewall=Tubulação Lógíca com Firewall
 item.PipeItemsFirewall.tip1=Type: Request Filter
-item.PipeItemsFirewall.tip2= - Allows connecting 'hostile' networks
+item.PipeItemsFirewall.tip2=- Permite a conexão de redes 'hostis'
 item.PipeItemsFirewall.tip3=   while allowing only certain items to pass
 
 item.PipeItemsFluidSupplier=Logistics Fluid Container Supplier
 item.PipeItemsFluidSupplier.tip1=Uses buckets or other fluid containers to fill the connected tank
 item.PipeFluidSupplierMk2=Logistics Fluid Supplier
-item.PipeFluidSupplierMk2.tip1=Pulls Fluids from a Logistics Fluid Provider Pipe
+item.PipeFluidSupplierMk2.tip1=Requests configured fluid from network then pulls into connected fluid tank
 item.LogisticsFluidConnectorPipe=Logistics Fluid Connector Pipe
 item.PipeFluidBasic=Logistics Fluid Basic Pipe
 item.PipeFluidInsertion=Logistics Fluid Insertion Pipe
@@ -151,27 +151,32 @@ item.PipeFluidExtractor=Logistics Fluid Extractor Pipe
 item.PipeFluidSatellite=Logistics Fluid Satellite Pipe
 item.PipeBlockRequestTable=Logistics Request Table
 
+item.logisticspipes.tip.active_destination=Valid destination for %cYELLOW Active%cGRAY  routes
+item.logisticspipes.tip.passive_destination=Valid destination for %cYELLOW Passive%cGRAY  routes
+item.logisticspipes.tip.active_source=Valid source for %cYELLOW Active%cGRAY  routes
+item.logisticspipes.tip.passive_source=Valid source for %cYELLOW Passive%cGRAY  routes
+
 # Modules
 
 #TODO: Add shift tooltip information
 
-item.ModuleBlank=Blank Module
+item.ModuleBlank=Módulo em Branco
 item.ModuleItemSink=ItemSink module
-item.ModulePassiveSupplier=Passive Supplier module
-item.ModuleExtractor=Extractor module
+item.ModulePassiveSupplier=Módulo Passivo de Fornecimento
+item.ModuleExtractor=Módulo extrator
 item.ModulePolymorphicItemSink=Polymorphic ItemSink module
 item.ModuleQuickSort=QuickSort module
 item.ModuleTerminus=Terminus module
 item.ModuleAdvancedExtractor=Advanced Extractor module
-item.ModuleExtractorMk2=Extractor MK2 module
-item.ModuleAdvancedExtractorMK2=Advanced Extractor MK2
-item.ModuleExtractorMk3=Extractor MK3 module
-item.ModuleAdvancedExtractorMK3=Advanced Extractor MK3
-item.ModuleProvider=Provider module
-item.ModuleProviderMk2=Provider module MK2
-item.ModuleElectricManager=Electric Manager module
-item.ModuleElectricBuffer=Electric Buffer module
-item.ModuleApiaristAnalyser=Bee Analyzer module
+item.ModuleExtractorMk2=Módulo extrator MK2 
+item.ModuleAdvancedExtractorMK2=Extrator Avançado MK2
+item.ModuleExtractorMk3=Módulo Extrator MK3
+item.ModuleAdvancedExtractorMK3=Extrator Avançado MK3
+item.ModuleProvider=Módulo provedor
+item.ModuleProviderMk2=Módulo provedor MK2
+item.ModuleElectricManager=Módulo de Gerenciamento elétrico
+item.ModuleElectricBuffer=Módulo de Buffer eléctrico
+item.ModuleApiaristAnalyser=Módulo Analisador de abelha
 item.ModuleApiaristSink=BeeSink module
 item.ModuleApiaristRefiller=Apiary Refiller module
 item.ModuleApiaristTerminus=Drone Terminus module
@@ -358,17 +363,17 @@ gui.firewall.Powerflow=Powerflow
 
 gui.fluidbasic.Empty=Empty
 
-gui.fluidsuppliermk2.Inventory=Inventory
 gui.fluidsuppliermk2.Fluid=Fluid
-gui.fluidsuppliermk2.Partial=Partial
-gui.fluidsuppliermk2.minMode=Min. Mode
-gui.fluidsuppliermk2.Yes=Sim
-gui.fluidsuppliermk2.No=No
+gui.fluidsuppliermk2.partial=Partial
+gui.fluidsuppliermk2.partial.tip=Allows the network to partially fulfill the required space
+gui.fluidsuppliermk2.partial.no=No
+gui.fluidsuppliermk2.partial.no.tip=§eNo§7: Fluid is pulled only if network has enough resources to fill the required space completely
+gui.fluidsuppliermk2.partial.yes=Yes
+gui.fluidsuppliermk2.partial.yes.tip=§eYes§7: Fluid is pulled even if network doesn't have enough resources to fill the required space completely
+gui.fluidsuppliermk2.refill_if_depleted=Refill on depletion at least
+gui.fluidsuppliermk2.refill_if_depleted.tip=Allows to request fluid only if the space is emptied by at least §e%s§r mB
+gui.fluidsuppliermk2.refill_if_depleted.tip.zero=§7Setting to §e0§7 disables the feature
 gui.fluidsuppliermk2.TargetInv=Fluid to keep stocked
-gui.fluidsuppliermk2.NONE=None
-gui.fluidsuppliermk2.ONEBUCKET=1 Bucket
-gui.fluidsuppliermk2.TWOBUCKET=2 Buckets
-gui.fluidsuppliermk2.FIVEBUCKET=5 Buckets
 
 gui.fluidsupplier.TargetInv=Fluids to keep stocked
 gui.fluidsupplier.Inventory=Inventory
@@ -455,6 +460,7 @@ gui.networkstatistics.gettasks=Acquire tasks
 gui.networkstatistics.add.alreadytracked=This item type is already tracked
 
 gui.settings.pipenewrenderer=Use New Renderer
+gui.settings.pipevborenderer=Use VBO Renderer (experimental)
 gui.settings.pipefallbackrenderer=Use Fallback Renderer
 gui.settings.piperenderdistance=Max. Distance for new Renderer
 gui.settings.pipecontentrenderdistance=Max. Distance for Pipe Content

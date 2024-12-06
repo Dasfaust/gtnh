@@ -126,6 +126,7 @@ GT5U.gui.text.no_space_station=§7Not on a space station
 GT5U.gui.text.invalid_depth=§7Invalid depth
 GT5U.gui.text.missing_project=§7Missing §b%s §7 at §b%s
 GT5U.gui.text.no_plasma=§7Not enough plasma
+GT5U.gui.text.invalid_overdrive=§7Invalid overdrive settings
 GT5U.gui.text.no_project_selected=§7Not working on any project
 ig.text.project=Project
 ig.text.upgrades=Upgrades
@@ -247,9 +248,9 @@ gt.blockmachines.multimachine.project.ig.research.desc0=우주 엘레베이터�
 gt.blockmachines.multimachine.project.ig.research.desc1=맨눈으로 태양을 보지 마세요
 
 # RecipeMaps
-gt.recipe.spaceMining=Space Mining
-gt.recipe.spaceAssembler=Space Assembler
-gt.recipe.spaceResearch=Space Research
+gt.recipe.spaceMining=우주 채광
+gt.recipe.spaceAssembler=우주 조립
+gt.recipe.spaceResearch=우주 연구
 
 # NEI
 ig.nei.spaceassembler.project=Needs %s

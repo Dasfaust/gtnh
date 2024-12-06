@@ -52,16 +52,16 @@ item.WG_Material.calculator.name=Ábaco Arcano
 item.WG_Material.cuttingTools.name=Herramientas de Joyero
 item.WG_Material.photoPlate.name=Placa Iconográfica
 item.WG_Material.developedPhoto.name=Iconográfica Revelada
-item.WG_Material.clusterAluminum.name=Aluminum Cluster
-item.WG_Material.clusterCobalt.name=Cobalt Cluster
-item.WG_Material.clusterArdite.name=Ardite Cluster
-item.WG_Material.clusterNickel.name=Nickel Cluster
-item.WG_Material.clusterFZDarkIron.name=Dark Iron Cluster
+item.WG_Material.clusterAluminum.name=Cúmulo de aluminio
+item.WG_Material.clusterCobalt.name=Cúmulo de cobalto
+item.WG_Material.clusterArdite.name=Cúmulo de ardita
+item.WG_Material.clusterNickel.name=Cúmulo de Níquel
+item.WG_Material.clusterFZDarkIron.name=Cúmulo de hierro oscuro
 item.WG_Material.guidingString.name=Hebra Guía
 item.WG_Material.powerlessPearl.name=Perla Impotente
 item.WG_Material.gemstoneDust.name=Polvo de Gema
 
-item.WG_Cluster.name=Native %1$s Cluster
+item.WG_Cluster.name=Cúmulo %1$s natural
 
 item.WG_Bag.normal.name=Bolsa de Trucos
 item.WG_Bag.void.name=Bolsa Vacuo-enlazada
@@ -172,7 +172,7 @@ wg.desc.gemcut.OVAL=Corte Ovalado
 wg.desc.gemaffinity=Afinidades Inherentes:
 wg.desc.gemaversion=Aversiones Inherentes:
 
-wg.desc.ctrlForAspectList=§7Pulsa y mantiene §aCtrl§7 para ver una lista de Aspectos§r
+wg.desc.ctrlForAspectList=§7Pulsa y mantén §aCtrl§7 para ver una lista de Aspectos§r
 wg.desc.scanCompleted=Escaneo Completado
 
 wg.desc.gearSlot.tg.0=Equipado en la ranura de §aCapa§7
@@ -268,7 +268,7 @@ witchinggadgets_research_name.LABYRINTHSTRING=Hebra Guía
 witchinggadgets_research_text.LABYRINTHSTRING=[WG] Ariadna estaría orgullosa
 witchinggadgets_research_page.LABYRINTHSTRING.1=Antaño los laberintos eran una buena forma de mantener secretos lejos de intrusos. El verdadero peligro, por supuesto, es no encontrar el camino de vuelta.<BR>Para evitarlo, has diseñado la Hebra Guía, un objeto que dejará un rastro de luz a medida que avances por sitios oscuros y ventosos. Haz click derecho para activarla o desactivarla. Mientras esté activa, recordará cada giro que des. No obstante, la luz solo será visible mientras lo tengas en la mano. Shift + click borrará su memoria.
 #
-witchinggadgets_research_name.LABELLIB=Aspect Library
+witchinggadgets_research_name.LABELLIB=Librería de Aspectos
 witchinggadgets_research_text.LABELLIB=[WG] ¡Indizar, pero en fácil!
 witchinggadgets_research_page.LABELLIB.1=Mientras movías tus esencias de un lado a otro, te has percatado de que preparar todas las etiquetas es bastante tedioso. Para no tener que andar embotelland ola esencia y pegándole la etiqueta constantemente has diseñado la biblioteca de aspectos. Es un bloque que registra todos los aspectos que has descubierto hasta ahora y se los aplica a las etiquetas. Basta con introducir una y elegir el aspecto con el que marcarla.
 
@@ -352,36 +352,36 @@ witchinggadgets_research_text.ALCHEMICALTRANSMOGRIFY=[WG] El césped crece; las 
 witchinggadgets_research_page.ALCHEMICALTRANSMOGRIFY.1=Ampliando tu extenso repertorio de procesos alquímicos, estas transmutaciones pueden usarse para revitalizar tierra, pulverizar adoquín o purificar grava.
 #
 witchinggadgets_research_name.PURECINNABAR=Purificación del Cinabrio
-witchinggadgets_research_text.PURECINNABAR=[WG] Purification of cinnabar into native clusters
-witchinggadgets_research_page.PURECINNABAR.1=Native clusters are rare concentrations of metals in its purest form. You have discovered a way to purify and concentrate normal cinnabar ore into a native cinnabar cluster.<BR>When smelted these clusters produces twice the normal amount of quicksilver.
+witchinggadgets_research_text.PURECINNABAR=Purificación de cinabrio en cúmulos naturales
+witchinggadgets_research_page.PURECINNABAR.1=Los cúmulos naturales son concentraciones de metales en su forma más pura. Has descubierto una forma de purificar y concentrar cinabrio normal en un cúmulo natural de cinabrio.<BR>Cuando se funden esos cúmulos producen el doble de la cantidad normal de mercurio.
 #
 witchinggadgets_research_name.METALLURGICPERFECTION_CLUSTERS=Perfección Metalúrgica: Purificación
-witchinggadgets_research_text.METALLURGICPERFECTION_CLUSTERS=[WG] Purifying most ores into native clusters
-witchinggadgets_research_page.METALLURGICPERFECTION_CLUSTERS.1=The process of metal purification has proven to be very similar for every metal you have tried it on so far.<BR>Following this logic, you have created a general theory for the process, allowing you to transform the majority of ores you encounter into purified clusters, richer in their metal concentration. Your knowledge has enabled you too higher the efficiency of the procedure as well.
+witchinggadgets_research_text.METALLURGICPERFECTION_CLUSTERS=[WG] Purificando la mayoría de los minerales en cúmulos naturales
+witchinggadgets_research_page.METALLURGICPERFECTION_CLUSTERS.1=El proceso de la purificación de metal ha demostrado ser muy similar para cada metal que has probado de lejos.<BR> Siguiendo esta lógica, has creado una teoría general para el proceso, permitiéndote transformar la mayoría de los minerales que encuentras en cúmulos purificados, más ricos en la concentración de metal. Tu conocimiento te ha permitido maximizar la eficiencia del proceso también
 #
 witchinggadgets_research_name.METALLURGICPERFECTION_TRANSMUTATION=[WIP] Perfección Metalúrgica: Transmutación
 witchinggadgets_research_text.METALLURGICPERFECTION_TRANSMUTATION=[WG] Transformando muchos metales en otros
 witchinggadgets_research_page.METALLURGICPERFECTION_TRANSMUTATION.1=El proceso de transmutación de metales ha resultado ser casi igual para todos los metales en los que la has intentado hasta ahora.<BR>Juntando dos y dos has desarrollado una teoría general para el proceso, permitiéndote sintetizar pepitas usando §5metallum§0 y los aspectos que identifican el metal.
 #
 witchinggadgets_research_name.PUREALUMINUM=Purificación de Aluminio
-witchinggadgets_research_text.PUREALUMINUM=[WG] Purification of aluminum into native clusters
-witchinggadgets_research_page.PUREALUMINUM.1=Native clusters are rare concentrations of metals in its purest form. You have discovered a way to purify and concentrate normal aluminum ore into a native aluminum cluster.<BR>When smelted these clusters produces twice the normal amount of aluminum ingots.
+witchinggadgets_research_text.PUREALUMINUM=Purificación de aluminio en cúmulos naturales
+witchinggadgets_research_page.PUREALUMINUM.1=Los cúmulos naturales son concentraciones de metales en su forma más pura. Has descubierto una forma de purificar y concentrar aluminio normal en un cúmulo natural de aluminio.<BR>Cuando se funden esos cúmulos producen el doble de la cantidad normal de lingotes de aluminio.
 #
 witchinggadgets_research_name.PURECOBALT=Purificación de Cobalto
-witchinggadgets_research_text.PURECOBALT=[WG] Purification of cobalt into native clusters
-witchinggadgets_research_page.PURECOBALT.1=Native clusters are rare concentrations of metals in its purest form. You have discovered a way to purify and concentrate normal cobalt ore into a native cobalt cluster.<BR>When smelted these clusters produces twice the normal amount of cobalt ingots.
+witchinggadgets_research_text.PURECOBALT=[WG] Purificación de cobalto en cúmulos naturales
+witchinggadgets_research_page.PURECOBALT.1=Los cúmulos naturales son concentraciones de metales en su forma más pura. Has descubierto una forma de purificar y concentrar cobalto en un cúmulo natural de cobalto.<BR>Cuando se funden esos cúmulos producen el doble de la cantidad normal de lingotes de cobalto.
 #
 witchinggadgets_research_name.PUREARDITE=Purificación de Ardita
-witchinggadgets_research_text.PUREARDITE=[WG] Purification of ardite into native clusters
-witchinggadgets_research_page.PUREARDITE.1=Native clusters are rare concentrations of metals in its purest form. You have discovered a way to purify and concentrate normal ardite ore into a native ardite cluster.<BR>When smelted these clusters produces twice the normal amount of ardite ingots.
+witchinggadgets_research_text.PUREARDITE=[WG] Purificación de ardita en cúmulos naturales
+witchinggadgets_research_page.PUREARDITE.1=Los cúmulos naturales son concentraciones de metales en su forma más pura. Has descubierto una forma de purificar y concentrar ardita en un cúmulo natural de ardita.<BR>Cuando se funden esos cúmulos producen el doble de la cantidad normal de lingotes de ardita.
 #
 witchinggadgets_research_name.PURENICKEL=Purificación de Níquel
-witchinggadgets_research_text.PURENICKEL=[WG] Purification of nickel into native clusters
-witchinggadgets_research_page.PURENICKEL.1=Native clusters are rare concentrations of metals in its purest form. You have discovered a way to purify and concentrate normal nickel ore into a native nickel cluster.<BR>When smelted these clusters produces twice the normal amount of nickel ingots.
+witchinggadgets_research_text.PURENICKEL=[WG] Purificación de níquel en cúmulos naturales
+witchinggadgets_research_page.PURENICKEL.1=Los cúmulos naturales son concentraciones de metales en su forma más pura. Has descubierto una forma de purificar y concentrar níquel en un cúmulo natural de níquel.<BR>Cuando se funden esos cúmulos producen el doble de la cantidad normal de lingotes de níquel.
 #
 witchinggadgets_research_name.PUREFZDARKIRON=Purificación de Hierro Oscuro
-witchinggadgets_research_text.PUREFZDARKIRON=[WG] Purification of dark iron into native clusters
-witchinggadgets_research_page.PUREFZDARKIRON.1=Native clusters are rare concentrations of metals in its purest form. You have discovered a way to purify and concentrate normal dark iron ore into a native dark iron cluster.<BR>When smelted these clusters produces twice the normal amount of dark iron ingots.
+witchinggadgets_research_text.PUREFZDARKIRON=[WG] Purificación de hierro oscuro en cúmulos naturales
+witchinggadgets_research_page.PUREFZDARKIRON.1=Los cúmulos naturales son concentraciones de metales en su forma más pura. Has descubierto una forma de purificar y concentrar hierro oscuro en un cúmulo natural de hierro.<BR>Cuando se funden esos cúmulos producen el doble de la cantidad normal de lingotes de hierro.
 
 #
 witchinggadgets_research_name.TRANSALUMINUM=Transmutación de Aluminio
@@ -391,7 +391,7 @@ witchinggadgets_research_page.TRANSALUMINUM.1=Has descubierto una manera de mult
 #INFERNALBLASTFURNACE
 witchinggadgets_research_name.INFERNALBLASTFURNACE=[WIP] Alto Horno Infernal
 witchinggadgets_research_text.INFERNALBLASTFURNACE=[WG] ¡QUEMA! ...funde, en realidad...
-witchinggadgets_research_page.INFERNALBLASTFURNACE.1=Burning with an intensely hot magical flame, this furnace is the Thaumaturge's response to the engineer's tedious steps of cleaning their ores. It will smelt any clusters of metal thrown within it into three ingots, which the occasional nugget added to that.<BR>Furthermore, should you require steel for other operations, the impure flame of this devilish artifact is a surefire way to get it. Simply throw in iron ingots or blocks and place Ignis essentia jars aside and wait.<BR>The speed of this construct can be increased by the same means as on the Infernal Furnace.
+witchinggadgets_research_page.INFERNALBLASTFURNACE.1=Ardiendo con una llama mágica intensamente caliente, este horno es la respuesta mágica a los tediosos pasos de ingeniería de limpiar los minerales. Fundirá cualquier cúmulo de metal lanzado dentro de él en tres lingotes, con la ocasional pepita de añadido.<BR>Además, deberías de conseguir acero para otros procesos, la llama impura de este demoníaco artefacto es una forma segura de conseguirlo. Simplemente tira dentro lingotes de hierro o bloques y coloca botellas de esencia de Ignis a un lado y espera.<BR>La velocidad de esta construcción puede ser incrementada de la misma forma que en el Horno Infernal.
 witchinggadgets_research_page.INFERNALBLASTFURNACE.2=Para procesos de cocina normal, esta llama es demasiado caliente, así que no intentes lanzar pollos adentro.<BR>Aviso: Aunque la lava de este horno has sido encantada, sigue siendo igual (si no más) de peligrosa. Cualquier objeto que no deba ser introducido en el horno será vaporizado, al igual que cualquier Taumaturgo tan idiota como para caerse dentro de él.
 witchinggadgets_research_page.INFERNALBLASTFURNACE.3=§oEl Taumonomicón es algo impreciso con la muestra de este constructo. Las escaleras de arriba deben mirar hacia el centro, con las esquinas encajando bien.§r
 
@@ -414,120 +414,120 @@ witchinggadgets_research_page.SCANCAMERA.2=Usa la §lCaja Táumica de Iconográf
 #SAUNASTOVE
 witchinggadgets_research_name.SAUNASTOVE=Estufa de Sauna Táumica
 witchinggadgets_research_text.SAUNASTOVE=[WG] ¡Mágia Finlandesa!
-witchinggadgets_research_page.SAUNASTOVE.1=Personal hygiene and spa-feeling seems to be the new trend among thaumaturges. To go along with it, this Sauna Stove will fill the area around it with a pleasant, cleansing steam.<BR>While subjected to this steam, you are protected from warp effects and you have a small chance of reducing your temporary warp. However, after a sauna visit you will also be left quite hungry!<BR>The Stove needs only water to work, which can be inserted with a fluid container like buckets or pumped in directly. One bucket of water will keep the stove going for 10 minutes!
-witchinggadgets_research_page.SAUNASTOVE.2=If you are a user of EnviroMine, the Sauna will also leave you thirsty and slightly overheated, but it as great effects on your sanity!
+witchinggadgets_research_page.SAUNASTOVE.1=La higiene personal y los spas parecen ser la nueva moda entre los taumaturgos. Esta Estufa de Sauna llena la zona cercana con un vapor agradable y límpido.<BR>Cuando se te aplique dicho vapor, estarás protegido temporalmente contra los efectos del warp y tienes una pequeña probabilidad de reducir tu warp temporal, ¡aunque tanto sudar te dará bastante hambre!<BR>La Estufa solo necesita agua para funcionar, que puedes insertar usando cualquier contenedor (como un cubo) o usando tuberías. Un cubo hace que la estufa funcione durante 10 minutos.
+witchinggadgets_research_page.SAUNASTOVE.2=Si usas EnviroMine, la Sauna también te dejará sediento y algo sobrecalentado, pero ¡funciona de mearavilla para curar tu salud mental!
 
 #CRYSTALCAPSULE
-witchinggadgets_research_name.CRYSTALCAPSULE=Crystal Capsule
-witchinggadgets_research_text.CRYSTALCAPSULE=[WG] From Venice with Love
-witchinggadgets_research_page.CRYSTALCAPSULE.1=Everyone can use a bucket!...sadly, not really. Some liquids out there dislike cooperating with mundane buckets, but even the hottest or viscous substance can not refuse the magical suction of glass prisms.<BR>These capsules are not cut, but instead molded from essentia, making them, crystal clear, flawless and impervious to aggressive substances.<BR>§oYou use this like a bucket, but it will work on any fluid block.§r
+witchinggadgets_research_name.CRYSTALCAPSULE=Cápsula de Cristal
+witchinggadgets_research_text.CRYSTALCAPSULE=[WG] Desde Venecia con Amor
+witchinggadgets_research_page.CRYSTALCAPSULE.1=¡Todo el mundo puede usar un cubo! ...tristemente, en realidad no. Algunos líquidos se llevan muy mal con los cubos mudanos, pero ni la sustancia más caliente ni la más viscosa puede resistir la succión mágica de los prismas de cirstal.<BR>Estas cápsulas no están cortadas, sino moldeadas en esencia, así que son completamente transparentes, perfectas y a prueba de sustancias agresibas.<BR>§oSe usa igual que un cubo, pero funciona en bloques de cualquier fluido.§r
 
 
 
 #-----------------------#
 #ENCHANTMENTS
 #-----------------------#
-witchinggadgets_research_name.ENCH_INVISIBLEGEAR=Enchantment: Translucency
-witchinggadgets_research_text.ENCH_INVISIBLEGEAR=[WG] Don't want none of that bling!
-witchinggadgets_research_page.ENCH_INVISIBLEGEAR.1=Armor is incredibly useful, everyone can agree on that. It will save your life in most fights. But it can also be a hindrance when you are trying to be stealthy.<BR>Say you drink a potion of invisibility. It works perfectly and makes you nigh untraceable, weren't it for that clunky armor. But the skilled Thaumaturge fixes that easily, infusing his armor with magical enchantments that make it invisible to the common viewer!<BR>The first level of this enchantment will make your gear translucent when you are invisible yourself, the second level will make it permanently invisible.
+witchinggadgets_research_name.ENCH_INVISIBLEGEAR=Encantamiento: Translucencia
+witchinggadgets_research_text.ENCH_INVISIBLEGEAR=[WG] ¡No quiero nada reluciente!
+witchinggadgets_research_page.ENCH_INVISIBLEGEAR.1=La armadura es muy útil—todo el mundo está de acuerdo. Te salvará la vida en las peleas. Pero también puede ser un problema cuando intentas ser sigiloso.<BR>Pongamos que bebes una poción de invisibilidad. Funciona perfectamente y te hace casi intrazable, si no fuera por tu armadura. Pero el Taumaturgo habilidoso soluciona eso fácilmente, infundiendo su armadura con encantamientos mágicos que la hacen invisible al ojo común.<BR>El primer de este encantamiento vuelve tus cosas invisibles cuando tú lo eres. El segundo, permanentemente.
 #
-witchinggadgets_research_name.ENCH_UNVEILING=Enchantment: Unveiling
-witchinggadgets_research_text.ENCH_UNVEILING=[WG] Goggles of the Ghostbuster
-witchinggadgets_research_page.ENCH_UNVEILING.1=Every Thaumaturge has those moments, when it feels like someone or something is watching them. But they look around, and nothing can be seen. With the right glasses, you can see those creeps, and look right back at them!<BR>This enchantment can be applied to the Goggles of Revealing or other headgear of the same function. While wearing the enchanted item, you will be able to see creatures with the invisibility buff. Furthermore, the Translucency enchantment is rendered ineffective when used by others and users of the spectral mantle are shown more clearly.
+witchinggadgets_research_name.ENCH_UNVEILING=Encantamiento: Desvelar
+witchinggadgets_research_text.ENCH_UNVEILING=[WG] Gafas del Cazafantasmas
+witchinggadgets_research_page.ENCH_UNVEILING.1=Todo Taumaturgo ha tenido esos momentos en los que parece que hay algo o alguien observándolo. Por mucho que miran a un lado y otro, no se ve nada. ¡Con las gafas correctas puedes ver a esos capullos y devolverles la mirada!<BR>Este encantamiento se puede aplicar a las Gafas de la Revelación u otros gorros que tengan el mismo efecto. Mientras los tengas puestos podrás ver criaturas con el efecto de invisibilidad. Además, el encantamiento de Translucencia de otros será inefectivo, y los usuarios del manto espectral se verán mejor.
 #
-witchinggadgets_research_name.ENCH_STEALTH=Enchantment: Stealth
-witchinggadgets_research_text.ENCH_STEALTH=[WG] Sneaky!
-witchinggadgets_research_page.ENCH_STEALTH.1=More often than not, sneaking is not an option due to the high senses of the creatures you face. Well now it is! Applying this enchantment to your boots or leggings will give you a chance of staying undetected while you are crouching. The chance rises by 10% with every level, but is diminished by 10% if you are in view of the target in question.<BR>Should you be discovered, all enemies in a 5 block radius will be notified.
+witchinggadgets_research_name.ENCH_STEALTH=Encantamiento: Sigilo
+witchinggadgets_research_text.ENCH_STEALTH=[WG] ¡Furtivo!
+witchinggadgets_research_page.ENCH_STEALTH.1=En muchas ocasiones, el sigilo no es una opción dado las cualidades de las criaturas enemigas. ¡Hasta ahora, claro! Aplicar este encantamiento a tus botas o perneras te dará una probabilidad de mantenerte indetectado cuando te agachas. La probabilidad aumenta en 10% por nivel, pero baja en 10% cuando se te mira directamente.<BR>Si te detectan, todos los enemigos en un radio de 5 bloques serán alertados.
 #
-witchinggadgets_research_name.ENCH_BACKSTAB=Enchantment: Backstabbing
-witchinggadgets_research_text.ENCH_BACKSTAB=[WG] Rogues do it from behind
-witchinggadgets_research_page.ENCH_BACKSTAB.1=With your newfound ability to sneak, comes a new option of combat. By attacking enemies from behind you use the element of surpise to avoid the enemy's defenses. Items enchanted with Backstabbing do additional 20% damage per level when attacking from behind, plus another 40% when the target is not aware of you.
+witchinggadgets_research_name.ENCH_BACKSTAB=Encantamiento: Apuñalar
+witchinggadgets_research_text.ENCH_BACKSTAB=[WG] A los pícaros les va hacerlo por detrás
+witchinggadgets_research_page.ENCH_BACKSTAB.1=Con tu recién hallada habilidad de sigilo viene una nueva opción de combate. Atacar enemigos por la espalda resta el elemento de sorpresa de las defensas del enemigo. Los objetos encantados con apuñalar hacen 20% más de daño por nivel cuando se ataca por la espalda, y otro 40% más si el enemigo no te ha detectado.
 #
-witchinggadgets_research_name.ENCH_RIDEPROTECT=Enchantment: Throwoff
-witchinggadgets_research_text.ENCH_RIDEPROTECT=[WG] Get off me!
-witchinggadgets_research_page.ENCH_RIDEPROTECT.1=Moving around is incredibly difficult when someone is piggyback-riding you. Enchanting your helmet with this repulsion spell should fix that problem. Everyone who tries to jump upon you will get thrown off and damaged.
+witchinggadgets_research_name.ENCH_RIDEPROTECT=Encantamiento: Lanzamiento
+witchinggadgets_research_text.ENCH_RIDEPROTECT=[WG] ¡Déjame en paz!
+witchinggadgets_research_page.ENCH_RIDEPROTECT.1=Moverse es muy difícil cuando hay alguien subido a tu espalda. Encantar tu casco con este repulsivo hechizo solucionará ese problema. Quienquiera que intente saltar sobre ti saldrá herido y despedido.
 #
-witchinggadgets_research_name.ENCH_SOULBOUND=Enchantment: Soul Tethered
-witchinggadgets_research_text.ENCH_SOULBOUND=[WG] Til death do us part. Or not.
-witchinggadgets_research_page.ENCH_SOULBOUND.1=Dying is somewhat of an inconvenience. Aside from being dead, you also tend to lose important things like tools, valuable materials, and armor. <BR>By infusing the strange properties of ender artifacts into an object, it seems to bind to your spirit and follows you from one life to the next. No more losing your favorite socks!<BR>Since the Infusion Altar can be a little fussy sometimes, it also comes in book form.
+witchinggadgets_research_name.ENCH_SOULBOUND=Encantamiento: Atado al Alma
+witchinggadgets_research_text.ENCH_SOULBOUND=[WG] Hasta que la muerte nos separe. O no.
+witchinggadgets_research_page.ENCH_SOULBOUND.1=Morir es ciertamente algo inconveniente. Aparte de estar muerto también sueles perder cosas importantes: herramientas, materiales valiosos, armadura...<BR>Aplicar las extrañas propiedades de los artefactos de ender a un objeto lo vincula a tu espíritu, haciendo que te siga de una vida a la siguiente. ¡Se acabó perder tus calcetines favoritos!<BR>Como el Altar de Infusión se pone esquisito a veces, también viene en forma de libro.
 
 
 #-----------------------#
 #GEMCUTTING
 #-----------------------#
-witchinggadgets_research_name.GEMCUTTING=Gem Cutting
-witchinggadgets_research_text.GEMCUTTING=[WG] Everything is crystal clear!
-witchinggadgets_research_page.GEMCUTTING.1=Gemcutting is one of the oldest yet most refined forms of giving magic a physical form. If a gem is infused with magic, it is no longer dependant on the user. Any mortal can use the power stored inside a cut gem, making this a viable option of giving power to those not skilled in the thaumaturgic arts.<BR>Gems vary in their function based on their cut and the magical essence infused into them.
+witchinggadgets_research_name.GEMCUTTING=Cortado de Gemas
+witchinggadgets_research_text.GEMCUTTING=[WG] ¡Todo es claro como el cristal!
+witchinggadgets_research_page.GEMCUTTING.1=Cortar gemas es una de las formas más viejas y refinadas de dar forma física a la magia. Si se infunde una gema con magia, ya no depende del usuario. Cualquier mortal puede usar el poder almacenado en ella, haciendo esto una forma viable de dar poder a los taumatúrgicamente ineptos.<BR>Las gemas tienen distintas funciones según el corte y la esencia infundida.
 
-witchinggadgets_research_page.GEMCUTTING.2=You can use the newly created cutting table to create these gems and infuse them with essence.<BR>Place a valid gem in the left slot and add ethereal essences or vials of essentia in the other three slots. The essences must be of the same aspect and will determine the strength of the resulting infused gem. Select a cut with the arrows and then pull the finished gem out of the right slot. Once a gem has been created, it cannot be repurposed.
-witchinggadgets_research_page.GEMCUTTING.3=§lNatural Affinities§r<BR>Some stones have inherent natural affinities for certain aspects, which applies a natural strengthening to their effect. If the affinity matches the infused aspect, the gem will be enchanted with "Brilliance", the level depending on the amount of essences used in the creation.<BR>§lNatural Aversions§r<BR>Similarly, some gems have natural aversions to certain aspect, and infusing them with them will make the resulting gem brittle, weakening it's effect and adding a chance for reusable gems to break.<BR> Hold shift while looking at a gem to see its affinities and aversions.
+witchinggadgets_research_page.GEMCUTTING.2=Puedes usar tu nueva mesa de cortado para crear estas gemas e infundirlas.<BR>Pon una gema válid a la izquierda y añade esencia etérea o viales de esencia en las otras ranuras. Todas tienen que ser del mismo aspecto y determinan la fuerza de la gema resultante. Elige un corte con las flechas y saca el resultado del lado derecho. Una vez se crea la gema, no se puede reutilizar.
+witchinggadgets_research_page.GEMCUTTING.3=§lAfinidades Naturales§r<BR>Algunas piedras tienen afinidades inherentes para ciertos aspectos, lo que refuerza naturalmente su efecto. Si la afinidad concuerda con el aspecto imbuido, la gema se encantará con Brillantez, cuyo nivel depende de la canitdad de esencia usada al crearla.<BR>§lAversiones Naturales§r<BR>Del mismo modo, algunas gemas se llevan mal con ciertos aspectos, e intentar infundirlos hará que la gema resultante sea frágil, debilitadno su efecto y haciendo que las gemas reusables se puedan romper<BR>Mantén Shift cuando miras a una gema para ver sus afinidades y aversiones.
 
-witchinggadgets_research_page.GEMCUTTING.4=            §lPoint Cut§r<LINE>The point cut is the most basic form you can give to your infused gem. While it can store thaumic energies, the only way to release this energy is by crushing the gem, leaving behind some gemstone dust. The effects varying by aspect, are as follows:<BR>§e§lAer: §r§0You acquire a short-term, high powered jumpboost.<BR>§2§lTerra: §r§0Grants you knockback resistance.<BR>§c§lIgnis: §r§0Illuminates an area around you with temporary glimmers of light.
-witchinggadgets_research_page.GEMCUTTING.5=§3§lAqua: §r§0Releases a blast of freezing energy, turning water into ice and solidifying lava around you.<BR>§f§lOrdo: §r§0Restores some of your hearts.<BR>§8§lPerditio: §r§0Inflicts some temporary warp upon you.
+witchinggadgets_research_page.GEMCUTTING.4=§lPoint Cut§r<LINE> El corte en punta es la forma más básica que le puedes dar a tu gema infundida. Mientras puede almacenar energías táumicas, la única manera de liberar esa energía es aplastando la gema, dejando algo de polvo de gema. Los efectos varían según el aspecto, como los siguientes:<BR>Aire: Consigues un aumento del salto a corto plazo.<BR>Tierra: Te da resistencia al empuje.<BR>Fuego: Ilumina el área cercana a ti con destellos de luz temporales.
+witchinggadgets_research_page.GEMCUTTING.5=Agua: Libera un estallido de energía gélida, convirtiendo el agua en hielo y solidificando la lava a tu alrededor.<BR>Ordo: Regenera parte de tus corazones.<BR>Perditio: Inflije curvatura temporal sobre ti.
 
-witchinggadgets_research_page.GEMCUTTING.6=              §lOval Cut§r<LINE>The oval cut is an advanced form of the infused gems. With the increase in facettes, it can store much more energy and release it in smaller, concentrated bursts. The effects are quite different from those of the point cut gems and these can be recharged with vis of a matching aspect.<BR>Due to its complexity, using a base gem without a natural affinity for the aspect makes the resulting gem very brittle, and in turn, the essentia required to create a brilliant gem has increased.
-witchinggadgets_research_page.GEMCUTTING.7=§e§lAer: §r§0The energies propel you through their air. Consumes 1 charge per use.<BR>§2§lTerra: §r§0Upon using it on a block, it checks connected blocks for ores. Consumes 1 charge per use.<BR>§c§lIgnis: §r§0Starts a fire at the targeted block. Consumes 1 charge per use.<BR>§3§lAqua: §r§0Creates a block of clean water at the targeted block. Consumes 2 charges per use.<BR>§7§lOrdo: §r§0Guides you to the nearest Node. Consumes 2 charges per use.<BR>§8§lPerditio: §r§0When targeted at a Magical Mirror, it will teleport you to the linked mirror. Consumes 16 charges per use. (May require sneak-clicking to operate)
-witchinggadgets_research_page.GEMCUTTING.7.noMirrors=§e§lAer: §r§0The energies propel you through their air. Consumes 1 charge per use.<BR>§2§lTerra: §r§0Will create a small safe room around of you. Material depends on strength. Consumes 1 charge per use.<BR>§c§lIgnis: §r§0Starts a fire at the targeted block. Consumes 1 charge per use.<BR>§3§lAqua: §r§0Creates a block of clean water at the targeted block. Consumes 2 charges per use.<BR>§f§lOrdo: §r§0Guides you to the nearest Node. Consumes 2 charges per use.<BR>§8§lPerditio: §r§0Releases a wave of energy, pushing back and blinding enemies around you. Consumes 2 charges per use.
+witchinggadgets_research_page.GEMCUTTING.6=Corte en óvalo<LINE>El corte en óvalo es una forma avanzada de las gemas imbuídas. Con el aumento de las caras, puede almacenar mucha más energía y liberarla en pequeñas y concentradas explosiones. Los efectos son un poquito diferentes a los de las gemas con corte en punta y estes pueden ser recargados con vis de un aspecto ígneo.<BR>Debido a su complejidad, usar una gema base sin una afinidad natural para el aspecto hace a la gema resultante muy frágil, además, la esencia requerida para crear una gema brillante es mayor
+witchinggadgets_research_page.GEMCUTTING.7=§e§lAer§r§0: Las energías te propulsan por el aire. Consume una carga por uso.<br>§2§lTerra§r§0: Al usarlo en un bloque busca menas cercanas conectadas a él. Consume una carga por uso.<br>§c§lIgnis§r§0: Prende fuego al bloque elegido. Consume una carga por uso.<br>§3§lAqua§r§0: Crea un bloque de agua sobre el bloque elegido. Consume dos cargas por uso.<br>§7§lOrdo§r§0: Te guia al Nodo más cercano. Consume dos cargas por uso.<br>§8§lPerditio§r§0: Cuando se apunta a un Espejo Mágico, te teletransporta al espejo al que está vinculado. Consume 16 cargas por uso, y puede requerir Shift+Click para funcionar.
+witchinggadgets_research_page.GEMCUTTING.7.noMirrors=§e§lAer§r§0: Las energías te propulsan por el aire. Consume una carga por uso.<br>§2§lTerra§r§0: Al usarlo en un bloque busca menas cercanas conectadas a él. Consume una carga por uso.<br>§c§lIgnis§r§0: Prende fuego al bloque elegido. Consume una carga por uso.<br>§3§lAqua§r§0: Crea un bloque de agua sobre el bloque elegido. Consume dos cargas por uso.<br>§7§lOrdo§r§0: Te guia al Nodo más cercano. Consume dos cargas por uso.
 #
-witchinggadgets_research_name.GEMCUT_TABLE=Table Cut
-witchinggadgets_research_text.GEMCUT_TABLE=[WG] Bling
-witchinggadgets_research_page.GEMCUT_TABLE.1=<IMG>witchinggadgets:textures/gui/research/gemcuts.png:80:0:80:80:1</IMG>The table cut is
-witchinggadgets_research_name.GEMCUT_STEP=Step Cut
-witchinggadgets_research_text.GEMCUT_STEP=[WG] Shwing
-witchinggadgets_research_page.GEMCUT_STEP.1=<IMG>witchinggadgets:textures/gui/research/gemcuts.png:160:0:80:80:1</IMG>The table cut is
-witchinggadgets_research_name.GEMCUT_ROSE=Rose Cut
-witchinggadgets_research_text.GEMCUT_ROSE=[WG] Sparkle
-witchinggadgets_research_page.GEMCUT_ROSE.1=<IMG>witchinggadgets:textures/gui/research/gemcuts.png:0:80:80:80:1</IMG>The table cut is
-witchinggadgets_research_name.GEMCUT_OVAL=Oval Cut
-witchinggadgets_research_text.GEMCUT_OVAL=[WG] Gleam
-witchinggadgets_research_page.GEMCUT_OVAL.1=<IMG>witchinggadgets:textures/gui/research/gemcuts.png:80:80:80:80:1</IMG>The oval cut is the perfection in gemcutting. It is used in the creation of baubles but can also be affixed to most armorpieces and tools, giving them socketed effects. See the following pages for a list.
+witchinggadgets_research_name.GEMCUT_TABLE=Corte en Mesa
+witchinggadgets_research_text.GEMCUT_TABLE=[WG] Brillante
+witchinggadgets_research_page.GEMCUT_TABLE.1=<IMG>witchinggadgets:textures/gui/research/gemcuts.png:80:0:80:80:1</IMG>El corte en mesa es
+witchinggadgets_research_name.GEMCUT_STEP=Corte en Pasos
+witchinggadgets_research_text.GEMCUT_STEP=[WG] Cortante
+witchinggadgets_research_page.GEMCUT_STEP.1=<IMG>witchinggadgets:textures/gui/research/gemcuts.png:160:0:80:80:1</IMG>El corte en mesa es
+witchinggadgets_research_name.GEMCUT_ROSE=Corte de Rosa
+witchinggadgets_research_text.GEMCUT_ROSE=[WG] Reluciente
+witchinggadgets_research_page.GEMCUT_ROSE.1=<IMG>witchinggadgets:textures/gui/research/gemcuts.png:0:80:80:80:1</IMG>El corte en mesa es
+witchinggadgets_research_name.GEMCUT_OVAL=Corte Ovalado
+witchinggadgets_research_text.GEMCUT_OVAL=[WG] Resplandeciente
+witchinggadgets_research_page.GEMCUT_OVAL.1=<IMG>witchinggadgets:textures/gui/research/gemcuts.png:80:80:80:80:1</IMG>El corte ovalado es la perfección a la hora de cortar gemas. Se usa en la creación de ornamentos, pero también se puede anexar a la mayoría de armaduras yherramientas, dándoles efectos adicionales. Las siguientes páginas contienen una lista de efectos.
 
 
 #-----------------------#
 #ELDRITCH
 #-----------------------#
-witchinggadgets_research_name.WGELDRITCHBASE=Eldritch Studies
-witchinggadgets_research_text.WGELDRITCHBASE=[WG] Gaze into the void
-witchinggadgets_research_page.WGELDRITCHBASE.1=Your studies have proven that Voidmetal makes fine tools, but it also serves well in creating strong barriers that appear impenetrable to any foreigners but allow their owner to pass straight through.
+witchinggadgets_research_name.WGELDRITCHBASE=Estudios del Elditch
+witchinggadgets_research_text.WGELDRITCHBASE=[WG] Mira al vacío
+witchinggadgets_research_page.WGELDRITCHBASE.1=Tus estudios han demostrado que el Metal del Vacío hace buenas herramientas, pero también sirve para hacer barreras que aparentan ser impenetrables—menos para su dueño, quien puede pasar sin problema.
 
 #PRIMORDIALGLOVE
-witchinggadgets_research_name.PRIMORDIALGLOVE=Primordial Gauntlet
-witchinggadgets_research_text.PRIMORDIALGLOVE=[WG] Other items sold separately
-witchinggadgets_research_page.PRIMORDIALGLOVE.1=The knowledge of the Primordial Pearl let you decipher some of the eldritch scribbles you dealt with before. They contained plans for an armorset designed to channel the energies of the void through gemstones. Sadly, only sketches of the gauntlet were decipherable.<BR>This gauntlet features an inbuilt §5Node Transducer§0, and when its claws close upon a node, it will never let it go again, unless it is replaced by another.<BR>The five sockets on this device will accept infused gems, and their power can be channeled through it, while their recharge speed is based on the aspects of the contained node.
-witchinggadgets_research_page.PRIMORDIALGLOVE.2=It should be noted that the sockets will stabilize the gems inside them, so they will never break upon use, but simply recharge.<BR>To select the active gem, the same keybinding as for switching wand foci is used. Sneak while pressing that key to open the inventory in order to add or remove gems.<BR>The pearl is not consumed during the crafting process.
+witchinggadgets_research_name.PRIMORDIALGLOVE=Guantelete Primordial
+witchinggadgets_research_text.PRIMORDIALGLOVE=[WG] Otras partes vendidas por separado
+witchinggadgets_research_page.PRIMORDIALGLOVE.1=El conocimiento de la Perla Primigenia te ha permitido descifrar algunos garabatos éldritch con los que has tratado antes. Contienen planes para una armadura diseñada par acanalizar las energías del vacío meidante gemas. Desafortunadamente solo algunos esbozos del guantelete fueron descifrables.<br>Este guantelete contiene un §5Transductor de nodos§0, y cuando sus zarpas se ciernen sobre un nodo, nunca lo sueltan a menos que sea reemplazado por otro.<br>Los cinco huecos en este dispositivo aceptan gemas infundidas, y su poder se puede canalizar a través de él, siendo la velocidad de recarda dependiente de los aspectos del nodo.
+witchinggadgets_research_page.PRIMORDIALGLOVE.2=Cabe destacar que los huecos estabilizan las gemas en ellos, asi que nunca se romperán.<br>Para cambiar la gema activa usa la misma tecla que para cambiar de focos en varitas. Agáchate mientras lo haces para abrir el inventario para poner o quitar gemas.<br>La perla no se consume al craftear el guantelete.
 
 #PRIMORDIALGEARSET
-witchinggadgets_research_name.PRIMORDIALGEARSET=Primal Revelation
-witchinggadgets_research_text.PRIMORDIALGEARSET=[WG] War on the Eldritch!
-witchinggadgets_research_page.PRIMORDIALGEARSET.1=Like a flash of lightning, the scribbles unrecognizable before now seem crystal clear. You have restored the pages on Primordial Smithing, the art of highenergetic infusion. With it you shall create pieces of gear that surpass your current by lengths. It's designs indicate clearly that these items were not meant for travelling Thaumaturges. This is preparation for the unavoidable conflict with the creatures of the Void. And what's best to combat them than the metal created with their knowledge?<BR>You shall mold items from full blocks of Void metal, items of raw primal power, to protect and arm you.
-witchinggadgets_research_page.PRIMORDIALGEARSET.2=But that's not all! The runes and sockets on said gear will be the perfect for imbuing processes, strengthening their potential even further. Each piece is infused with elemental abilities, increasing their potential immensely!
+witchinggadgets_research_name.PRIMORDIALGEARSET=Revelación Primigenia
+witchinggadgets_research_text.PRIMORDIALGEARSET=[WG] ¡A la Guerra contra el Eldritch!
+witchinggadgets_research_page.PRIMORDIALGEARSET.1=En un abrir y cerrar de ojos, los garabatos antes ininteligibles ahora son claros como el agua. Has restaurado las páginas sobre la Forja Primigenia, el arte de infusión de alta energía. Usándola podrás crear equipamiento que supera con creces al que ya tienes. Sus diseños claramente indican que no son para Taumaturgos viajeros, sino para prepararse para inevitablemente luchar contra las criaturas del Vacío. ¿Y qué puede ser mejor para luchar contra ellos que el metal creado con su propio conocimiento?<br>Crearás objetos partiendo de bloques de Metal del Vacío—objetos de poder primigenio puro—para protegerte y armarte.
+witchinggadgets_research_page.PRIMORDIALGEARSET.2=¡Pero eso no es todo! Las runas y huecos en dicho equipamiento serán perfectos para el proceso de infusión, aumentando su potencial aún más. Cada pieza está imbuida con abilidades elementales, aumentando su potencial inmensamente.
 
 #PRIMORDIALWEAPONRY
-witchinggadgets_research_name.PRIMORDIALWEAPONRY=[WiP] Primordial Weaponry
-witchinggadgets_research_text.PRIMORDIALWEAPONRY=[WG] Mobile primal launch platform
-witchinggadgets_research_page.PRIMORDIALWEAPONRY.1=Designed only to slay creatures of evil, the Primordial Weapons have surpassed any magical weapon you may have crafted before. Not only do all carry a unique inert ability, each is tunable to a primal affinity, granting it further effects. And don't be scared by their massive appearance, for their wielder does not feel their weight, unlike the target upon which they are swung.
-witchinggadgets_research_page.PRIMORDIALWEAPONRY.2=The Primordial Claymore seems to assist you in aiming your strikes. The blade commonly hits your foe's neck, resulting in decapitation.<BR>The Primordial Warhammer uses its immense weight to literally squash your foes. This results in double damage done to slimes and spiders, and a chance of heavy concussions among all others. It also breaks blocks in a 3x3 when digging, unless you're sneaking. <BR>The Primordial Greataxe cleaves through foliage like a hot knife through butter, but splits apart armor just as well. The damage of the weapon increases based on the armor of the enemy, and the armor itself suffers from increased damage as well.
-witchinggadgets_research_page.PRIMORDIALWEAPONRY.3=§l§n     Primal Affinities:     §r<BR>§nAer:§r The weapon hits multiple enemies instead of one.                  §nTerra:§r Upon blocking with the weapon, you get a resistance buff, which stacks up to level 3.              §nIgnis:§r Strikes set the target alight, and coats it in cinder to increase all fire damage dealt to it.       §nAqua:§r The target will be coated in dissolving fluid, damaging it over time. Afflicted targets will drop crystallized essence.            §nOrdo:§r The experience value of slaying foes is increased immensely, making them drop far more exp orbs.  §nPerditio:§r Attacks leave the target weakened and famished.
+witchinggadgets_research_name.PRIMORDIALWEAPONRY=[WIP] Armamento Primigenio
+witchinggadgets_research_text.PRIMORDIALWEAPONRY=[WG] Plataforma de lanzamiento primigenia móvil
+witchinggadgets_research_page.PRIMORDIALWEAPONRY.1=Diseñado únicamente para terminar con las criaturas del mal, las Armas Primigenias han sobrepasado cualquier arma mágica que hayas crafteado antes. No solo poseen una habilidad única inerte, sino que también cada una de ellas se pueden afinar a una afinidad primigenia que les da más efectos. Y no tengas miedo de su masiva apariencia, pues su portador no siente su peso—a diferencia del objetivo final de sus ataques.
+witchinggadgets_research_page.PRIMORDIALWEAPONRY.2=La Claymore Primordial parece ayudar a dirigir tus golpes. La hoja suele golpear el cuello del enemigo, provocando su decapitación. <BR>El Martillo Primordial utiliza su inmenso peso para aplastar literalmente a tus enemigos. Esto provoca el doble de daño a slimes y arañas, y una probabilidad de fuertes contusiones entre todos los demás. También rompe bloques en un 3x3 al excavar, a menos que estés agachado. <BR>El Hacha Primordial atraviesa el follaje como un cuchillo caliente la mantequilla, pero parte la armadura igual de bien. El daño del arma aumenta en función de la armadura del enemigo, y la propia armadura también sufre un aumento del daño.
+witchinggadgets_research_page.PRIMORDIALWEAPONRY.3=§l§n Afinidades Primigenias:     §r<BR>§nAer:§r El arma golpea a varios enemigos en vez de a uno.                  §nTerra:§r Al bloquear con el arma, obtienes un potenciador de resistencia que se acumula hasta el nivel 3.              §nIgnis:§r Los golpes incendian al objetivo y lo cubre de ceniza para aumentar todo el daño de fuego que se le inflige.       §nAqua:§r El objetivo se recubre de líquido disolvente, que lo daña con el tiempo. Los objetivos afectados dejan caer esencia cristalizada.            §nOrdo:§r El valor de experiencia al matar enemigos aumenta enormemente, lo que hace que suelten muchos más orbes de exp.  §nPerditio:§r Los ataques dejan al objetivo debilitado y hambriento.
 
 #PRIMORDIALCLAYMORE
-witchinggadgets_research_name.PRIMORDIALCLAYMORE=Primordial Claymore
-witchinggadgets_research_text.PRIMORDIALCLAYMORE=[WG] Off with their heads!
-witchinggadgets_research_page.PRIMORDIALCLAYMORE.1=The Primordial Claymore exists solely to combat and slay creatures of evil. Its weight is tremendous, yet somehow, the user does not feel it. Unlike the victim at which it is swung. Its blade seems to aid you in aiming for your foes neck, resulting in quite frequent decapitations.
+witchinggadgets_research_name.PRIMORDIALCLAYMORE=Claymore Primordial
+witchinggadgets_research_text.PRIMORDIALCLAYMORE=[WG] ¡Que les corten la cabeza!
+witchinggadgets_research_page.PRIMORDIALCLAYMORE.1=La Claymore Primordial existe únicamente para combatir y matar criaturas del mal. Su peso es tremendo, pero el usuario no lo siente, a diferencia de la víctima a la que se dirige. Su hoja parece ayudar a apuntar al cuello de tu enemigo, lo que provoca decapitaciones con bastante frecuencia.
 
 #PRIMORDIALHAMMER
-witchinggadgets_research_name.PRIMORDIALHAMMER=Primordial Warhammer
-witchinggadgets_research_text.PRIMORDIALHAMMER=[WG] Squish
-witchinggadgets_research_page.PRIMORDIALHAMMER.1=The Primordial Warmhammer. Not only is its hammerhead enormous, it seems to be radiating at an even larger scale, breaking blocks in a 3x3 area in front of you.<BR>The effect on slime-like creatures is devastating, doubling the damage and splattering them everywhere.
+witchinggadgets_research_name.PRIMORDIALHAMMER=Martillo Primordial
+witchinggadgets_research_text.PRIMORDIALHAMMER=[WG] ¡Chop, chop!
+witchinggadgets_research_page.PRIMORDIALHAMMER.1=El Martillo Primordial. No solo su cabeza es enorme, sino que parece irradiar a una escala aún mayor, rompiendo bloques en un área de 3x3 frente a ti.<BR>El efecto sobre las criaturas babosas es devastador, duplica el daño y las salpica por todas partes.
 
 #PRIMORDIALGREATAXE
-witchinggadgets_research_name.PRIMORDIALGREATAXE=Primordial Greataxe
-witchinggadgets_research_text.PRIMORDIALGREATAXE=[WG] Cleave them apart
-witchinggadgets_research_page.PRIMORDIALGREATAXE.1=The Primordial Greataxe cleaves through foliage and wood like a hot knife through butter. But it's sharp edges cut through much more than wood.
+witchinggadgets_research_name.PRIMORDIALGREATAXE=Hacha Primordial
+witchinggadgets_research_text.PRIMORDIALGREATAXE=[WG] Sepáralos
+witchinggadgets_research_page.PRIMORDIALGREATAXE.1=El Hacha Primordial atraviesa el follaje y la madera como un cuchillo caliente la mantequilla. Pero sus afilados filos cortan mucho más que madera.
 
-witchinggadgets_research_name.PRIMORDIALARMOR=[WiP] Primordial Armor
-witchinggadgets_research_text.PRIMORDIALARMOR=[WG] Bipedal tank
-witchinggadgets_research_page.PRIMORDIALARMOR.1=Primordial Armor perfects your protection against foes. It will block quite a lot of damage on its own, but it is also receptive for runic enhancements, allowing you to strengthen it even further. In addition to that, it has different effects based on its primal affinity, which you can switch in the active ability menu. §o(Default Hotkey: R)§r<BR>Just like Fortress Armor, it can also be outfitted with Goggles of Revealing and the respective faceplates.
-witchinggadgets_research_page.PRIMORDIALARMOR.2=§l§n     Primal Affinities:     §r<BR>§nAer:§r Any projectile shot at you is caught by a gust of air and propelled right back at the shooter. §nTerra:§r Increased protection against attacks that would normally penetrate your armor.                        §nIgnis:§r The damage you sustain from flames and explosions is reduced immensely and you will be extinguished when necessary.     §nAqua:§r Minor maladies like (taint) poison, blindness, withering and nausea are cured. Will not work on warp effects.                       §nOrdo:§r The severity and duration of all warp-based status effects is reduced.                    §nPerditio:§r Most hits on the user are avenged by striking the attacker with blindness and slowness. 
+witchinggadgets_research_name.PRIMORDIALARMOR=[WIP] Armadura Primordial
+witchinggadgets_research_text.PRIMORDIALARMOR=[WG] Tanque bípedo
+witchinggadgets_research_page.PRIMORDIALARMOR.1=La Armadura Primordial perfecciona tu protección contra los enemigos. Bloqueará bastante daño por sí sola, pero también es receptiva a las mejoras rúnicas, lo que te permitirá fortalecerla aún más. Además, tiene distintos efectos en función de su afinidad primigenia, que puedes cambiar en el menú de habilidades activas. §o(Tecla Predeterminada: R)§r<BR>Al igual que la Armadura de Fortaleza, también puede equiparse con las Gafas de Revelación y sus respectivas placas frontales.
+witchinggadgets_research_page.PRIMORDIALARMOR.2=§Afinidades Primigenias:     §r<BR>§nAer:§r Cualquier proyectil que te disparen es atrapado por una ráfaga de aire e impulsado de vuelta hacia el tirador. §nTerra:§r Mayor protección contra ataques que normalmente penetrarían tu armadura.                        §nIgnis:§r El daño sufrido por llamas y explosiones se reduce inmensamente y se extinguirá cuando sea necesario.     §nAqua:§r Se curan enfermedades menores como veneno (contaminación), ceguera, descomposición y náuseas. No funciona con efectos de deformación.                       §nOrdo:§r Se reduce la gravedad y duración de todos los efectos de estado basados en deformación.                    §nPerditio:§r La mayoría de los golpes propinados al usuario se vengan golpeando al atacante con ceguera y lentitud.
 #witchinggadgets_research_name.PRIMORDIALHELMET=Primordial Helm
 #witchinggadgets_research_text.PRIMORDIALHELMET=[WG] 
 #witchinggadgets_research_page.PRIMORDIALHELMET.1=
@@ -542,127 +542,127 @@ witchinggadgets_research_page.PRIMORDIALARMOR.2=§l§n     Primal Affinities:   
 #witchinggadgets_research_page.PRIMORDIALBOOTS.1=
 
 #EMPOWERPEARL
-witchinggadgets_research_name.EMPOWERPEARL=Pearl Revitalization
-witchinggadgets_research_text.EMPOWERPEARL=[WG] 120 bpm
-witchinggadgets_research_page.EMPOWERPEARL.1=The power that once pulsed through Primordial Pearl is gone. Well, not gone, just infused into a different item. But not all hope is lost! The pearl itself still exists, you just have to empower it once more, by infusing it...
+witchinggadgets_research_name.EMPOWERPEARL=Perla de Revitalización
+witchinggadgets_research_text.EMPOWERPEARL=[WG] 120 PPM
+witchinggadgets_research_page.EMPOWERPEARL.1=El poder que una vez palpitó a través de la Perla Primordial se ha ido. Bueno, no ha desaparecido, solo se ha infundido en un objeto diferente. Pero no todas las esperanzas están perdidas. La perla en sí aún existe, sólo tienes que potenciarla una vez más, infundiéndole...
 
 #TERRAFORMER
-witchinggadgets_research_name.TERRAFORMER=Thaumic Terraforming
+witchinggadgets_research_name.TERRAFORMER=Terraformación Taúmica
 witchinggadgets_research_text.TERRAFORMER=[WG] Slartibartfast!
-witchinggadgets_research_page.TERRAFORMER.1=When simple gardening doesn't cut it anymore, when you would like to turn that depressing rain into beautiful snow, or when your blasted bees refuses to work in the current climate: That's when the Arcane Terrestrial Reformer comes into use.<BR>By placing a focus on the top, it will be attuned to a certain aspect. This construct will consume essentia of the respective aspect as well as §2Terra§0 vis. Per 4 essentia and 4 vis consumed, it will change the biome of a nearby coordinate within a 16 block radius.
+witchinggadgets_research_page.TERRAFORMER.1=Cuando la simple jardinería ya no sirve, cuando te gustaría convertir esa deprimente lluvia en hermosa nieve, o cuando tus malditas abejas se niegan a funcionar con el clima actual: Es entonces cuando el Reformador Arcano Terrestre entra en uso.<BR>Poniendo un Foco en la parte superior, se sintonizará con un determinado aspecto. Este constructo consumirá esencia del aspecto respectivo así como Vis §2Terra§0. Por cada 4 Esencias y 4 Vis consumidos, cambiará el bioma de una coordenada cercana en un radio de 16 bloques.
 
-witchinggadgets_research_name.TERRAFORMFOCUS_PLAINS=Terrestrial Focus: Plains
-witchinggadgets_research_text.TERRAFORMFOCUS_PLAINS=[WG] Plain Plains
-witchinggadgets_research_page.TERRAFORMFOCUS_PLAINS.1=The most basic of the Terrestrial Foci represents the Plains biome. <BR>...<BR> For it to work its magic, it will need to be supplied with §2Herba§0 essentia.
-witchinggadgets_research_name.TERRAFORMFOCUS_COLDTAIGA=Terrestrial Focus: Cold Taiga
-witchinggadgets_research_text.TERRAFORMFOCUS_COLDTAIGA=[WG] Winter is coming
-witchinggadgets_research_page.TERRAFORMFOCUS_COLDTAIGA.1=In stark (ha, get it?) contrast to the Desert Focus, the Terrestrial Focus: Cold Taiga turns the area around it into a winter-wonderland. <BR>...<BR> Requires §bGelum§0 essentia to work.
-witchinggadgets_research_name.TERRAFORMFOCUS_DESERT=Terrestrial Focus: Desert
-witchinggadgets_research_text.TERRAFORMFOCUS_DESERT=[WG] Not dessert you glutton!
-witchinggadgets_research_page.TERRAFORMFOCUS_DESERT.1=Hot sun, hot sand, no water and a bunch of spiky cacti. Not even eldritch knowledge can explain why anyone would want that around them. <BR>...<BR> For the crazy ones out there, supplying this Focus with §cIgnis§0 essentia will do the trick.
-witchinggadgets_research_name.TERRAFORMFOCUS_JUNGLE=Terrestrial Focus: Jungle
-witchinggadgets_research_text.TERRAFORMFOCUS_JUNGLE=[WG] Welcome!
-witchinggadgets_research_page.TERRAFORMFOCUS_JUNGLE.1=The animal friendly thaumaturge does his best to keep his cats happy. Living in a jungle, while severly sweat inducing, should remind them of their past as ferocious predators among the bushes...before they turned into chest-blocking annoyances. <BR>...<BR> In order for this Focus to work, it will require §6Arbor§0 essentia.
-witchinggadgets_research_name.TERRAFORMFOCUS_HELL=Terrestrial Focus: Hell
-witchinggadgets_research_text.TERRAFORMFOCUS_HELL=[WG] Screw the Nether
-witchinggadgets_research_page.TERRAFORMFOCUS_HELL.1=Let's be honest. Even those driven mad by the warp in their head don't want to live in a place of lava and brimstone.<BR>...<BR>What?! You do?! Well suit yourself. Supply the focus with §cInfernus§0 essentia and enjoy hell on earth.
-witchinggadgets_research_name.TERRAFORMFOCUS_MUSHROOM=Terrestrial Focus: Mushroom Island
-witchinggadgets_research_text.TERRAFORMFOCUS_MUSHROOM=[WG] Moooo-shroom!
-witchinggadgets_research_page.TERRAFORMFOCUS_MUSHROOM.1=The colors maybe offputting and the cows look funny, but with it's guaranteed monster-protection, Mushroom Islands make the ideal vacation spot. <BR>...<BR> And now you can bring that feeling to your doorstep, simply by supplying this focus with §aLimus§0 essentia
-witchinggadgets_research_name.TERRAFORMFOCUS_TAINT=Terrestrial Focus: Tainted Lands
-witchinggadgets_research_text.TERRAFORMFOCUS_TAINT=[WG] Take my tears, and that's not nearly all!
-witchinggadgets_research_page.TERRAFORMFOCUS_TAINT.1=That's it. You pretty much qualify as insane by this point. Creating artificially tainted land? And not only with some bottled up taint, but full scale terraforming?<BR>...<BR> Oh, you're doing it for research purposes? That's fine then. Simply supply this focus with some §5Vitium§0 essentia and go crazy.
-witchinggadgets_research_name.TERRAFORMFOCUS_END=Terrestrial Focus: End
-witchinggadgets_research_text.TERRAFORMFOCUS_END=[WG] Screw the End
-witchinggadgets_research_page.TERRAFORMFOCUS_END.1=Somehow i get the feeling this won't END well, cold Asteroids and Endermen.<BR>...<BR>Supply this with §5Alienis§0 essentia and live in a cold and lonely place.
-witchinggadgets_research_name.TERRAFORMFOCUS_RIVER=Terrestrial Focus: River
-witchinggadgets_research_text.TERRAFORMFOCUS_RIVER=[WG] Life is a River
-witchinggadgets_research_page.TERRAFORMFOCUS_RIVER.1=Fishing is the thaumaturges most beloved technique. That's why many of them decide to settle near a river.<BR>...<BR>Supply this with §bAqua§0 essentia.
-witchinggadgets_research_name.TERRAFORMFOCUS_OCEAN=Terrestrial Focus: Ocean
-witchinggadgets_research_text.TERRAFORMFOCUS_OCEAN=[WG] Living on a Boat
-witchinggadgets_research_page.TERRAFORMFOCUS_OCEAN.1=Why do you want more water as a river has in your house? Emptiness over the water on the ocean is romantic? Upgrade you River focus to Ocean level and enjoy those legendary aqua creepers. <BR>...<BR>Just feed this thing with some §bAqua§0 essentia and have fun with your new creeper friends and enjoy your romantic view.
-witchinggadgets_research_name.TERRAFORMFOCUS_MAGIC=Terrestrial Focus: Magical Forest
-witchinggadgets_research_text.TERRAFORMFOCUS_MAGIC=[WG] It's a kind of magic
-witchinggadgets_research_page.TERRAFORMFOCUS_MAGIC.1=The world is full of magic, but you've never found much of it at some place, so it's time to create a whole magical biome.<BR>...<BR>Supply this with §cSano§0 feel the magic around you.
+witchinggadgets_research_name.TERRAFORMFOCUS_PLAINS=Foco Terreste: Llanura
+witchinggadgets_research_text.TERRAFORMFOCUS_PLAINS=[WG] Llanuras llanas
+witchinggadgets_research_page.TERRAFORMFOCUS_PLAINS.1=El más básico de los Focos Terrestres representa el bioma de la Llanura. <BR>...<BR> Para que haga su magia, necesitará que se le suministre esencia §2Herba§0.
+witchinggadgets_research_name.TERRAFORMFOCUS_COLDTAIGA=Foco Terrestre: Taiga Fría
+witchinggadgets_research_text.TERRAFORMFOCUS_COLDTAIGA=[WG] Se acerca el Invierno
+witchinggadgets_research_page.TERRAFORMFOCUS_COLDTAIGA.1=Cual Muro (ja, ¿lo pillas?) de diferencia respecto al Foco Desierto, el Foco Terrestre: Taiga Fría convierte la zona que lo rodea en un paraíso invernal. <BR>...<BR> Requiere esencia §bGelum§0 para funcionar.
+witchinggadgets_research_name.TERRAFORMFOCUS_DESERT=Foco Terrestre: Desierto
+witchinggadgets_research_text.TERRAFORMFOCUS_DESERT=[WG] Esto estará desierto.
+witchinggadgets_research_page.TERRAFORMFOCUS_DESERT.1=Sol ardiente, arena caliente, sin agua y un montón de cactus con pinchos. Ni siquiera el conocimiento sobrenatural puede explicar por qué alguien querría eso a su alrededor. <BR>...<BR> Para los locos de ahí fuera, suministrar este Foco con esencia §cIgnis§0 hará el efecto deseado.
+witchinggadgets_research_name.TERRAFORMFOCUS_JUNGLE=Foco Terrestre: Jungla
+witchinggadgets_research_text.TERRAFORMFOCUS_JUNGLE=[WG] ¡Bienvenido!
+witchinggadgets_research_page.TERRAFORMFOCUS_JUNGLE.1=El taumaturgo amigo de los animales hace todo lo posible por mantener contentos a sus gatos. Vivir en la jungla, aunque les induce a sudar, les recuerda su pasado como feroces depredadores entre los arbustos... antes de que se convirtieran en molestias que bloqueaban el pecho. <BR>...<BR> Para que este Foco funcione, necesitará esencia §6Arbor§0.
+witchinggadgets_research_name.TERRAFORMFOCUS_HELL=Foco Terrestre: Infierno
+witchinggadgets_research_text.TERRAFORMFOCUS_HELL=[WG] Que le den al Nether
+witchinggadgets_research_page.TERRAFORMFOCUS_HELL.1=Seamos honestos. Incluso aquellos enloquecidos por la curvatura de su cabeza no quieren vivir en un lugar de lava y azufre.<BR>...<BR> ¡¿Qué?! ¡¿Tú quieres?! Bueno, como quieras. Suministra al Foco con esencia §cInfernus§0 y disfruta del infierno en la tierra.
+witchinggadgets_research_name.TERRAFORMFOCUS_MUSHROOM=Foco Terrestre: Isla de Setas
+witchinggadgets_research_text.TERRAFORMFOCUS_MUSHROOM=[WG] ¡Moooo-ngos!
+witchinggadgets_research_page.TERRAFORMFOCUS_MUSHROOM.1=Los colores son tal vez desagradables y las vacas parecen graciosas, pero con su protección garantizada contra monstruos, las Islas de Setas son el lugar de vacaciones ideal. <BR>...<BR> Y ahora puedes llevar esa sensación a la puerta de su casa, simplemente suministrando este Foco con esencia §aLimus§0.
+witchinggadgets_research_name.TERRAFORMFOCUS_TAINT=Foco Terrestre: Tierras Contaminadas
+witchinggadgets_research_text.TERRAFORMFOCUS_TAINT=[WG] ¡Llévate mis lágrimas, y eso no es casi todo!
+witchinggadgets_research_page.TERRAFORMFOCUS_TAINT.1=Ya está. Más o menos calificas como demente a estas alturas. ¿Creando tierra contaminada artificialmente? ¿Y no sólo con alguna contaminación contenida, sino con terraformación a gran escala?<BR>...<BR> Oh, ¿lo haces con fines de investigación? Entonces está bien. Simplemente suministra este Foco con algo de esencia §5Vitium§0 y enloquece.
+witchinggadgets_research_name.TERRAFORMFOCUS_END=Foco Terrestre: End
+witchinggadgets_research_text.TERRAFORMFOCUS_END=[WG] Que le den al End
+witchinggadgets_research_page.TERRAFORMFOCUS_END.1=De alguna manera tengo la sensación de que esto no va a tener un END bueno, fríos Asteroides y Endermen.<BR>...<BR>Suministra este Foco con esencia §5Alienis§0 y vive en un lugar frío y solitario.
+witchinggadgets_research_name.TERRAFORMFOCUS_RIVER=Foco Terrestre: Río
+witchinggadgets_research_text.TERRAFORMFOCUS_RIVER=[WG] La vida es un Río
+witchinggadgets_research_page.TERRAFORMFOCUS_RIVER.1=La pesca es la técnica más amada por los taumaturgos. Por eso muchos de ellos deciden establecerse cerca de un río.<BR>...<BR>Suministra este Foco con esencia §bAqua§0.
+witchinggadgets_research_name.TERRAFORMFOCUS_OCEAN=Foco Terrestre: Océano
+witchinggadgets_research_text.TERRAFORMFOCUS_OCEAN=[WG] Viviendo en un barco
+witchinggadgets_research_page.TERRAFORMFOCUS_OCEAN.1=¿Por qué quieres más agua como la que tiene un río en tu casa? ¿El vacío sobre el agua del océano es romántico? Actualiza tu Foco de Río al nivel Océano y disfruta de esos legendarios Aqua Creepers. <BR>...<BR>Solo alimenta esta cosa con un poco de esencia §bAqua§0 y diviértete con tus nuevos amigos Creeper y disfruta de tu vista romántica.
+witchinggadgets_research_name.TERRAFORMFOCUS_MAGIC=Foco Terrestre: Bosque Mágico
+witchinggadgets_research_text.TERRAFORMFOCUS_MAGIC=[WG] Es una especie de magia
+witchinggadgets_research_page.TERRAFORMFOCUS_MAGIC.1=El mundo está lleno de magia, pero nunca has encontrado mucha en algún lugar, así que es hora de crear todo un bioma mágico.<BR>...<BR>Suministra esto con §cSano§0 y siente la magia a tu alrededor.
 
 # ADVANCED SCRIBING TOOLS
-witchinggadgets_research_name.ADVANCEDSCRIBINGTOOLS=Advanced Inscription
-witchinggadgets_research_text.ADVANCEDSCRIBINGTOOLS=[WG] Mightier than the sword
-witchinggadgets_research_page.ADVANCEDSCRIBINGTOOLS.1=Every thaumaturge knows the pain of acquiring the ink necessary to further his studies. More often than not, he has to hunt for squids himself! To avoid these troubles in future, you have thought up a much more potent set of scribing tools. They might be expensive in their creation, but their pool of magical ink is ten times the size of normal scribing tools. And to top that, it is not refilled by ink sacks cut out from slimey squids, but from purest light and some small quantities of gold.
+witchinggadgets_research_name.ADVANCEDSCRIBINGTOOLS=Inscripción Avanzada
+witchinggadgets_research_text.ADVANCEDSCRIBINGTOOLS=[WG] Más poderosa que la espada
+witchinggadgets_research_page.ADVANCEDSCRIBINGTOOLS.1=Todo taumaturgo conoce la dificultad de conseguir la tinta necesaria para avanzar en sus estudios. La mayoría de las veces, tiene que cazar calamares él mismo. Para evitar estos problemas en el futuro, has ideado un conjunto de herramientas de escribanía mucho más potente. Puede que su creación sea cara, pero su reserva de tinta mágica es diez veces mayor que la de los utensilios de escritura normales. Y para colmo, no se rellena con sacos de tinta recortados de calamares babosos, sino con la luz más pura y algunas pequeñas cantidades de oro.
 
 
 #-----------------------#
 #UNIMPLEMENTED
 #-----------------------#
 
-witchinggadgets_research_name.RUNICCLOAK=Runic Cloaks
-witchinggadgets_research_text.RUNICCLOAK=[WG] The best of both worlds
-witchinggadgets_research_page.RUNICCLOAK.1=While being protected by Runic Armor is vital, you really enjoy the abilities granted by your magical cloaks. Why not have both?<BR>By affixing the charms of the runic chestpiece to any of the magical cloaks, you can enjoy the benefits of both.
+witchinggadgets_research_name.RUNICCLOAK=Capas Rúnicas
+witchinggadgets_research_text.RUNICCLOAK=[WG] Lo mejor de ambos mundos
+witchinggadgets_research_page.RUNICCLOAK.1=Aunque estar protegido por la Armadura Rúnica es vital, realmente disfrutas de las habilidades otorgadas por tus capas mágicas. ¿Por qué no tener ambas?<BR>Poniendo los amuletos del peto rúnico a cualquiera de las capas mágicas, puedes disfrutar de los beneficios de ambas.
 #
-witchinggadgets_research_name.LOOM=Loom
-witchinggadgets_research_text.LOOM=[WG] Weavin' Magic
-witchinggadgets_research_page.LOOM.1=To process further the process the yarn and thread gained by spinning, the wizard will have to craft himself a magic loom on which to weave his magic fabric. This  construct will not only interweave the threads, it will also infuse them with various §lAspects§r, granting them magical properties. To infuse the fabric with aspects, simply make sure a §lWarded Jar§r containing some is in the vicinity<BR>To start the weaving after setting the recipe, simply tap the loom with your wand.
+witchinggadgets_research_name.LOOM=Telar
+witchinggadgets_research_text.LOOM=[WG] Tejiendo Magia
+witchinggadgets_research_page.LOOM.1=Para procesar aún más la hebra y el hilo obtenidos hilando, el hechicero tendrá que fabricarse un telar mágico en el que tejer su tela mágica. Este constructo no sólo entretejerá los hilos, sino que también los infundirá con varios §lAspectos§r, otorgándoles propiedades mágicas. Para infundir la tela con aspectos, solo tienes que asegurarte de que haya cerca un §lTarro Reforzado§r que los contenga.<BR>Para empezar a tejer después de establecer la receta, sólo tienes que golpear el telar con tu varita.
 #
-witchinggadgets_research_name.ARCANEAUTOCRAFTER=Arcane Crafter
-witchinggadgets_research_text.ARCANEAUTOCRAFTER=[WG] Au-Thaum-nomous Crafting!
-witchinggadgets_research_page.ARCANEAUTOCRAFTER.1=Those mages who discovered the secrets of immortality (you recognize them by the long, white beard) have all the time in the world. But what about your average thaumaturge? In order to save yourself some time, why not let someone else do the tedious and repetitive crafting operations? Of course, no one would entrust a golem with something as powerful as a wand, but this semi-sentient wooden table will do nicely.
-witchinggadgets_research_page.ARCANEAUTOCRAFTER.2=Simply set your preferred recipe (normal recipe or arcane crafting), provide it with the materials and, if needed, a charged wand, and wait for it to do your bidding. Note however, that the knowledge of crafting is limited to that of the player who put down the block.
+witchinggadgets_research_name.ARCANEAUTOCRAFTER=Fabricador Arcano
+witchinggadgets_research_text.ARCANEAUTOCRAFTER=[WG] ¡Fabricación Au-Taum-noma!
+witchinggadgets_research_page.ARCANEAUTOCRAFTER.1=Los magos que descubrieron los secretos de la inmortalidad (se les reconoce por su larga barba blanca) tienen todo el tiempo del mundo. Pero, ¿y el taumaturgo promedio? Para ahorrar tiempo, ¿por qué no dejar que otro se encargue de las tediosas y repetitivas operaciones de fabricación? Por supuesto, nadie confiaría a un gólem algo tan poderoso como una varita mágica, pero esta mesa de madera semisintiente servirá perfectamente.
+witchinggadgets_research_page.ARCANEAUTOCRAFTER.2=Sólo tienes que elegir la receta que prefieras (receta normal o fabricación arcana), proporcionarle los materiales y, si es necesario, una varita cargada, y esperar a que cumpla tus órdenes. Ten en cuenta, no obstante, que los conocimientos de fabricación se limitan a los del jugador que puso el bloque.
 #
-witchinggadgets_research_name.VORPALBLADE=Vorpal Blade
-witchinggadgets_research_text.VORPALBLADE=SNICKER-SNACK!
-witchinggadgets_research_page.VORPALBLADE.1=§oOne, two! One, two! and through and through<BR>The vorpal blade went snicker-snack!<BR>He left it dead, and with its head<BR>He went galumphing back§r<LINE>A sword of legend. So powerful that it will cleanly cut through any material known to men and is likely to fatally strike and behead most any foe.
+witchinggadgets_research_name.VORPALBLADE=Hoja Vorpal
+witchinggadgets_research_text.VORPALBLADE=¡Trizas y Picadillo!
+witchinggadgets_research_page.VORPALBLADE.1=§oUn, dos! ¡Un, dos! Y a través y a través,<BR>¡la hoja vorpal lo hizo trizas y picadillo!<BR>Lo dejó muerto, y con su testa<BR>galofrando regresó§r<LINE>Una espada legendaria. Tan poderosa que corta limpiamente cualquier material conocido por el hombre y es capaz de golpear mortalmente y decapitar a casi cualquier enemigo.
 #
-witchinggadgets_research_name.WALLMIRROR=Mirror on the Wall
-witchinggadgets_research_text.WALLMIRROR=[WG] The most magical of all!
-witchinggadgets_research_page.WALLMIRROR.1=Further delving into the magic of the mirrors has lead you to the discovery of a safe haven within the void between worlds.<BR>While this location is brimming with magic, otherwise it appears to be void of anything. It has no visible layer of flooring, yet somehow you can stand there.<BR>This space seems to be an excellent way of traveling. Since it is vast and empty as well, it should be easy to store any of your belongings in this void-between-worlds
-witchinggadgets_research_page.WALLMIRROR.2=§lAccess:§r<BR>Place the mirror wherever you like. When you'd like to open the portal, simply right-click it. The dimension accessed through it is the same from any mirror, but portals out of it are only created where it is entered. This means that you can only leave where another Mirror has been placed in the Overworld.<BR><BR>§lNavigation:§r<BR>An invisible floor will spawn in a 5x5 below you wherever you walk. These blocks can be replaced with normal blocks by right-clicking them, allowing you to build there. Jump to ascend, the floor will follow you. Holding the sneak key will make you descend.
+witchinggadgets_research_name.WALLMIRROR=Espejito espejito mágico
+witchinggadgets_research_text.WALLMIRROR=[WG] ¡El más mágico de todos!
+witchinggadgets_research_page.WALLMIRROR.1=Ahondar en la magia de los espejos te ha llevado a descubrir un refugio seguro dentro del vacío entre mundos.<BR>Aunque ese lugar rebosa magia, por lo demás parece estar completamente vacío. No tiene ninguna capa visible de suelo, y sin embargo, de alguna manera no caes eternamente.<BR>Este espacio parece ser una excelente manera de viajar. Dado que es vasto y está vacío, debería ser fácil almacenar cualquiera de tus pertenencias en este vacío entre mundos.
+witchinggadgets_research_page.WALLMIRROR.2=§Acceso:§r<BR>Coloca el espejo donde quieras. Cuando quieras abrir el portal haz clic con el botón derecho del ratón. La dimensión a la que se accede a través de él es la misma desde cualquier espejo, pero los portales de salida solo se crean allá donde se haya entrado. Esto es, solo puedes salir de donde se haya colocado otro Espejo en el Overworld.<BR><BR>§lNavegación:§r<BR>Un suelo invisible aparecerá en un espacio 5x5 debajo de ti allá donde vayas. Estos bloques pueden ser reemplazados por bloques normales haciendo clic derecho sobre ellos, permitiéndote construir allí. Salta para ascender, el suelo te seguirá. Agacharte te hará descender.
 #
 
 
 # ELITE RUNIC ARMOR
-witchinggadgets_research_name.ELITERUNICARMOR=Elite Runic Armor
-witchinggadgets_research_text.ELITERUNICARMOR=[WG] Overshield!
-witchinggadgets_research_page.ELITERUNICARMOR.1=While runic armor is an excellent form of protection, you have come to realize that you can also apply these runes to actual armor. With that you are not only granted normal armor, the bigger surface also allows more runes, increasing the pool of runes this armor provides. A wise mage would use the newly acquired set of scribing tools, because this procedure drains a hundred units of ink and a standard pen would break from this.
+witchinggadgets_research_name.ELITERUNICARMOR=Armadura Rúnica de Élite
+witchinggadgets_research_text.ELITERUNICARMOR=[WG] ¡Sobreescudo!
+witchinggadgets_research_page.ELITERUNICARMOR.1=Aunque la armadura rúnica es una forma excelente de protección, te has dado cuenta de que también puedes aplicar estas runas a una armadura real. Con ello no sólo obtienes una armadura normal, sino que la mayor superficie también permite más runas, aumentando el conjunto de runas que proporciona esta armadura. Un mago sabio utilizaría el conjunto de herramientas de escriba recién adquirido, porque este procedimiento drena cien unidades de tinta y una pluma estándar se rompería por ello.
 #
 # ELITE ARMOR SETS
-witchinggadgets_research_name.DEMONIC_HELM=Helm of Leviathan
-witchinggadgets_research_text.DEMONIC_HELM=[WG] A beast rising from the sea, with ten horns and seven heads
-witchinggadgets_research_page.DEMONIC_HELM.1=The depths that are home to the beast shall be easily traversed when you wear this helm. You shall find air to breath even down there and be able to see even through the densest darkness.
+witchinggadgets_research_name.DEMONIC_HELM=Yelmo de Leviatán
+witchinggadgets_research_text.DEMONIC_HELM=[WG] Una bestia saliendo del mar, con diez cuernos y siete cabezas
+witchinggadgets_research_page.DEMONIC_HELM.1=Las profundidades que albergan a la bestia serán atravesadas fácilmente cuando lleves este yelmo. Encontrarás aire para respirar incluso allí abajo y podrás ver incluso a través de la oscuridad más densa.
 #
-witchinggadgets_research_name.DEMONIC_CHEST=Asrael's Cuirass
-witchinggadgets_research_text.DEMONIC_CHEST=[WG] And behold, a pale horse! And its rider's name was Death.
-witchinggadgets_research_page.DEMONIC_CHEST.1=And his victims fell before his feet. While one is wearing this cuirass, they are not only granted the power of flight, but health leeching abilities as well. Upon killing any living creature, the wearer of this infernal armor absorbs part of their very life-force This allows the aforementioned wearer to add twenty percent of the killed creatures health to its own, appearing as absorption hearts. These extra units of health last only ten minutes. Only creatures with 10 hearts or more are valid prey for this spell. If that wasn't enough, the wearer is granted twenty seconds of heightened saturation upon killing any creature
+witchinggadgets_research_name.DEMONIC_CHEST=Coraza de Asrael
+witchinggadgets_research_text.DEMONIC_CHEST=[WG] Y vi un caballo amarillo; y el que lo montaba tenía por nombre Muerte.
+witchinggadgets_research_page.DEMONIC_CHEST.1=Y sus víctimas cayeron a sus pies. Mientras uno lleva esta coraza, no sólo se le concede el poder de volar, sino también la capacidad de absorber salud. Al matar a cualquier criatura viva, el portador de esta armadura infernal absorbe parte de su propia fuerza vital, lo que le permite añadir a su propia salud el veinte por ciento de la de la criatura asesinada, apareciendo como corazones de absorción. Estas unidades extra de salud solo duran diez minutos. Solo las criaturas con 10 corazones o más son presas válidas para este hechizo. Por si fuera poco, el portador obtiene veinte segundos de saturación aumentada al matar a cualquier criatura.
 #
-witchinggadgets_research_name.DEMONIC_LEGS=Lycan's Greaves
-witchinggadgets_research_text.DEMONIC_LEGS=[WG] These paws were made for pouncing!
-witchinggadgets_research_page.DEMONIC_LEGS.1=Werewolves are ferocious beasts. Even more so when provoked. These greaves, imbued with the aspects that represent them, grant you their immense speed. Should you be attacked, they send you into a blood rage, drastically increasing your damage. While sprinting, hold the assigned key (default: Ctrl) to gain a haste buff.
+witchinggadgets_research_name.DEMONIC_LEGS=Grebas de Lycan
+witchinggadgets_research_text.DEMONIC_LEGS=[WG] Estas patas están hechas para saltar.
+witchinggadgets_research_page.DEMONIC_LEGS.1=Los hombres lobo son bestias feroces. Más aún cuando se les provoca. Estas grebas, imbuidas con los aspectos que las representan, te otorgan su inmensa velocidad. Si te atacan, te provocan una furia de sangre que aumenta drásticamente tu daño. Mientras esprintas, mantén pulsada la tecla asignada (por defecto: Ctrl) para obtener un potenciador de Prisa.
 #
-witchinggadgets_research_name.DEMONIC_BOOTS=Claws of the Behemoth
-witchinggadgets_research_text.DEMONIC_BOOTS=[WG] And where he tread, he laid waste upon the land
-witchinggadgets_research_page.DEMONIC_BOOTS.1=These clawed feet will allow you to run at higher speed, and wont take damage on falling. It's claws also allow you to scale walls. Crouching before you jump will allow you to jump higher, but this might result in damage to the blocks below you.
+witchinggadgets_research_name.DEMONIC_BOOTS=Garras del Behemoth
+witchinggadgets_research_text.DEMONIC_BOOTS=[WG] Y donde pisó, asoló la tierra
+witchinggadgets_research_page.DEMONIC_BOOTS.1=Estos pies con garras te permitirán correr a mayor velocidad y no recibirás daño al caer. Sus garras también te permiten escalar paredes. Si te agachas antes de saltar, podrás saltar más alto, pero podrías dañar los bloques que tengas debajo.
 #
 #
-witchinggadgets_research_name.ANGELIC_HELM=Ophanic Helm
-witchinggadgets_research_text.ANGELIC_HELM=[WG] Lights will guide you home
-witchinggadgets_research_page.ANGELIC_HELM.1=Even in the deepest dark, a light will shine for you. Wherever you go, a shimmer of magical light accompanies you. It vanishes shortly after you depart and only appears in dark areas.
+witchinggadgets_research_name.ANGELIC_HELM=Yelmo de Ofanim
+witchinggadgets_research_text.ANGELIC_HELM=[WG] Las luces te guiarán a casa
+witchinggadgets_research_page.ANGELIC_HELM.1=Incluso en la oscuridad más profunda, una luz brillará para ti. Vayas donde vayas, te acompaña un resplandor de luz mágica. Desaparece poco después de que te marches y sólo aparece en las zonas oscuras.
 #
-witchinggadgets_research_name.ANGELIC_CHEST=Seraph's Cuirass
-witchinggadgets_research_text.ANGELIC_CHEST=[WG] Blinded by the light!
-witchinggadgets_research_page.ANGELIC_CHEST.1=While wearing this cuirass, the Thaumaturge is strengthened by the powers of light. They are granted the ability to fly and get strengthened by the light. The brighter the light you're standing in, the higher your chance to regenerate some health. Finally, this cuirass contains otherworldly pockets allowing you to store items in it. Open them with the keybinding for using cloaks (default: 'G').
+witchinggadgets_research_name.ANGELIC_CHEST=Coraza del Serafín
+witchinggadgets_research_text.ANGELIC_CHEST=[WG] ¡Cegado por la luz!
+witchinggadgets_research_page.ANGELIC_CHEST.1=Al llevar esta coraza, el Taumaturgo se ve fortalecido por los poderes de la luz. Se le concede la capacidad de volar y se fortalece con la luz. Cuanto más brillante sea la luz en la que se encuentre, mayor será su probabilidad de regenerar algo de salud. Por último, esta coraza contiene bolsillos de otro mundo que te permiten guardar objetos en ella. Ábrelos con la tecla para usar capas (por defecto: 'G').
 #
-witchinggadgets_research_name.ANGELIC_LEGS=Cherub Greaves
-witchinggadgets_research_text.ANGELIC_LEGS=[WG] Green...kneecap?
-witchinggadgets_research_page.ANGELIC_LEGS.1=When you sneak over the fields on which the independent Thaumaturge grows his supplies, dirt will be tilled and farmland will be hydrated. Also, should you ever be in a tight spot, try crouching and jumping. You will be propelled high into the air and all creatures around you will be paralyzed for a short moment.
+witchinggadgets_research_name.ANGELIC_LEGS=Grebas de Querubín
+witchinggadgets_research_text.ANGELIC_LEGS=[WG] ¿Rodilleras... verdes?
+witchinggadgets_research_page.ANGELIC_LEGS.1=Cuando te desplaces sigilosamente sobre los campos en los que el Taumaturgo independiente cultiva sus provisiones, se labrará la tierra y se hidratarán las tierras de cultivo. Además, si alguna vez te encuentras en un aprieto, prueba a agacharte y saltar. Saldrás propulsado por los aires y todas las criaturas que te rodeen quedarán paralizadas durante unos instantes.
 #
-witchinggadgets_research_name.ANGELIC_BOOTS=Sabatons of the Valkyrie
-witchinggadgets_research_text.ANGELIC_BOOTS=[WG] Feathered steps
-witchinggadgets_research_page.ANGELIC_BOOTS.1=By the magic of these boots you move at higher speed, and wont take damage on falling.<BR>Furthermore, you are granted the power of walking upon the surface of any liquid. This includes water and lava. Should you crouch you will sink.
+witchinggadgets_research_name.ANGELIC_BOOTS=Sabatones de la Valquiria
+witchinggadgets_research_text.ANGELIC_BOOTS=[WG] Pasos emplumados
+witchinggadgets_research_page.ANGELIC_BOOTS.1=Por la magia de estas botas te mueves a mayor velocidad, y no recibes daño al caer.<BR>Además, se te concede el poder de caminar sobre la superficie de cualquier líquido. Esto incluye agua y lava. Si te agachas, te hundirás.
 #
 witchinggadgets_research_name.THAUMICAPPLICATOR=
-witchinggadgets_research_text.THAUMICAPPLICATOR=[WG] 
+witchinggadgets_research_text.THAUMICAPPLICATOR=[WG]
 witchinggadgets_research_page.THAUMICAPPLICATOR.1=
 #
 
-tc.research_page.PRIMORDRIALPEARL.1=You have started to understand how primordial pearls work and found a way to replicate them for future use. By hammering the primordial pearl into 3 pieces, you found that its losing energy really quickly. Perhaps, there is a way to reform each pieces them into a pearl.
-tc.research_name.PRIMORDRIALPEARL=Primordial Pearl
-tc.research_text.PRIMORDRIALPEARL=[GT:NH] You found a magical Way of duplication;
+tc.research_page.PRIMORDRIALPEARL.1=Has empezado a comprender cómo funcionan las perlas primordiales y has encontrado una forma de replicarlas para utilizarlas en el futuro. Al martillar la perla primordial en 3 piezas, has descubierto que pierde energía muy rápidamente. Tal vez, hay una manera de reformar cada una de las piezas en una perla.
+tc.research_name.PRIMORDRIALPEARL=Perla Primigenia
+tc.research_text.PRIMORDRIALPEARL=[GT:NH] Has encontrado una Forma mágica de duplicación;

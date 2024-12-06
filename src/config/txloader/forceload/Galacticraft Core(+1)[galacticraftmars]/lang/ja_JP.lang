@@ -12,8 +12,8 @@ item.key.T2.name=Tier 2 ダンジョンの鍵
 item.compressedDesh.name=圧縮デッシュ
 item.spaceshipTier2.cargoRocket.name=貨物ロケット
 item.fluidManip.name=液体操作器
-item.bucketSludge.name=バクテリア汚泥入りバケツ
-fluid.bacterialsludge=バクテリア汚泥
+item.bucketSludge.name=細菌性汚泥入りバケツ
+fluid.bacterialsludge=細菌性汚泥
 
 # TOOLS
 item.deshPick.name=デッシュのツルハシ
@@ -51,17 +51,17 @@ tile.marsMachine.4.name=ガス液化機
 tile.marsMachine.5.name=メタン合成機
 tile.marsMachine.6.name=水電解機
 tile.hydrogenPipe.name=水素用パイプ
-tile.sludge.name=バクテリア汚泥
+tile.sludge.name=細菌性汚泥
 tile.creeperEgg.name=クリーパーの卵
-tile.cavernVines.name=洞窟のつる
+tile.cavernVines.name=洞窟のツタ
 
 # DECOBLOCKS
 tile.marsCobblestoneStairs.name=火星の丸石の階段
-tile.wallGC.mars.name=火星の丸石の壁
-tile.slabGCHalf.marsSlab.name=火星の丸石ハーフブロック
+tile.wallGC.mars.name=火星の丸石の塀
+tile.slabGCHalf.marsSlab.name=火星の丸石のハーフブロック
 tile.marsDungeonBricksStairs.name=火星のダンジョンレンガの階段
-tile.wallGC.marsBricks.name=火星のダンジョンレンガの壁
-tile.slabGCHalf.marsBricksSlab.name=火星のダンジョンレンガハーフブロック
+tile.wallGC.marsBricks.name=火星のダンジョンレンガの塀
+tile.slabGCHalf.marsBricksSlab.name=火星のダンジョンレンガのハーフブロック
 
 # GUI
 gui.choosePlanet.desc.mars=住みやすい#酸素なし#重力: 38%

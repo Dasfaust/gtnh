@@ -2,8 +2,8 @@ tcneiadditions.aspect_from_itemstack.title=Аспект из предметов
 tcneiadditions.aspect_from_itemstack.still_load=Ещё загружаем... (%s/%s)
 tcneiadditions.aspect_combination.title=Комбинация аспектов
 
-tcneiadditions.research.missing=You haven't completed research required to craft this item
-tcneiadditions.research.researchName=Research name
+tcneiadditions.research.missing=Вы не завершили исследование, необходимое для создания этого предмета
+tcneiadditions.research.researchName=Название исследования
 tcneiadditions.research.researchName_rod=Rod Research name
 tcneiadditions.research.researchName_cap=Cap Research name
 tcneiadditions.research.prerequisites.parents=Parent research
@@ -14,7 +14,7 @@ tcneiadditions.research.prerequisites.aspect=Scan aspect
 tcneiadditions.research.prerequisites.kill=Kill and Scan
 tcneiadditions.research.prerequisites.allresearched=You have done all the required research
 
-tcneiadditions.gui.nei.seeAll=See All
+tcneiadditions.gui.nei.seeAll=Смотреть все
 tcneiadditions.gui.textColor=404040
 tcneiadditions.gui.instabilityColorOff=FFFFFF
 tcneiadditions.gui.instabilityColor0=0000AA
@@ -26,10 +26,10 @@ tcneiadditions.gui.instabilityColor5=AA0000
 tcneiadditions.gui.researchNameColor=000000
 tcneiadditions.gui.loadingTextColor=00CC00
 
-tcneiadditions.config.general=General
+tcneiadditions.config.general=Общие
 
-tcneiadditions.config.general.showLockedRecipes=Show locked recipes
-tcneiadditions.config.general.showLockedRecipes.tooltip=Show recipes even if the research is not completed
-tcneiadditions.config.general.showInstabilityNumber=Show number of instability
-tcneiadditions.config.general.showInstabilityNumber.tooltip=Show the number of instability of infusion
+tcneiadditions.config.general.showLockedRecipes=Показать заблокированные рецепты
+tcneiadditions.config.general.showLockedRecipes.tooltip=Показать рецепты даже если исследование не завершено
+tcneiadditions.config.general.showInstabilityNumber=Отобразить количество нестабильности
+tcneiadditions.config.general.showInstabilityNumber.tooltip=Отобразить количество нестабильности и наполнение
 tcneiadditions.config.general.showResearchKey=Show research key

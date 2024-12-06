@@ -26,11 +26,11 @@ item.MorphPickaxe.name=変化のつるはし
 item.MorphSword.name=変化の剣
 item.MorphShovel.name=変化のシャベル
 item.MorphAxe.name=変化の斧
-item.FMResource.0.name=エメラルドのかけら
+item.FMResource.0.name=エメラルドの欠片
 item.FMResource.1.name=影の墨
-item.FMResource.2.name=マナスチール塊
+item.FMResource.2.name=マナスチールナゲット
 item.FMResource.3.name=汚染された血の欠片
-item.FMResource.4.name=エレメンチウム塊
+item.FMResource.4.name=エレメンチウムナゲット
 item.MobCrystalEmpty.name=空白の刻印水晶
 item.MobCrystal.name=刻印水晶
 item.DiabolistFork.name=悪魔のフォーク
@@ -39,16 +39,16 @@ item.GluttonyShard.name=貪食の結晶片
 item.Bloodwell.name=血の筆記具
 item.EldritchOrb.name=エルドリッチのブラッドオーブ
 item.Crystalwell.name=結晶の筆記具
-item.Primewell.name=Primal Scribing Tools
+item.Primewell.name=始原の筆記具
 item.RidingCrop.name=乗馬鞭
 item.BoundShears.name=拘束のハサミ
 item.BloodRapier.name=ストリックスのレイピア
 item.Boundwell.name=血の筆記具
 item.SubCollar.name=苦痛の首輪
-item.RingNutrition.name=Ring of Nutrition
-item.TaintFruit.name=Tainted Fruit
-item.TaintCoal.name=Hexcoal
-item.Sword_Dragonslayer.name=Sword of the Dragonslayer
+item.RingNutrition.name=暴食の指輪
+item.TaintFruit.name=汚染された果実
+item.TaintCoal.name=ヘキサコール
+item.Sword_Dragonslayer.name=ドラゴンスレイヤーの剣
 #
 # Wand components
 item.Wand.tainted.rod=汚染された
@@ -59,20 +59,20 @@ item.Wand.witchwood.rod=ウィッチウッドの
 item.Wand.livingwood.rod=リビングウッドの
 item.Wand.dreamwood.rod=ドリームウッドの
 item.Wand.equivalent.rod=§kAlchemical§r
-item.Wand.profane.rod=Profane
-item.Wand.profaned.rod=Profane
+item.Wand.profane.rod=冒涜的な
+item.Wand.profaned.rod=冒涜的な
 item.Wand.orichalcum.cap=オリハルコンで装飾された
 item.Wand.alchemical.cap=錬金加工された
 item.Wand.vinteum.cap=ヴィンテウム鋼留めの
 item.Wand.manasteel.cap=マナスチール留めの
 item.Wand.elementium.cap=エレメンチウム留めの
-item.Wand.terrasteel.cap=Terrasteel Nerfed
+item.Wand.terrasteel.cap=テラスチールでナーフされた
 item.WandCores.tainted.name=汚染された杖身
 item.WandCores.infernal.name=地獄の杖身
 item.WandCores.soul.name=エルドリッチの杖身
 item.WandCores.blood.name=血の染み込んだ杖身
 item.WandCores.witchwood.name=ウィッチウッドの杖身
-item.WandCores.profane.name=Profane Rod
+item.WandCores.profane.name=冒涜的な杖身
 item.WandCores.blood_inert.name=不活性な血の染み込んだ杖身
 item.WandCores.livingwood.name=リビングウッドの杖身
 item.WandCores.livingwood_inert.name=覚醒していないリビングウッドの杖身
@@ -88,8 +88,8 @@ item.WandCaps.manasteel.name=マナスチールの石突
 item.WandCaps.manasteel_inert.name=不活性なマナスチールの石突
 item.WandCaps.elementium.name=エレメンチウムの石突
 item.WandCaps.elementium_inert.name=不活性なエレメンチウムの石突
-item.WandCaps.terrasteel.name=Terrasteel Cap
-item.BlinkFocus.name=Wand Focus: Blink
+item.WandCaps.terrasteel.name=テラスチールの石突
+item.BlinkFocus.name=瞬きの杖星
 #
 # Blocks
 tile.ArcaneCake.name=魔導ケーキ
@@ -97,20 +97,20 @@ tile.InkFlower.name=影のバラ
 tile.WrathCage.name=憤怒の檻
 tile.StarBlock.name=ネザースターブロック
 tile.blackRoseBush.name=影のバラの茂み
-tile.TaintLog.name=Tainted Log
-tile.TaintPlank.name=Tainted Planks
-tile.TaintLeaves.name=Tainted Leaves
-tile.TaintSapling.name=Tainted Sapling
-tile.TaintStone_Smooth.name=Tainted Stone
-tile.TaintStone_Brick.name=Tainted Stone Bricks
-darkflower.euclidaisy.name=Euclidaisy
-darkflower.whisperweed.name=Whisperweed
-darkflower.tainthistle.name=Tainthistle
+tile.TaintLog.name=汚染された原木
+tile.TaintPlank.name=汚染された木材
+tile.TaintLeaves.name=汚染された葉
+tile.TaintSapling.name=汚染された苗木
+tile.TaintStone_Smooth.name=汚染された石
+tile.TaintStone_Brick.name=汚染された石レンガ
+darkflower.euclidaisy.name=ユークリデイジー
+darkflower.whisperweed.name=ウィスパーウィード
+darkflower.tainthistle.name=テインティストル
 darkflower.bloodthorn.name=血の茨
-tile.botania:flower.euclidaisy.name=Euclidaisy
-tile.botania:flower.whisperweed.name=Whisperweed
-tile.botania:flower.tainthistle.name=Tainthistle
-tile.botania:flower.bloodthorn.name=Bloodthorn
+tile.botania:flower.euclidaisy.name=ユークリデイジー
+tile.botania:flower.whisperweed.name=ウィスパーウィード
+tile.botania:flower.tainthistle.name=テインティストル
+tile.botania:flower.bloodthorn.name=ブラッドソーン
 #
 # Enchantments
 enchantment.cluster=火の核
@@ -123,18 +123,18 @@ enchantment.voidtouched=虚無再生
 enchantment.impact=衝撃
 #
 # Potions
-potion.blood_seal=Blood Seal
-potion.dragonwrack=Dragonwrack
+potion.blood_seal=血判
+potion.dragonwrack=竜の崩壊
 #
 # Focus Upgrades
-forbidden.upgrade.hellfire.name=Hellfire
-forbidden.upgrade.hellfire.text=This upgrade unleashes a burst of fire upon teleporting to a location.
-forbidden.upgrade.pandemonium.name=Pandemonium
-forbidden.upgrade.pandemonium.text=This upgrade teleports all surrounding enemies to your previous location upon teleporting to a location.
+forbidden.upgrade.hellfire.name=獄炎
+forbidden.upgrade.hellfire.text=テレポートの際に炸裂弾を放つ。
+forbidden.upgrade.pandemonium.name=修羅場
+forbidden.upgrade.pandemonium.text=ある場所にテレポートする際、周囲にいるすべての敵を元の場所にテレポートさせる。
 #
 # Tooltips
 tooltip.currentowner=現在の所有者: 
-tooltip.divineorb=Stores raw Life Essence
+tooltip.divineorb=本来のライフエッセンスを貯蔵する
 tooltip.creativeonly=クリエイティブ限定
 tooltip.collar.owner=所有者: 
 #
@@ -144,88 +144,88 @@ message.collar.placescollar=%sがあなたの首にカラーを巻きつけた�
 message.collar.youplacecollar=あなたは%sの首にカラーを巻きつける。
 #
 # Misc
-itemGroup.forbidden=禁術
-itemGroup.mobcrystal=刻印水晶
-tc.research_category.FORBIDDEN=Apocrypha
-description.villager.profession.forbidden.heretic=Heretic
-death.attack.blooderp=%1$s was bled dry
-death.attack.dragonslayer=%1$s was slain by %2$s
-death.attack.dragonwrack=%1$s succumbed to a mortal wound
+itemGroup.forbidden=Forbidden Magic
+itemGroup.mobcrystal=Forbidden Magic (刻印水晶)
+tc.research_category.FORBIDDEN=外典
+description.villager.profession.forbidden.heretic=異端者
+death.attack.blooderp=%1$sは出血多量で干からびた
+death.attack.dragonslayer=%1$sは%2$sに殺害された
+death.attack.dragonwrack=%1$sは致命傷を負って死んだ
 #
 # Research
-forbidden.research_name.NETHERSHARDS=Nether Shards
-forbidden.research_text.NETHERSHARDS=Aim to misbehave.
-forbidden.research_page.NETHERSHARDS.1=Strange energies swirl through the Nether. On occasion, they have been known to solidify into crystal shards when certain sympathetic events occur.
-forbidden.research_page.NETHERSHARDS.2=These crystals are imbued with different vices and have many uses for more unscrupulous Thaumaturges.<BR>There are seven documented types of nether shard, each attuned to a different "deadly sin."<BR><BR><IMG>forbidden:textures/misc/research.png:0:0:111:16:1</IMG><BR>
-forbidden.research_page.NETHERSHARDS.2b=These crystals are imbued with different vices and have many uses for more unscrupulous Thaumaturges.<BR>There are six documented types of nether shard, each attuned to a different "deadly sin."<BR><BR><IMG>forbidden:textures/misc/research.png:0:16:95:16:1</IMG><BR>
-forbidden.research_page.NETHERSHARDS.3=Wrath Shards crystallize around acts of violence. The more excessive the physical force used, the more likely it is for a Wrath Shard to appear.<BR><BR>Sloth Shards congeal when proxies and accidents are used to collect resources without effort.<BR><BR>Envy Shards are taken from those who have them by those that covet them.<BR><BR>Pride Shards materialize when a creature of truly great power is cut down to size.<BR><BR>Gluttony Shards crystallize when someone feasts.<BR><BR>Greed Shards appear when enchantment is used to turn a profit.
+forbidden.research_name.NETHERSHARDS=ネザーの結晶片
+forbidden.research_text.NETHERSHARDS=お行儀悪く行こう。
+forbidden.research_page.NETHERSHARDS.1=ネザーには奇妙なエネルギーが渦巻いている。時に、特定の共鳴的な事象が起こると、そのエネルギーは結晶片へと固化することが知られている。
+forbidden.research_page.NETHERSHARDS.2=これらの結晶片にはさまざまな悪徳が染み込んでおり、不徳な魔導師にとっては多くの使い道がある。<BR>ネザーの結晶片にはには7つの種類があり、それぞれが異なる "大罪 "に同調する。<BR><BR><IMG>forbidden:textures/misc/research.png:0:0:111:16:1</IMG><BR>
+forbidden.research_page.NETHERSHARDS.2b=これらの結晶片にはさまざまな悪徳が染み込んでおり、不徳な魔導師にとっては多くの使い道がある。<BR>ネザーの結晶片にはには6つの種類があり、それぞれが異なる "大罪 "に同調する。<BR><BR><IMG>forbidden:textures/misc/research.png:0:16:95:16:1</IMG><BR>
+forbidden.research_page.NETHERSHARDS.3=憤怒の結晶片は、暴力行為の周囲で結晶化する。物理的な力が過剰であるほど、憤怒の結晶片は出現しやすくなる。<BR><BR>怠惰の結晶片は、努力しないで資源を集めるために、身代わりや事故を利用すると凝結する。<BR><BR>嫉妬の結晶片は、それを欲する者がそれを持つものから奪い取る。<BR><BR>傲慢の結晶片は、真に偉大な力を持つ生物が小さく切り刻まれると出現する。<BR><BR>貪食の結晶片は、何者かがごちそうを食べると結晶化する。<BR><BR>貪欲の結晶片は、エンチャントが利益を生み出すために使われると現れる。
 #
-forbidden.research_name.SKULLAXE=Axe of the Skulltaker
-forbidden.research_text.SKULLAXE=Off with their heads!
-forbidden.research_page.SKULLAXE.1=Some monsters just really boil your blood. Skeletons! Always clacking around and using you for target practice. Or those Creepers! They just creep around blowing things up like they own the place! You wish you could just chop all their smug heads off and place them on pikes.<BR><BR>Fortunately, you've discovered an item that will let you do just that.  The Axe of the Skulltaker has a chance to remove the heads of monsters it slays. It might even work on other humans! Unfortunately, the infusion leaves the axe far too bloodthirsty to effectively cleave through boring plant matter.
+forbidden.research_name.SKULLAXE=頭蓋落としの斧
+forbidden.research_text.SKULLAXE=首をはねよ!
+forbidden.research_page.SKULLAXE.1=何とも腸が煮え返るようなモンスターがいる。スケルトン！いつもカチャカチャと音を立て、こちらを練習台にしてくる。あるいはクリーパー！我が物顔で物を吹き飛ばしに忍び寄ってくる！奴らの気障な頭を全て切り落として、杭に刺してやりたいものだ。<BR><BR>幸運なことに、それを可能にするアイテムを発見した。頭蓋落としの斧は、倒したモンスターの首を切り落とすことができる。他の人間にも効くかもしれない！ただ残念なことに、この斧は注入の影響で血に飢えているため、つまらない植物を効率的に切り裂くことはできない。
 #
-forbidden.research_name.RINGFOOD=Ring of Nutrition
-forbidden.research_text.RINGFOOD=Cheese puffs prevent scurvy, right?
-forbidden.research_page.RINGFOOD.1=People keep scolding you. They insist that you can't just eat cookies all day or that "nutrition doesn't work like that." Well, you've had it with these naysayers.<BR><BR>The Ring of Nutrition provides a boost to the food and saturation values of most foods you eat while wearing the ring on your finger.<BR><BR>(Side effects may include nausea, headaches, cramping, vertigo, diabetes, and sudden interest in homeopathy.)
+forbidden.research_name.RINGFOOD=暴食の指輪
+forbidden.research_text.RINGFOOD=チーズパフは壊血病を予防するんだろ？
+forbidden.research_page.RINGFOOD.1=人々に叱られ続ける。一日中クッキーを食べているわけにはいかないとか、もしくは「栄養学上そうはいかない 」などと言われる。ああ、こういう否定ばかりの奴らにはもううんざりだ。<BR><BR>暴食の指輪は、指にはめている間、ほとんどの食べ物の満腹度を高める。<BR><BR>(副作用として、吐き気、頭痛、けいれん、めまい、糖尿病、またホメオパシーへの突然の興味などがあるかもしれない。)
 #
-forbidden.research_name.ARCANECAKE=Thaumic Cake
-forbidden.research_text.ARCANECAKE=Let them eat cake.
-forbidden.research_page.ARCANECAKE.1=If there's one thing you love, it's cake. You would eat its delicious goodness all day if you could, but it always runs out in the end.<BR><BR>To remedy this, you have devised a recipe to infuse a cake with longevity-enhancing magic.  The Thaumic Cake lasts significantly longer than a mundane one and will slowly repair itself as long as there's at least a sliver left.  The enchantments are unstable, however, and the cake cannot be moved again through conventional means once placed down.
+forbidden.research_name.ARCANECAKE=魔導ケーキ
+forbidden.research_text.ARCANECAKE=ケーキを食べさせてあげよう。
+forbidden.research_page.ARCANECAKE.1=大好きなものをひとつ挙げるとするなら、ケーキだ。できることなら一日中そのおいしさを味わいたいものだが、最後にはいつもなくなってしまう。<BR><BR>この状況を改善するために、ケーキに長持ちする魔法を注入するレシピを考案した。 魔導ケーキは普通のものよりかなり長持ちし、少なくとも一片でも残っている限り、ゆっくりと自己修復する。 ただし魔法は不安定で、一度ケーキを置くと通常の方法では再び移動させることができない。
 #
-forbidden.research_name.FOCUSBLINK=Wand Focus: Blink
-forbidden.research_text.FOCUSBLINK=Better than a stupid Ender Pearl
-forbidden.research_page.FOCUSBLINK.1=Ugh.<BR><BR>The only thing that sucks more than getting up is having to walk places. So much woooooork. What's the point of being a big fancy magician if you still have to use your feet like everyone else?<BR><BR>The Blink focus eases the hardships of having to put one foot in front of the other. Just point your wand at a distant location and wave it to teleport yourself there.<BR><BR>Now all you need is a Shower focus and you'll be all set...
+forbidden.research_name.FOCUSBLINK=瞬きの杖星
+forbidden.research_text.FOCUSBLINK=バカなエンダーパールよりマシ
+forbidden.research_page.FOCUSBLINK.1=うおっ。<BR><BR>朝起きること以上に最悪なのは、歩かなければならないことだ。とっっっっっても大変だ。他の皆と同じように足を動かさねばならないならば、ビッグで派手な魔術師である意味などないだろう？<BR><BR>瞬きの杖星は片足をもう片足の前に出す苦労を解消する。杖を遠くの場所に向けて振るだけで、そこに自分をテレポートさせることができる。<BR><BR>あとはシャワーの杖星があれば完璧だ...。
 #
-forbidden.research_name.TAINTSHOVEL=Shovel of the Purifier
-forbidden.research_text.TAINTSHOVEL=Like a hot knife through really gross butter
-forbidden.research_page.TAINTSHOVEL.1=Sometimes, the easiest way to remove patches of taint is to just physically remove them.<BR><BR>By reinforcing a thaumium shovel with Silverwood and Order Shards, you have created a tool capable of combating Taint.  The Shovel of the Purifier can dig through pulpy tainted lands as effectively as it can through normal earth.<BR><BR>If held in your hand and right-clicked, the shovel will purify all flux goo and gas from a small radius at the cost of durability. You no longer have to clean up infusion mishaps with a piece of cobblestone!
-forbidden.research_page.TAINTSHOVEL.2=When digging through taint with the shovel, there's a chance that the twisted energies released will crystallize into Taint Shards.  Unlike other tainted materials, the crystalline pattern keeps these shards stable enough to carry around.
+forbidden.research_name.TAINTSHOVEL=浄化のシャベル
+forbidden.research_text.TAINTSHOVEL=熱いナイフで、マジでグロいバターを切るように
+forbidden.research_page.TAINTSHOVEL.1=汚染を取り除く最も簡単な方法は、物理的に取り除くことである場合もある。<BR><BR>魔導金属のシャベルをシルバーウッドと秩序の結晶片で強化することで、汚染に対抗しうる道具を生み出した。 浄化のシャベルは、通常の土を掘るのと同じように、ぐちゃぐちゃに汚染された地を効率的に掘ることができる。<BR><BR>このシャベルを手に持って右クリックすると、耐久力を消費して、狭い範囲の液体フラックスやフラックスガスを浄化することができる。もう丸石で注入の失敗を片付ける必要はない！
+forbidden.research_page.TAINTSHOVEL.2=シャベルで汚染を掘ると、放出される歪んだエネルギーが結晶化して汚染の結晶片になることがある。 この結晶片は他の汚染されたアイテムとは異なり、その結晶パターンゆえに持ち運べるほど安定している。
 #
-forbidden.research_name.TAINTPICK=Pickaxe of Distortion
-forbidden.research_text.TAINTPICK=Obsidian Buster
-forbidden.research_page.TAINTPICK.1=By infusing a thaumium pickaxe with taint, you create a tool capable of cutting through difficult materials.<BR><BR>The Pickaxe of Distortion infects hard materials with taint, weakening them. The harder the material, the more effective the pickaxe is at removing it. Unfortunately, the effects of the taint have an inverse effect when mining softer materials, rendering the pickaxe less effective than just pawing at the block with your bare hands.
+forbidden.research_name.TAINTPICK=歪曲のつるはし
+forbidden.research_text.TAINTPICK=黒曜石バスター
+forbidden.research_page.TAINTPICK.1=魔導金属のツルハシに汚染を注入することで、硬い素材を自在に削り取るツールを生み出せる。<BR><BR>歪曲のつるはしは硬いものに汚染を伝播させ、その強度を弱める。このツルハシは対象が硬ければ硬いほど、より効果的にその対象を破壊することができる。残念なことに、柔らかいものを採掘する際には、汚染の影響は逆効果となり、ただ素手でブロックを破壊するよりも非効率的になる。
 #
-forbidden.research_name.ROD_tainted=Tainted Wand Core
-forbidden.research_text.ROD_tainted=Squiggly vis storage
-forbidden.research_page.ROD_tainted.1=Tainted Lands are places of great and terrible power for those Thaumaturges who know how to tap into them.<BR><BR>The Tainted Wand Core can store up to 150 vis of each type and slowly replenishes itself up to 10% in every aspect as long as it is being held inside of a Tainted Land.  While the wand is held in your hand, it can also feed off of taint coursing through your veins, randomly restoring vis every time you take damage from flux taint.
+forbidden.research_name.ROD_tainted=汚染された杖身
+forbidden.research_text.ROD_tainted=ぐにゃぐにゃのVis貯蔵庫
+forbidden.research_page.ROD_tainted.1=それを活用する方法を知っている魔導師にとって、汚染された地は偉大で恐るべき力を持った場所だ。<BR><BR>汚染された杖身は150Visを貯めることができ、汚染された地の中で所持している限り、それぞれの相について最大10%までVisがゆっくりと自然回復する。杖を手に持っている間、杖は血管を流れる汚染を吸い上げることができ、フラックス汚染によるダメージを受けるたびにランダムにVisを回復する。
 #
-forbidden.research_name.TAINTTREE=Tainted Tree
-forbidden.research_text.TAINTTREE=The root of flux bears gross fruit
-forbidden.research_page.TAINTTREE.1=The sick, twisted runoff of magical experiments can take on a strange life of its own. Most plants are unable to survive in Tainted Lands, but you've found a way to grow one that can. By steeping a sapling in taint, you create a tree that can thrive in Tainted Lands.<BR><BR>Its wood can also be turned into planks which are resistant to fibrous taint, allowing you to build structures safe from spreading taint.<BR><BR>The tree also seems to bear fruit, but eating them is not recommended...
+forbidden.research_name.TAINTTREE=汚染された木
+forbidden.research_text.TAINTTREE=フラックスの根は醜い実を結ぶ
+forbidden.research_page.TAINTTREE.1=魔法の実験でできた病的でねじ曲がった廃液は、それ自体が奇妙な命を持ちうる。ほとんどの植物は汚染された地で生き残ることができないが、それが可能な植物を育てる方法を見つけた。苗木を汚染に浸すことで、汚染された地で成長できる木を生み出せる。<BR><BR>この木は繊維状の汚染に耐性を持った木材にも加工することができ、汚染の拡大を防ぐ安全な建造物を建てることができる。<BR><BR>この木には実もなるようだが、それを食べるのはお勧めしない...。
 #
-forbidden.research_name.TAINTSTONE=Tainted Stone
-forbidden.research_text.TAINTSTONE=The Taint rocks on
-forbidden.research_page.TAINTSTONE.1=Tainted Lands aren't very safe places to be. Fibrous Taint hungrily spreads and crawls over most surfaces, eventually enveloping them and making them unsafe to walk on. The fibers don't appear to be harmful to tainted creatures or materials, however.<BR><BR>By mixing taint in with regular stone, you've created a magical material which is structurally stable, but resistant to the spread of fibrous taint. Tainted Stone can be used to build surfaces in Tainted Lands which are safe to walk on.<BR><BR>Not that building in a Tainted Land is advised...
+forbidden.research_name.TAINTSTONE=汚染された石
+forbidden.research_text.TAINTSTONE=汚染に立ち向かいし石
+forbidden.research_page.TAINTSTONE.1=汚染された地はあまり安全な場所ではない。繊維状の汚染は貪欲に広がり、ほとんどのものの表層を這い、いずれはそれらを包み込んで安全に歩けない状態にしてしまう。しかしながら、この繊維は汚染された生物や物質には無害なようだ。<BR><BR>普通の石に汚染を混ぜることで、構造的に安定、それでいて繊維状の汚染の伝播に耐性を持つ魔法の素材を作ることができる。汚染された石は、汚染された地の地表に、安全に歩ける場所を造るのに使うことができる。<BR><BR>汚染された地での建築を勧めるわけではないが...
 #
-forbidden.research_name.ROD_infernal=Infernal Wand Core
-forbidden.research_text.ROD_infernal=Devilish vis storage
-forbidden.research_page.ROD_infernal.1=A great and powerful thaumaturge like you deserves a powerful and imposing wand befitting your station. Some hippy silverwood wand just won't cut it. You need a wand that will serve as your scepter of authority.<BR><BR>You've discovered a way to create a wand infused with the power of the Nether.  The Infernal Wand Core can hold up to 150 vis and will slowly replenish its supply of Ignis up to 20%.  While within the Nether, the wand will also replenish its other aspects to 10%.
-forbidden.research_page.ROD_infernal.2=The wand also imbues you with some protection from the Nether's hazards, extinguishing you if you are on fire or protecting you from the effects of Withering as long as it is in your inventory.  While the wand is held in your hand, it will completely protect you from all fire damage.
+forbidden.research_name.ROD_infernal=地獄の杖身
+forbidden.research_text.ROD_infernal=悪魔のVis貯蔵庫
+forbidden.research_page.ROD_infernal.1=自分のように偉大で強力な魔導師には、その地位にふさわしい強力で堂々とした杖がふさわしい。その辺のヒッピーみたいなシルバーウッドの杖では駄目だ。権威の王笏となる杖が必要なのだ。<BR><BR>ネザーの力を注入した杖を作る方法を発見した。 地獄の杖身は150Visを保持でき、イグニスのVisが20％までゆっくりと自然回復する。 ネザーにいる間は、他の相のVisも10％まで自然回復する。
+forbidden.research_page.ROD_infernal.2=この杖にはネザーの危険から身を守る効果もあり、インベントリにある限り、火に包まれたときに消火したり、衰弱の効果から身を守ったりする。 杖を手に持っている間は、すべての火によるダメージから完全に身を守ることができる。
 #
-forbidden.research_name.ROD_profane=Profane Wand
-forbidden.research_text.ROD_profane=Sign on the dotted line
-forbidden.research_page.ROD_profane.1=Strange villagers have been known to procure these wooden wands carved with blasphemous symbols. Profane Wands draw from a mediocre pool of vis, but they seem to be able to refill themselves very quickly from an unseen source.<BR><BR>The runes on the wand sometimes shift and bleed and the wand itself occasionally whispers of demonic contracts and vile deeds.<BR><BR>Prolonged use is not recommended.
+forbidden.research_name.ROD_profane=冒涜的な杖
+forbidden.research_text.ROD_profane=点線の上に署名して
+forbidden.research_page.ROD_profane.1=奇妙な村人たちは、この冒涜的なシンボルが刻まれた木の杖を仕入れていることが知られている。冒涜的な杖は、普通のVisプールからVisを引き出せるが、不可視の源から非常に素早くVisを補充することができるようだ。<BR><BR>そのルーンは時として変化し、滲み出、そして杖自体が悪魔との契約や卑劣な行為を囁くこともある。<BR><BR>長時間の使用は望ましくない。
 #
-forbidden.research_name.ROD_soul=Eldritch Wand Core
-forbidden.research_text.ROD_soul=Corrupting vis storage
-forbidden.research_page.ROD_soul.1=You've discovered a way to tap the energy flowing through a Player Beacon and turn it into vis. As long as you're in a dimension with an active Player Beacon attuned to yourself, the Eldritch Wand Core will slowly charge all its internal reserves, which can hold up to 100 vis.<BR><BR>Channeling such great amounts of energy through your soul comes at a price, however. Each point of vis creates large amounts of corruption in your soul. It's best not to rely on its recharge abilities too greatly...
+forbidden.research_name.ROD_soul=エルドリッチの杖身
+forbidden.research_text.ROD_soul=堕落のVis貯蔵庫
+forbidden.research_page.ROD_soul.1=プレイヤービーコンを流れるエネルギーを利用し、それをVisに変える方法を発見した。自身と同調させたプレイヤービーコンと同じディメンションにいる限り、エルドリッチの杖身はゆっくりと充填され、100のVisを保持することができる。<BR><BR>しかしながら、そのような大量のエネルギーを魂に流すのには、代償が伴う。Visの各ポイントは自身の魂に大きな堕落を生み出す。再充填能力に頼りすぎないのが身のためだ...
 #
-forbidden.research_name.ROD_blood=Blood Wand Core
-forbidden.research_text.ROD_blood=Alchemical vis storage
-forbidden.research_page.ROD_blood.1=You've created a bridge between Thaumaturgy and Alchemical Wizardry. The Blood Wand can store up to 100 vis and will gradually fill itself using Life Points.<BR><BR>The wand will bind itself to the first person to pick it up. As long as the rod is empty, it will try to fill itself using LP from its owner's network. If there are not enough Life Points to fuel it, it will resort to drawing health from whoever is carrying it, but this conversion is less efficient. If it has no LP to draw from and its holder falls below three hearts, the wand stops charging itself.
-forbidden.research_page.ROD_blood.2=The infusion process alone isn't enough to complete a Blood Wand. Once the Inert Blood Rod has been infused, it must be imbued with life essence in a Blood Altar to be completed.
+forbidden.research_name.ROD_blood=血の染み込んだ杖身
+forbidden.research_text.ROD_blood=錬金術のVis貯蔵庫
+forbidden.research_page.ROD_blood.1=魔導学と錬金術的魔術の橋渡しをした。血の杖身は100Visを貯蔵することができ、ライフポイントを使ってゆっくりとVisを充填する。<BR><BR>杖は最初に手に取ったプレイヤーに紐付けされる。杖が空である限り、杖は所持者のネットワークのLPを使ってVisを満たそうとする。もし燃料となるライフポイントが足りなければ、それを持っているプレイヤーから体力を引き出そうとするが、この変換はあまり効率的ではない。もし引き出せるLPがなく、持ち主のハートが3つ以下になると、杖はVisの充填を止める。
+forbidden.research_page.ROD_blood.2=血の杖を完成させるには、注入作業だけでは不十分だ。完成させるには、不活性な血の杖が注入されたら、血の祭壇でそれにライフエッセンスを染み込ませなければならない。
 #
-forbidden.research_name.ROD_blood_staff=Blood Staff Core
-forbidden.research_text.ROD_blood_staff=Staff of the Blood Magus
-forbidden.research_page.ROD_blood_staff.1=The Blood Wand is useful, but it just charges so slowly. It's time to create a magical implement that can hold up in sustained combat.<BR><BR>Unlike most staves, the Blood Staff holds only 50 vis instead of the 100 its wand form can. Where it truly shines is its ability to recharge vis at a rapid rate. As long as the Blood Staff is held in your hotbar, it will recharge its vis from its owner's LP network four times as quickly as a normal Blood Wand. This voraciousness comes at a price, however. Unlike the wand, the Blood Staff can and will kill whoever's holding it if it doesn't recieve enough LP.
+forbidden.research_name.ROD_blood_staff=血の染み込んだ上級杖身
+forbidden.research_text.ROD_blood_staff=血魔術師の上級杖
+forbidden.research_page.ROD_blood_staff.1=血の杖は便利だが、いかんせん充填が遅い。継続的な戦闘に耐えうる魔道具を作る時が来た。<BR><BR>100Visを保持できる大半の上級杖とは異なり、血の上級杖は50Visしか保持できない。この杖が真に優れているのは、急速にVisを充填できる点である。血の上級杖がホットバーにある限り、持ち主のLPネットワークから血の杖の4倍の速さでVisを充填する。しかし、この貪欲さには代償が伴う。血の杖と違い、血の上級杖はLPが足りなければ所持者を殺すことができる。
 #
-forbidden.research_name.ROD_witchwood=Witchwood Wand Core
-forbidden.research_text.ROD_witchwood=Mana converter
-forbidden.research_page.ROD_witchwood.1=By creating a wand core out of Witchwood, you've discovered a way to convert mana into Vis.  The Witchwood Wand Core holds up to 100 vis and will gradually charge itself at the cost of 140 mana per point of vis.<BR><BR>Further research may reveal ways to lower this price.
+forbidden.research_name.ROD_witchwood=ウィッチウッドの杖身
+forbidden.research_text.ROD_witchwood=マナ変換器
+forbidden.research_page.ROD_witchwood.1=ウィッチウッドから杖身を作ることで、マナをVisに変換する方法を発見した。 ウィッチウッドの杖身は最大100Visを保持し、1Visにつき140マナのコストで徐々に充填される。<BR><BR>さらなる研究により、この対価を下げる方法が見つかるかもしれない。
 #
-forbidden.research_name.ROD_witchwood_staff=Witchwood Staff Core
-forbidden.research_text.ROD_witchwood_staff=Staff of the Arcanist
-forbidden.research_page.ROD_witchwood_staff.1=The Witchwood Wand eats far too much magical power and charges far too slowly to stand up in sustained combat. It's time for something a little more efficient at channeling arcane power.<BR><BR>Unlike most staves, the Witchwood Staff can only hold 50 vis. Its true strength lies in how quickly it recharges itself.  The staff regains vis at over twice the rate of the Witchwood Wand. Furthermore, the staff uses considerably less magical power than the Witchwood Wand, only needing 100 mana per point of vis, if used without the appropriate cap.
+forbidden.research_name.ROD_witchwood_staff=ウィッチウッドの上級杖身
+forbidden.research_text.ROD_witchwood_staff=古魔術師の杖
+forbidden.research_page.ROD_witchwood_staff.1=ウィッチウッドの杖は、継続的な戦闘に耐えるにはあまりにも多すぎる魔力を消費し、充填も遅すぎる。魔力を流すのに、もう少し効率的なものを作る時が来た。。<BR><BR>100Visを保持できる大半の上級杖とは異なり、ウィッチウッドの上級杖は50Visしか保持できない。この杖の真の強みは、Vis充填の速さにある。ウィッチウッドの上級杖はウィッチウッドの杖と比べて2倍以上の速度でVisを回復する。さらに、この上級杖はウィッチウッドの杖よりもかなり少ない魔力しか使わず、適切な石突なしで使用した場合でも、1Visにつき100マナしか必要としない。
 #
 forbidden.research_name.ROD_livingwood=Livingwood Wand Core
 forbidden.research_text.ROD_livingwood=Botanical vis storage

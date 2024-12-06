@@ -41,9 +41,9 @@ item.parachute_orange.name=橙色のパラシュート
 item.parachute_pink.name=桃色のパラシュート
 item.parachute_purple.name=紫色のパラシュート
 item.parachute_red.name=赤色のパラシュート
-item.parachute_teal.name=水色のパラシュート
+item.parachute_teal.name=青緑色のパラシュート
 item.parachute_yellow.name=黄色のパラシュート
-item.steelPole.name=鋼鉄のポール
+item.steelPole.name=スチールのポール
 item.canvas.name=キャンバス
 item.buggy.name=バギー
 item.emptyLiquidCanister.name=空の缶
@@ -63,18 +63,18 @@ item.basicItem.solar_module_1.name=ソーラーパネル
 item.basicItem.ingotCopper.name=銅インゴット
 item.basicItem.ingotTin.name=錫インゴット
 item.basicItem.ingotAluminum.name=アルミニウムインゴット
-item.basicItem.ingotSteel.name=鋼鉄インゴット
+item.basicItem.ingotSteel.name=スチールインゴット
 item.basicItem.ingotBronze.name=青銅インゴット
 item.basicItem.compressedCopper.name=圧縮銅
 item.basicItem.compressedTin.name=圧縮錫
 item.basicItem.compressedAluminum.name=圧縮アルミニウム
-item.basicItem.compressedSteel.name=圧縮鋼鉄
+item.basicItem.compressedSteel.name=圧縮スチール
 item.basicItem.compressedBronze.name=圧縮青銅
 item.basicItem.compressedIron.name=圧縮鉄
 item.basicItem.waferSolar.name=青色のソーラーウェハー 
 item.basicItem.waferBasic.name=基本ウェハー
 item.basicItem.waferAdvanced.name=発展型ウェハー
-item.basicItem.rawSilicon.name=生のシリコン
+item.basicItem.rawSilicon.name=未精製シリコン
 item.tier1.desc=Tier 1
 item.battery.name=電池
 item.infiniteBattery.name=無限電池
@@ -132,7 +132,7 @@ tile.crudeOilMoving.name=原油
 tile.refinery.name=精製機
 tile.fuelLoader.name=燃料充填機
 tile.sapling2.oak.name=オークの苗木
-tile.sapling2.spruce.name=マツの苗木
+tile.sapling2.spruce.name=トウヒの苗木
 tile.sapling2.birch.name=シラカバの苗木
 tile.sapling2.jungle.name=ジャングルの苗木
 tile.sealer.name=酸素密封機
@@ -153,7 +153,7 @@ tile.enclosed.PipeFluidsCobblestone.name=密封丸石液体パイプ
 tile.enclosed.PipeFluidsStone.name=密封石液体パイプ
 tile.enclosed.PipePowerStone.name=密封石動力パイプ
 tile.enclosed.PipePowerGold.name=密封金動力パイプ
-tile.solar.basic.name=基本ソーラーパネル
+tile.solar.basic.name=基本型ソーラーパネル
 tile.solar.advanced.name=発展型ソーラーパネル
 tile.parachest.name=パラチェスト
 tile.oreCopper.name=銅鉱石
@@ -196,14 +196,14 @@ tile.dish.name=アンテナ
 # DECOBLOCKS
 tile.tinStairs1.name=錫の装飾階段
 tile.tinStairs2.name=錫の装飾階段
-tile.wallGC.tin.name=錫の装飾壁
+tile.wallGC.tin.name=錫の装飾塀
 tile.slabGCHalf.tinSlab.name=錫の装飾ハーフブロック
 tile.moonStoneStairs.name=月の石の階段
-tile.wallGC.moon.name=月の石の壁
+tile.wallGC.moon.name=月の石の塀
 tile.slabGCHalf.moonSlab.name=月の石のハーフブロック
 tile.moonBricksStairs.name=月のダンジョンレンガの階段
-tile.wallGC.moonBricks.name=月のダンジョンレンガの壁
-tile.slabGCHalf.moonBricksSlab.name=月のダンジョンレンガハーフブロック
+tile.wallGC.moonBricks.name=月のダンジョンレンガの塀
+tile.slabGCHalf.moonBricksSlab.name=月のダンジョンレンガのハーフブロック
 tile.crudeOil.name=石油
 tile.fuelBlock.name=燃料
 
@@ -246,7 +246,7 @@ galaxy.milkyWay=天の川銀河
 newversion.failed.name=Galacticraftのアップデートチェックに失敗しました！ 15秒後に再試行します。
 newversion.success.name=Galacticraftのリモートバージョンが見つかりました:
 tooltip.rocket_fuel_tier=Tier %sまでのロケット燃料として使用可能
-tooltip.rocket_fuel_tier_max=すべてのTierでロケット燃料として使用可能
+tooltip.rocket_fuel_tier_max=全てのTierのロケット燃料として使用可能
 
 # KEYBINDINGS
 keybind.map.name=銀河マップを開く
@@ -260,8 +260,8 @@ keybind.vehicleup.name=[GC] 乗り物を上に移動
 keybind.vehicledown.name=[GC] 乗り物を下に移動
 
 # CREATIVE TABS
-itemGroup.GalacticraftBlocks=Galacticraft ブロック
-itemGroup.GalacticraftItems=Galacticraft アイテム
+itemGroup.GalacticraftBlocks=Galacticraft (ブロック)
+itemGroup.GalacticraftItems=Galacticraft (アイテム)
 
 # GUI
 gui.message.out.name=出力
@@ -476,7 +476,7 @@ gui.batterySlot.desc.1=or use a connected power source
 gui.oxygenSlot.desc.0=Oxygen slot, place oxygen canister
 gui.oxygenSlot.desc.1=here, or use a connected oxygen supply
 gui.oxygenStorage.desc.0=Oxygen Storage
-gui.oxygenStorage.desc.1=Oxygen
+gui.oxygenStorage.desc.1=酸素
 gui.energyStorage.desc.0=Energy Storage
 gui.energyStorage.desc.1=Energy
 gui.oxygenUse.desc=Oxygen Use
@@ -581,7 +581,7 @@ gui.message.overworld.meansurfacetemp.0.name=14C
 gui.message.overworld.meansurfacetemp.1.name=
 
 itemDesc.powerdraw.name=要求電力: %s /s
-itemDesc.shift.name=%sを押して詳細を表示
+itemDesc.shift.name=%sを押して詳細を表示します
 
 tile.oxygenDetector.description=Oxygen Detector will emit a redstone signal when surrounded by oxygen.
 tile.oxygenCollector.description=Oxygen Collector will store oxygen collected from leaves in the surrounding area.
@@ -636,7 +636,7 @@ container.refinery.name=精製機
 container.treasurechest.name=宝箱
 container.lander.name=宇宙着陸船
 container.spaceship.name=Tier 1のロケット
-container.solarbasic.name=基本ソーラーパネル
+container.solarbasic.name=基本型ソーラーパネル
 container.solaradvanced.name=発展型ソーラーパネル
 container.oxygendecompressor.name=酸素減圧機
 

@@ -150,7 +150,7 @@ enderio.silicon.name=Silicon
 enderio.conduitBinder.name=Conduit Binder
 enderio.binderComposite.name=Binder Composite
 enderio.phasedIronNugget.name=Pulsating Iron Nugget
-tile.blockDarkIronBars.name=Dark Iron Bars
+tile.blockDarkIronBars.name=Dark Steel Bars
 tile.blockSoulariumBars.name=Soularium Bars
 tile.blockEndSteelBars.name=End Steel Bars
 tile.blockEndermanSkull.name=Enderman Skull
@@ -446,8 +446,8 @@ enderio.capbank.iodisplay.loss=Out
 enderio.capbank.iodisplay.input=Input
 enderio.capbank.iodisplay.output=Output
 
-tile.blockWirelessCharger.name=Wireless Charger
-tile.blockWirelessCharger.tooltip.detailed.line1=Charges items in nearby
+tile.blockWirelessCharger.name=Chargeur sans-fil
+tile.blockWirelessCharger.tooltip.detailed.line1=Recharge les objets proches
 tile.blockWirelessCharger.tooltip.detailed.line2=players inventories
 
 tile.blockSagMill.name=SAG Mill
@@ -1148,9 +1148,9 @@ enderio.gui.machine.vat.dump.1=Dump Input Tank
 enderio.gui.machine.vat.dump.2=Dump Output Tank
 
 #Combustion Gen
-enderio.combustionGenerator.coolantTank=Coolant
-enderio.combustionGenerator.fuelTank=Fuel
-enderio.combustionGenerator.output=Generating:
+enderio.combustionGenerator.coolantTank=Réfrigérant
+enderio.combustionGenerator.fuelTank=Carburant
+enderio.combustionGenerator.output=Génération :
 
 #Stirling Gen
 enderio.stirlingGenerator.output=Generating:

@@ -40,7 +40,7 @@ enderio.itemPowerConduitEndergyGold.name=金製エネルギー導管
 enderio.itemPowerConduitEndergyCopper.name=銅製エネルギー導管
 enderio.itemPowerConduitEndergySilver.name=銀製エネルギー導管
 enderio.itemPowerConduitEndergyElectrum.name=エレクトラム製エネルギー導管
-enderio.itemPowerConduitEndergyEnergeticSilver.name=エナジェティック銀製エネルギー導管
+enderio.itemPowerConduitEndergyEnergeticSilver.name=エナジェティックシルバー製エネルギー導管
 enderio.itemPowerConduitEndergyCrystalline.name=結晶質合金製エネルギー導管
 enderio.itemPowerConduitEndergyCrystallinePinkSlime.name=結晶質ピンクスライム製エネルギー導管
 enderio.itemPowerConduitEndergyMelodic.name=メロディー合金製エネルギー導管
@@ -59,7 +59,7 @@ enderio.itemLiquidConduitMelodicEnder.name=メロディー合金製エンダー�
 enderio.itemLiquidConduitStellarEnder.name=星合金製エンダー液体導管
 enderio.itemLiquidConduit.lockedType=以下の液体のみを輸送可能にしました
 enderio.itemLiquidConduit.unlockedType=輸送可能な液体の設定を解除しました
-enderio.itemLiquidConduit.lockedWaila=輸送可能な液体 : 
+enderio.itemLiquidConduit.lockedWaila=輸送可能な液体: 
 
 enderio.itemLiquidConduit.tooltip.maxExtract=最大搬出量 :
 enderio.itemLiquidConduit.tooltip.maxIo=最大輸送量 :
@@ -146,7 +146,7 @@ entity.witherSkeleton.name=ウィザースケルトン
 
 #Materials
 enderio.itemMaterial.name=素材
-enderio.silicon.name=ケイ素
+enderio.silicon.name=シリコン
 enderio.conduitBinder.name=導管接合材
 enderio.binderComposite.name=接合剤用複合物
 enderio.phasedIronNugget.name=脈動鉄ナゲット
@@ -166,7 +166,7 @@ enderio.dustWheat.name=小麦粉
 enderio.itemEnderios.name="エンデリオス"
 enderio.itemEnderios.tooltip.common.line1=栄養バランス抜群の朝食メニュー！
 enderio.itemEnderios.tooltip.detailed.line1=※製品パッケージは健康を保証するものではございません。
-enderio.itemEnderios.tooltip.detailed.line2=栄養成分表示 : 脂質 53g、糖質 253g、エンダーダスト 394g
+enderio.itemEnderios.tooltip.detailed.line2=栄養成分表示: 脂質 53g、糖質 253g、エンダーダスト 394g
 enderio.itemEnderios.tooltip.detailed.line3=エンダーダストは、摂取することで吐き気、めまい、混乱、
 enderio.itemEnderios.tooltip.detailed.line4=テレポートを引き起こす可能性がございます。
 
@@ -209,7 +209,7 @@ item.bucketVapor_of_levity.name=軽い蒸気入りバケツ
 
 fluid.eio.xpjuice=液体経験値
 tile.fluid.eio.xpjuice.name=液体経験値
-item.bucketXpjuice.name=経験値入りバケツ
+item.bucketXpjuice.name=液体経験値入りバケツ
 
 enderio.fluid.millibucket.abr=L
 
@@ -225,22 +225,22 @@ enderio.itemMachinePart.name=機械の部品
 enderio.machineChassi.name=工業用マシンシャーシ
 enderio.basicGear.name=基礎的な歯車
 enderio.soulMachineChassi.name=ソウルマシンシャーシ
-enderio.endSteelMachineChassi.name=エンドスチールシャーシ
+enderio.endSteelMachineChassi.name=エンドスチールマシンシャーシ
 enderio.pulsatingCrystal.name=脈動するクリスタル
 enderio.vibrantCrystal.name=ヴァイブラントクリスタル
 enderio.enderCrystal.name=エンダークリスタル
 enderio.attractorCrystal.name=誘惑のクリスタル
 enderio.weatherCrystal.name=ウェザークリスタル
 
-enderio.darkGrindingBall.name=ダークスチール製粉砕用ボール
-enderio.electricalGrindingBall.name=電炉鋼製粉砕用ボール
-enderio.energeticGrindingBall.name=エナジェティック合金製粉砕用ボール
-enderio.vibrantGrindingBall.name=ヴァイブラント合金製粉砕用ボール
-enderio.redstoneGrindingBall.name=レッドストーン合金製粉砕用ボール
-enderio.conductiveGrindingBall.name=電導鉄製粉砕用ボール
-enderio.pulsatingGrindingBall.name=脈動鉄製粉砕用ボール
-enderio.soulariumGrindingBall.name=ソウラリウム製粉砕用ボール
-enderio.endSteelGrindingBall.name=エンドスチール製粉砕用ボール
+enderio.darkGrindingBall.name=ダークスチールの粉砕用ボール
+enderio.electricalGrindingBall.name=電炉鋼の粉砕用ボール
+enderio.energeticGrindingBall.name=エナジェティック合金の粉砕用ボール
+enderio.vibrantGrindingBall.name=ヴァイブラント合金の粉砕用ボール
+enderio.redstoneGrindingBall.name=レッドストーン合金の粉砕用ボール
+enderio.conductiveGrindingBall.name=電導鉄の粉砕用ボール
+enderio.pulsatingGrindingBall.name=脈動鉄の粉砕用ボール
+enderio.soulariumGrindingBall.name=ソウラリウムの粉砕用ボール
+enderio.endSteelGrindingBall.name=エンドスチールの粉砕用ボール
 
 enderio.darkGrindingBall.tooltip.detailed.line1=準自生粉砕機の粉砕用ボール
 enderio.darkGrindingBall.tooltip.detailed.line2=主産物の生産量
@@ -252,20 +252,20 @@ tile.blockReinforcedObsidian.name=強化黒曜石
 tile.blockReinforcedObsidian.tooltip.common.line1=ウィザーの爆発への耐性
 
 #Quartz / Glass
-tile.blockFusedQuartz.name=水晶ガラス
-enderio.blockFusedQuartz.fusedQuartz.name=水晶ガラス
+tile.blockFusedQuartz.name=クォーツガラス
+enderio.blockFusedQuartz.fusedQuartz.name=クォーツガラス
 enderio.blockFusedQuartz.fusedGlass.name=高透過ガラス
-enderio.blockFusedQuartz.enlightenedFusedQuartz.name=発光水晶ガラス
+enderio.blockFusedQuartz.enlightenedFusedQuartz.name=発光クォーツガラス
 enderio.blockFusedQuartz.enlightenedFusedGlass.name=発光透過ガラス
-enderio.blockFusedQuartz.darkFusedQuartz.name=遮光水晶ガラス
+enderio.blockFusedQuartz.darkFusedQuartz.name=遮光クォーツガラス
 enderio.blockFusedQuartz.darkFusedGlass.name=遮光透過ガラス
 
-item.enderio.itemFusedQuartzFrame.name=水晶ガラスの外枠
+item.enderio.itemFusedQuartzFrame.name=クォーツガラスの外枠
 enderio.itemPowderIngot=粉とインゴット
 
 #Alloys
 enderio.itemAlloy.name=合金
-enderio.electricalSteel.name=電炉鋼インゴット
+enderio.electricalSteel.name=電炉鋼
 enderio.energeticAlloy.name=エナジェティック合金インゴット
 enderio.phasedGold.name=ヴァイブラント合金インゴット
 enderio.redstoneAlloy.name=レッドストーン合金インゴット
@@ -279,19 +279,19 @@ enderio.endSteelNugget.name=エンドスチールナゲット
 
 enderio.crudeSteel.name=粘土混合体インゴット
 enderio.crystallineAlloy.name=結晶質合金インゴット
-enderio.melodicAlloy.name=メロディー合金インゴット
-enderio.stellarAlloy.name=星合金インゴット
+enderio.melodicAlloy.name=メロディック合金インゴット
+enderio.stellarAlloy.name=ステラー合金インゴット
 enderio.crystallinePinkSlime.name=結晶質ピンクスライムインゴット
-enderio.energeticSilver.name=エナジェティック銀インゴット
+enderio.energeticSilver.name=エナジェティックシルバーインゴット
 enderio.vividAlloy.name=ビビッド合金インゴット
 
-enderio.crudeSteelGrindingBall.name=粘土混合体製粉砕用ボール
-enderio.crystallineAlloyGrindingBall.name=結晶質合金製粉砕用ボール
-enderio.melodicAlloyGrindingBall.name=メロディー合金製粉砕用ボール
-enderio.stellarAlloyGrindingBall.name=星合金製粉砕用ボール
-enderio.crystallinePinkSlimeGrindingBall.name=結晶質ピンクスライム製粉砕用ボール
-enderio.energeticSilverGrindingBall.name=エナジェティック銀製粉砕用ボール
-enderio.vividAlloyGrindingBall.name=ビビッド合金製粉砕用ボール
+enderio.crudeSteelGrindingBall.name=粘土混合体の粉砕用ボール
+enderio.crystallineAlloyGrindingBall.name=結晶質合金の粉砕用ボール
+enderio.melodicAlloyGrindingBall.name=メロディック合金の粉砕用ボール
+enderio.stellarAlloyGrindingBall.name=ステラー合金の粉砕用ボール
+enderio.crystallinePinkSlimeGrindingBall.name=結晶質ピンクスライムの粉砕用ボール
+enderio.energeticSilverGrindingBall.name=エナジェティックシルバーの粉砕用ボール
+enderio.vividAlloyGrindingBall.name=ビビッド合金の粉砕用ボール
 
 enderio.precientCrystal.name=予知のクリスタル
 enderio.pulsatingPowder.name=脈動の粒子
@@ -300,16 +300,16 @@ enderio.enderCrystalPowder.name=終焉の粒子
 enderio.precientPowder.name=予知の粒子
 
 #Balls
-enderio.electricalSteel_ball.name=電炉鋼製粉砕用ボール
-enderio.energeticAlloy_ball.name=エナジェティック合金製粉砕用ボール
-enderio.phasedGold_ball.name=ヴァイブラント合金製粉砕用ボール
-enderio.redstoneAlloy_ball.name=レッドストーン合金製粉砕用ボール
-enderio.conductiveIron_ball.name=電導鉄製粉砕用ボール
-enderio.phasedIron_ball.name=脈動鉄製粉砕用ボール
-enderio.vibrantNugget_ball.name=ヴァイブラント合金製粉砕用ボール
-enderio.darkSteel_ball.name=ダークスチール製粉砕用ボール
-enderio.soularium_ball.name=ソウラリウム製粉砕用ボール
-enderio.endSteel_ball.name=エンドスチール製粉砕用ボール
+enderio.electricalSteel_ball.name=電炉鋼の粉砕用ボール
+enderio.energeticAlloy_ball.name=エナジェティック合金の粉砕用ボール
+enderio.phasedGold_ball.name=ヴァイブラント合金の粉砕用ボール
+enderio.redstoneAlloy_ball.name=レッドストーン合金の粉砕用ボール
+enderio.conductiveIron_ball.name=電導鉄の粉砕用ボール
+enderio.phasedIron_ball.name=脈動鉄の粉砕用ボール
+enderio.vibrantNugget_ball.name=Vibrant Alloy Nugget Ball
+enderio.darkSteel_ball.name=ダークスチールの粉砕用ボール
+enderio.soularium_ball.name=ソウラリウムの粉砕用ボール
+enderio.endSteel_ball.name=エンドスチールの粉砕用ボール
 
 tile.blockIngotStorage.name=圧縮されたインゴット
 tile.enderio.electricalSteel.name=電炉鋼ブロック
@@ -325,10 +325,10 @@ tile.enderio.endSteel.name=エンドスチールブロック
 
 tile.enderio.crudeSteel.name=粘土混合体ブロック
 tile.enderio.crystallineAlloy.name=結晶質合金ブロック
-tile.enderio.melodicAlloy.name=メロディー合金ブロック
-tile.enderio.stellarAlloy.name=星合金ブロック
+tile.enderio.melodicAlloy.name=メロディック合金ブロック
+tile.enderio.stellarAlloy.name=ステラー合金ブロック
 tile.enderio.crystallinePinkSlime.name=結晶質ピンクスライムブロック
-tile.enderio.energeticSilver.name=エナジェティック銀ブロック
+tile.enderio.energeticSilver.name=エナジェティックシルバーブロック
 tile.enderio.vividAlloy.name=ビビッド合金ブロック
 
 #Powder / Ingot
@@ -373,7 +373,7 @@ tile.blockReservoir.tooltip.detailed.line4=毎秒1バケツ分の水を生産す
 tile.blockReservoir.tooltip.detailed.line5=レンチで右クリックして
 tile.blockReservoir.tooltip.detailed.line6=自動搬出を有効にできる
 
-tile.blockAlloySmelter.name=合金精錬機
+tile.blockAlloySmelter.name=合金製錬炉
 tile.blockAlloySmelter.tooltip.detailed.line1=EnderIOの合金の作成に使用する
 tile.blockAlloySmelter.tooltip.detailed.line2=電気で動くかまどとしても
 tile.blockAlloySmelter.tooltip.detailed.line3=使用できる
@@ -498,7 +498,7 @@ tile.blockVat.tooltip.detailed.line1=EnderIOの液体の醸造に使用できる
 
 tile.blockEnchanter.name=エンチャンター
 tile.blockEnchanter.tooltip.detailed.line1=経験値を消費してアイテムと
-tile.blockEnchanter.tooltip.detailed.line2=本と羽ペンを合成し、
+tile.blockEnchanter.tooltip.detailed.line2=本と羽根ペンを合成し、
 tile.blockEnchanter.tooltip.detailed.line3=エンチャントの本を作成することができる
 
 tile.blockCombustionGenerator.name=燃焼発電機
@@ -697,8 +697,8 @@ tile.blockDarkSteelPressurePlate.silent.tooltip.detailed.line3=高透過ガラ�
 tile.blockDarkSteelPressurePlate.silent.tooltip.detailed.line4=透明になる
 
 tile.blockDarkSteelAnvil.intact.name=ダークスチールの金床
-tile.blockDarkSteelAnvil.slightlyDamaged.name=少し壊れたダークスチールの金床
-tile.blockDarkSteelAnvil.veryDamaged.name=かなり壊れたダークスチールの金床
+tile.blockDarkSteelAnvil.slightlyDamaged.name=欠けたダークスチールの金床
+tile.blockDarkSteelAnvil.veryDamaged.name=壊れかけのダークスチールの金床
 tile.blockDarkSteelAnvil.tooltip.common.line1=ダメージ耐性
 tile.blockDarkSteelAnvil.tooltip.detailed.line1=バニラの金床よりも
 tile.blockDarkSteelAnvil.tooltip.detailed.line2=長持ちする
@@ -734,8 +734,8 @@ enderio.itemTravelStaff.notEnoughPower=電気が足りません
 enderio.travelStaffKeybind.isDisabled=旅の杖のテレポートキーは無効です！
 
 item.itemTeleportStaff.name=テレポートの杖
-item.itemTeleportStaff.tooltip.detailed.line1=右クリックで見ている場所にテレポートする
-item.itemTeleportStaff.tooltip.detailed.line2=Shift右クリックでトラベルアンカーにテレポートする
+item.itemTeleportStaff.tooltip.detailed.line1=Shift右クリックで見ている場所にテレポートする
+item.itemTeleportStaff.tooltip.detailed.line2=右クリックでトラベルアンカーにテレポートする
 item.itemTeleportStaff.tooltip.detailed.line3=近くのブロックに向かって右クリックすると
 item.itemTeleportStaff.tooltip.detailed.line4=ブロックの反対側にテレポートする
 
@@ -746,17 +746,17 @@ item.itemCoordSelector.tooltip.detailed.line3=プレイヤーに近い隣接し�
 item.itemCoordSelector.tooltip.detailed.line4=ブロックをShift右クリックすると
 item.itemCoordSelector.tooltip.detailed.line5=ブロック自体の座標を記録する
 item.itemCoordSelector.tooltip.detailed.line6=遠くの座標も記録できる
-enderio.itemCoordSelector.chat.newCoords=座標を記録 : %s
-enderio.itemCoordSelector.chat.setCoords=座標を設定 : %s
-enderio.itemCoordSelector.chat.newDimension=ディメンションを記録 : %s%s
-enderio.itemCoordSelector.chat.setDimension=ディメンションを設定 : %s%s
+enderio.itemCoordSelector.chat.newCoords=座標を記録: %s
+enderio.itemCoordSelector.chat.setCoords=座標を設定: %s
+enderio.itemCoordSelector.chat.newDimension=ディメンションを記録: %s%s
+enderio.itemCoordSelector.chat.setDimension=ディメンションを設定: %s%s
 
 #Painter
 tile.blockPainter.name=塗装機
 enderio.blockPainter.paintedWith=塗装ブロック :
 tile.blockPaintedFence.name=塗装したフェンス
 tile.blockPaintedFenceGate.name=塗装したフェンスゲート
-tile.blockPaintedWall.name=塗装した壁
+tile.blockPaintedWall.name=塗装した塀
 tile.blockPaintedStair.name=塗装した階段
 tile.blockPaintedSlab.name=塗装したハーフブロック
 tile.blockPaintedDoubleSlab.name=塗装したハーフブロック
@@ -766,8 +766,8 @@ enderio.painter.tooltip.wasPainted=§oどうしてこんなことをしたの？
 
 tile.blockPainter.tooltip.detailed.line1=塗装できるブロック :
 tile.blockPainter.tooltip.detailed.line2=導管用外装、階段、フェンス、
-tile.blockPainter.tooltip.detailed.line3=フェンスゲート、階段、丸石の壁、
-tile.blockPainter.tooltip.detailed.line4=水晶ガラスの外枠、グロウストーン、カーペット、
+tile.blockPainter.tooltip.detailed.line3=フェンスゲート、階段、丸石の塀、
+tile.blockPainter.tooltip.detailed.line4=クォーツガラスの外枠、グロウストーン、カーペット、
 tile.blockPainter.tooltip.detailed.line5=ダークスチールの感圧板、
 tile.blockPainter.tooltip.detailed.line6=トラベルアンカー
 
@@ -793,7 +793,7 @@ item.enderio.itemConduitProbe.tooltip.detailed.line2=導管ネットワークの
 item.enderio.itemConduitProbe.tooltip.detailed.line3=コピー／貼り付けモードの場合
 item.enderio.itemConduitProbe.tooltip.detailed.line4=導管をShift右クリックして導管の接続設定をコピーし
 item.enderio.itemConduitProbe.tooltip.detailed.line5=右クリックで貼り付ける
-item.enderio.itemConduitProbe.tooltip.detailed.line6=Shift中マウスホイールか「Y」キーでモードを変更する
+item.enderio.itemConduitProbe.tooltip.detailed.line6=Shift中マウスホイールか'Y'キーでモードを変更します
 
 item.itemSoulVessel.name=魂の小瓶
 enderio.item.itemSoulVessel.tooltip.health=体力 :
@@ -836,7 +836,7 @@ item.endSteel_chestplate.name=エンドスチールのチェストプレート
 item.endSteel_leggings.name=エンドスチールのレギンス
 item.endSteel_boots.name=エンドスチールのブーツ
 item.endSteel_sword.name=ジ・エンダー MK-Ⅱ
-item.endSteel_pickaxe.name=エンドスチールのピッケル
+item.endSteel_pickaxe.name=エンドスチールのツルハシ
 item.endSteel_axe.name=エンドスチールの斧
 
 #Stellar
@@ -845,7 +845,7 @@ item.stellar_chestplate.name=星合金のチェスト
 item.stellar_leggings.name=星合金のレギンス
 item.stellar_boots.name=星合金のブーツ
 item.stellar_sword.name=ジ・エンダー MK-Ⅳ
-item.stellar_pickaxe.name=星合金のピッケル
+item.stellar_pickaxe.name=ステラー合金のツルハシ
 item.stellar_axe.name=星合金の斧
 
 enderio.item.darkSteel.tooltip.lvs=レベル
@@ -899,27 +899,27 @@ enderio.item.stellar_boots.tooltip.line1=電力保有時、落下ダメージを
 enderio.item.stellar_boots.tooltip.line2=無効化する
 
 enderio.darksteel.upgrade.empowered_one.name=エンパワー
-enderio.darksteel.upgrade.empowered_one.tooltip.detailed.line1=蓄電量 : $P
+enderio.darksteel.upgrade.empowered_one.tooltip.detailed.line1=蓄電量: $P
 enderio.darksteel.upgrade.empowered_one.tooltip.detailed.line2=耐久値の消耗の$D%を
 enderio.darksteel.upgrade.empowered_one.tooltip.detailed.line3=電気で軽減する
 
 enderio.darksteel.upgrade.empowered_two.name=エンパワー Ⅱ
-enderio.darksteel.upgrade.empowered_two.tooltip.detailed.line1=蓄電量 : $P
+enderio.darksteel.upgrade.empowered_two.tooltip.detailed.line1=蓄電量: $P
 enderio.darksteel.upgrade.empowered_two.tooltip.detailed.line2=耐久値の消耗の$D%を
 enderio.darksteel.upgrade.empowered_two.tooltip.detailed.line3=電気で軽減する
 
 enderio.darksteel.upgrade.empowered_three.name=エンパワー Ⅲ
-enderio.darksteel.upgrade.empowered_three.tooltip.detailed.line1=蓄電量 : $P
+enderio.darksteel.upgrade.empowered_three.tooltip.detailed.line1=蓄電量: $P
 enderio.darksteel.upgrade.empowered_three.tooltip.detailed.line2=耐久値の消耗の$D%を
 enderio.darksteel.upgrade.empowered_three.tooltip.detailed.line3=電気で軽減する
 
 enderio.darksteel.upgrade.empowered_four.name=エンパワー Ⅳ
-enderio.darksteel.upgrade.empowered_four.tooltip.detailed.line1=蓄電量 : $P
+enderio.darksteel.upgrade.empowered_four.tooltip.detailed.line1=蓄電量: $P
 enderio.darksteel.upgrade.empowered_four.tooltip.detailed.line2=耐久値の消耗の$D%を
 enderio.darksteel.upgrade.empowered_four.tooltip.detailed.line3=電気で軽減する
 
 enderio.darksteel.upgrade.empowered_five.name=エンパワー Ⅴ
-enderio.darksteel.upgrade.empowered_five.tooltip.detailed.line1=蓄電量 : $P
+enderio.darksteel.upgrade.empowered_five.tooltip.detailed.line1=蓄電量: $P
 enderio.darksteel.upgrade.empowered_five.tooltip.detailed.line2=耐久値の消耗の$D%を
 enderio.darksteel.upgrade.empowered_five.tooltip.detailed.line3=電気で軽減する
 
@@ -943,7 +943,7 @@ enderio.darksteel.upgrade.sound.enabled=音響探知機能を有効化
 enderio.darksteel.upgrade.sound.disabled=音響探知機能を無効化
 
 enderio.darksteel.upgrade.gogglesOfRevealing.name=洞察
-enderio.darksteel.upgrade.gogglesOfRevealing.tooltip.detailed.line1=Vis消費量減少 : 5%
+enderio.darksteel.upgrade.gogglesOfRevealing.tooltip.detailed.line1=Vis消費軽減: 5%
 enderio.darksteel.upgrade.gogglesOfRevealing.enabled=魔法が解き明かされてゆく
 enderio.darksteel.upgrade.gogglesOfRevealing.disabled=魔法は視覚では認識できなくなった
 
@@ -1030,18 +1030,18 @@ enderio.gui.tooltip.redstoneControlMode.on=信号入力時動作
 enderio.gui.tooltip.redstoneControlMode.off=信号非入力時動作
 enderio.gui.tooltip.redstoneControlMode.never=非動作
 
-enderio.gui.machine.button.storelevel=預入 : 1
+enderio.gui.machine.button.storelevel=預入: 1
 enderio.gui.machine.tooltip.storelevel=1レベル分預ける
-enderio.gui.machine.button.storelevels=預入 : 10
+enderio.gui.machine.button.storelevels=預入: 10
 enderio.gui.machine.tooltip.storelevels=10レベル分預ける
-enderio.gui.machine.button.storeall=預入 : 全部
+enderio.gui.machine.button.storeall=預入: 全部
 enderio.gui.machine.tooltip.storeall=全て預ける
 
-enderio.gui.machine.button.retrievelevel=引出 : 1
+enderio.gui.machine.button.retrievelevel=引出: 1
 enderio.gui.machine.tooltip.retrievelevel=1レベル分引き出す
-enderio.gui.machine.button.retrievelevels=引出 : 10
+enderio.gui.machine.button.retrievelevels=引出: 10
 enderio.gui.machine.tooltip.retrievelevels=10レベル分引き出す
-enderio.gui.machine.button.retrieveall=引出 : 全て
+enderio.gui.machine.button.retrieveall=引出: 全て
 enderio.gui.machine.tooltip.retrieveall=全て引き出す
 
 enderio.gui.machine.ioMode.overlay.tooltip=搬入出設定
@@ -1053,7 +1053,7 @@ enderio.gui.machine.ioMode.push=搬出
 enderio.gui.machine.ioMode.disabled=無効
 enderio.gui.machine.ioMode.pullPush=搬入出
 enderio.gui.machine.ioMode.pullPush.colored=%2$s搬%3$s入%1$s出
-enderio.gui.machine.ioMode=モード : %s
+enderio.gui.machine.ioMode=モード: %s
 enderio.gui.machine.poweredspawner.capture=捕獲
 enderio.gui.machine.poweredspawner.spawn=スポーン
 enderio.gui.machine.receivefilter=受信フィルター
@@ -1064,7 +1064,7 @@ enderio.gui.machine.upkeep=待機電力 :
 enderio.gui.machine.bufferingstacks=アイテムをスタック単位で扱う
 enderio.gui.machine.bufferingsingle=アイテムを単一で扱う
 enderio.gui.machine.percraft=クラフト時に消費
-enderio.gui.machine.side=面 : %s
+enderio.gui.machine.side=面: %s
 enderio.gui.machine.side.north=北
 enderio.gui.machine.side.south=南
 enderio.gui.machine.side.west=西
@@ -1217,7 +1217,7 @@ enderio.gui.existing.item_filter.snapshot=転写
 enderio.gui.existing.item_filter.merge=追加
 enderio.gui.existing.item_filter.clear=消去
 enderio.gui.existing.item_filter.show=表示
-enderio.gui.existing.item_filter.snapshot2=注 : フィルターが設定されていない場合、接続先のインベントリのアイテムがフィルターとして使用されます
+enderio.gui.existing.item_filter.snapshot2=注: フィルターが設定されていない場合、接続先のインベントリのアイテムがフィルターとして使用されます
 enderio.gui.existing.item_filter.merge2=現在のフィルターに追加する
 enderio.gui.existing.item_filter.clear2=フィルターを消去する
 enderio.gui.existing.item_filter.show2=フィルターの中身を表示する
@@ -1298,11 +1298,11 @@ enderio.gui.conduit.item.roundRobinEnabled=ラウンドロビンが有効
 enderio.gui.conduit.item.roundRobinDisabled=ラウンドロビンが無効
 enderio.gui.conduit.item.priority=優先度
 
-enderio.gui.conduit.item.fuzzy.disabled=耐久値の消耗 : 無視
-enderio.gui.conduit.item.fuzzy.fuzzy_25=耐久値の消耗 : 25%以上
-enderio.gui.conduit.item.fuzzy.fuzzy_50=耐久値の消耗 : 50%以上
-enderio.gui.conduit.item.fuzzy.fuzzy_75=耐久値の消耗 : 75%以上
-enderio.gui.conduit.item.fuzzy.fuzzy_99=耐久値の消耗 : 1以上
+enderio.gui.conduit.item.fuzzy.disabled=耐久値の消耗: 無視
+enderio.gui.conduit.item.fuzzy.fuzzy_25=耐久値の消耗: 25%以上
+enderio.gui.conduit.item.fuzzy.fuzzy_50=耐久値の消耗: 50%以上
+enderio.gui.conduit.item.fuzzy.fuzzy_75=耐久値の消耗: 75%以上
+enderio.gui.conduit.item.fuzzy.fuzzy_99=耐久値の消耗: 1以上
 enderio.gui.conduit.item.fuzzy.tooltip.0=フィルターにアイテムがなくても動作する
 enderio.gui.conduit.item.fuzzy.tooltip.1=アイテムを入れない場合、動作変更に
 enderio.gui.conduit.item.fuzzy.tooltip.2=%sボタンを使用する
@@ -1328,12 +1328,12 @@ enderio.gui.conduit.gas.autoExtract=自動搬出
 enderio.gui.weather.task.clear=晴天
 enderio.gui.weather.task.rain=降雨
 enderio.gui.weather.task.storm=雷雨
-enderio.gui.weather.requiredfluid=必要な液体 : %sL
+enderio.gui.weather.requiredfluid=必要な液体: %smB
 enderio.weatherObelisk.fuelTank=気圧変化剤タンク
 
 #Enchants
 enchantment.enderio.soulBound=ソウルバウンド
-description.enchantment.enderio.soulBound=プレイヤーの死亡時、このエンチャントが付いたアイテム、ツール、装備は地面にドロップせず、インベントリに残る
+description.enchantment.enderio.soulBound=プレイヤーの死亡時、このエンチャントが付与されたアイテムはドロップせず、リスポーン後もインベントリに残り続けます
 
 #Configuration
 enderio.config.title=Ender IOの設定
@@ -1393,10 +1393,10 @@ enderio.keybind.stepassist=歩行補助
 enderio.keybind.yetawrenchmode=イェタレンチモード切替
 enderio.keybind.magnet=電磁石の切り替え
 enderio.keybind.staffoftravelingtp=旅の杖の使用
-enderio.nei.alloysmelter=合金精錬機
+enderio.nei.alloysmelter=合金製錬炉
 enderio.nei.enchanter=エンチャンター
 enderio.nei.sagmill=準自生粉砕機
-enderio.nei.sagmill.outputchance=確率 : {0,choice,0#'<1'|0<{0,number}}%
+enderio.nei.sagmill.outputchance=確率: {0,choice,0#'<1'|0<{0,number}}%
 enderio.nei.slicensplice=継ぎ接ぎ加工機
 enderio.nei.soulbinder=ソウルバインダー
 enderio.nei.vat=醸造桶

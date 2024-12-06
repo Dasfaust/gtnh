@@ -1,5 +1,5 @@
 # Tooltip strings
-spiceoflife.tooltip.nutritional.value=栄養価 : 
+spiceoflife.tooltip.nutritional.value=栄養価: 
 spiceoflife.tooltip.eaten.recently=最近の%2$d回の食事のうち%1$s回食べた
 spiceoflife.tooltip.eaten.recently.hunger=最近摂った%2$s満腹度のうち%1$s回食べた
 spiceoflife.tooltip.eaten.recently.time=過去%2$s日のうち%1$s回食べた
@@ -16,10 +16,10 @@ spiceoflife.tooltip.times.plural=回
 spiceoflife.tooltip.hunger=満腹度
 spiceoflife.tooltip.food.group=食品種別 :
 spiceoflife.tooltip.food.groups=食品種別 :
-spiceoflife.tooltip.to.close.food.container=スニーク中に使用すると閉める
-spiceoflife.tooltip.to.open.food.container=スニーク中に使用すると開ける
+spiceoflife.tooltip.to.close.food.container=スニークしながら使用して閉じる
+spiceoflife.tooltip.to.open.food.container=スニークしながら使用して開く
 spiceoflife.tooltip.can.spill.food=開いているときに食べ物がこぼれることがある
-spiceoflife.tooltip.hold.key.for.details=%sで詳細を表示
+spiceoflife.tooltip.hold.key.for.details=%sを押して詳細を表示します
 
 # Quantity descriptors
 spiceoflife.quantity.one.time=1
@@ -44,6 +44,6 @@ spiceoflife.gui.food_history.bonus_hearts=増えた体力 :
 spiceoflife.gui.food_history.next_heart=次の体力増加まで :
 
 # Items
-item.spiceoflife.bookfoodjournal.name=食べ物の旅
+item.spiceoflife.bookfoodjournal.name=Food Journal - 食べ物の旅
 item.spiceoflife.lunchbox.name=弁当箱
 item.spiceoflife.lunchbag.name=弁当袋

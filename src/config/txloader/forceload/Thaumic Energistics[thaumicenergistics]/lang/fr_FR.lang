@@ -61,7 +61,7 @@ thaumicenergistics.item.cell.microscope.name=Cell Microscope
 
 #Tooltips
 thaumicenergistics.tooltip.itemstack.details=Hold §eCTRL§f for details.
-thaumicenergistics.tooltip.essentia.cell.contains=Contains
+thaumicenergistics.tooltip.essentia.cell.contains=Contient
 thaumicenergistics.tooltip.essentia.cell.bytes=%s of %s Bytes Used.
 thaumicenergistics.tooltip.essentia.cell.types=%s of %s essentia types stored.
 thaumicenergistics.tooltip.button.void=Allow Void?
@@ -76,6 +76,8 @@ thaumicenergistics.tooltip.button.inscriber.missing=Requires Knowledge Core
 thaumicenergistics.tooltip.button.swap.armor=Swaps your currently equipped armor with the armor stored in the terminal.
 thaumicenergistics.tooltip.button.swap.armor.title=Swap Armor
 thaumicenergistics.tooltip.arcane.assembler.hasVis=Contains Stored Vis
+thaumicenergistics.tooltip.button.reset.aspect=Reset the aspects
+thaumicenergistics.tooltip.button.reset.aspect.description=Reset the left-hand aspects table to its original state
 
 
 #GUI

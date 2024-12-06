@@ -28,7 +28,7 @@ tile.stardustOre.name=Звёздная руда
 tile.igneousRockOre.name=Раскалённая порода
 tile.instabilityOrbOre.name=Нестабильная порода
 tile.enderGoo.name=Слизь Края
-tile.endiumBlock.name=Блок эндиума
+tile.endiumBlock.name=Блок эндия
 tile.endiumBlock.bacon.name=Блок бейкония
 tile.endStoneTerrain.infested.name=Заражённый камень Края
 tile.endStoneTerrain.burned.name=Сожжённый камень Края
@@ -78,10 +78,10 @@ tile.laboratoryStairs.name=Лабораторные ступеньки
 tile.laboratoryGlass.name=Лабораторное стекло
 tile.sacredStone.name=Священный камень
 tile.flowerPot.name=Цветочный горшок
-tile.biomeIslandCore.name=Biome Island Core
+tile.biomeIslandCore.name=Ядро биома острова
 tile.brewingStand.name=Улучшенная варочная стойка
-tile.templeEndPortal.name=End Portal
-tile.laserBeam.name=Laser Beam
+tile.templeEndPortal.name=Портал в Край
+tile.laserBeam.name=Лазерный луч
 
 item.essence.dragon.name=Драконья эссенция
 item.essence.dragon.bacon.name=Эссенция бекона
@@ -209,7 +209,7 @@ item.charm.lastresort.name=Амулет последней надежды
 item.charm.lastresort.tooltip=Телепортирует на $0 блоков после получения удара, с задержкой в $1 секунд
 item.charm.cannotstack=Эффект от этого амулета не складывается с амулетами такого же типа
 
-item.curse.eternal=Вечное
+item.curse.eternal=Вечность
 item.curse.teleportation.name=Проклятие телепортации
 item.curse.confusion.name=Проклятие смятения
 item.curse.tranquility.name=Проклятие спокойствия
@@ -258,7 +258,7 @@ energy.status.weakened=СЛАБОСТЬ
 energy.status.tired=УТОМЛЕНИЕ
 energy.status.unstable=НЕСТАБИЛЬНОСТЬ
 
-namegenerator.middle=, the 
+namegenerator.middle=, 
 
 container.enhancedBrewing=Улучшенная варочная стойка
 container.voidChest=Пустотный сундук
@@ -286,21 +286,21 @@ compendium.discoveredObject=Открыт новый фрагмент знани�
 compendium.cannotBuy=Не удалось приобрести этот объект
 compendium.nonBuyable=Этот фрагмент нужно приобрести в другом месте
 compendium.unfulfilledRequirements=Для начала нужно приобрести другой фрагмент
-compendium.viewObject= Нажмите для просмотра
+compendium.viewObject=Нажмите для просмотра
 compendium.dataError=Ошибка во время открытия компендиума Края, сервер не предоставил нужные данные. Покиньте игру, подождите несколько секунд, помолитесь Вашему божеству и попробуйте ещё раз!
 compendium.smoothText.title=Гладкий текст
 compendium.smoothText.line1=Включите, если Вы испытываете
 compendium.smoothText.line2=плохое масштабирование текста (экспериментально)
 compendium.smoothText.mode=Режим
 compendium.smoothText.disabled=Выкл.
-compendium.crafting.changed=Recipe was modified by another mod
-compendium.crafting.removed=Recipe was removed by another mod
+compendium.crafting.changed=Рецепт изменен другим модом
+compendium.crafting.removed=Рецепт удален другим модом
 
 key.openCompendium=Компендиум Края
 key.openCompendium.bacon=Компендиум Бекона
 key.openCompendium.conflict=Клавиша компендиума Края конфликтует с $, пожалуйста, исправьте это в настройках управления.
 
-music.notEnabled=Cannot play Hardcore Ender Expansion music disc, custom music is not enabled.
+music.notEnabled=Невозможно воспроизвести музыкальный диск Hardcore Ender Expansion, пользовательская музыка не включена.
 music.missingResourcePack=Ресурспак не установлен
 
 achievement.viewAchievements=Просмотреть достижения
@@ -318,7 +318,7 @@ achievement.enhancedBrewingStand.desc=Улучшите варочную стой
 achievement.templeCaller=Перерождение
 achievement.templeCaller.desc=Добудьте призыватель храма, чтобы перегенерировать Край
 achievement.endPowder=Секреты улучшения
-achievement.endPowder.desc=Добудьте немного порошка Края для зачарований
+achievement.endPowder.desc=Добудьте немного пыли Края для зачарований
 achievement.enhancedEnderPearl=Путешествие 101
 achievement.enhancedEnderPearl.desc=Улучшите жемчуг Края
 achievement.enhancedEnderPearlFull=Супер блестящий!

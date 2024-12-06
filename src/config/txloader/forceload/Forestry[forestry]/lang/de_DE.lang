@@ -243,6 +243,11 @@ for.gui.noeffect=Kein Effekt
 for.gui.owner=Besitzer
 for.gui.page=Seite
 
+for.gui.search_ingredients=Search Items
+for.gui.search_ingredients.internal_inventory=Internal Inventory
+for.gui.search_ingredients.player_inventory=Player Inventory
+for.gui.search_ingredients.all_inventories=All Inventories
+
 for.gui.pipe.filter.anything=Alles
 for.gui.pipe.filter.bee=Alle Bienen
 for.gui.pipe.filter.cave=Höhlenbewohner
@@ -469,6 +474,9 @@ item.for.adventurerBag.name=Abenteurerrucksack
 item.for.adventurerBagT2.name=Gewobener Abenteurerrucksack
 item.for.ambrosia.name=Ambrosia
 item.for.apatite.name=Apatit
+
+item.for.coinBag.name=Coiner's Backpack
+item.for.coinBagT2.name=Coiner's Woven Backpack
 
 item.for.apiaristBag.name=Imkerrucksack
 item.for.apiaristBoots.name=Imkerschuhe
@@ -1684,6 +1692,8 @@ for.config.butterfly.entities.maximum=Butterfly Maximum
 for.config.butterfly.entities.maximum.comment=New butterflies will stay in item form and will not take flight once this limit is reached.
 for.config.butterfly.entities.pollination=Butterfly Pollination
 for.config.butterfly.entities.pollination.comment=Allow butterflies to pollinate leaves.
+for.config.butterfly.entities.disable.leaf.spawns=Disable Butterfly Leaf Spawns
+for.config.butterfly.entities.disable.leaf.spawns.comment=Prevent random butterflies from autonomously spawning from Forestry leaves.
 
 for.config.backpacks.item.stacks.format=Add itemStacks for the %s's backpack here in the format 'modid:name:meta'. For wildcard metadata the format is 'modid:name'.
 for.config.backpacks.ore.dict.format=Add ore dictionary names for the %s's backpack here in the format 'oreDictName'.

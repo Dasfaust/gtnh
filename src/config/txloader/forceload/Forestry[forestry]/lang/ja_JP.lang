@@ -21,15 +21,15 @@ for.chat.command.noperms=このコマンドの使用は許可されていませ�
 for.chat.command.forestry.help=Forestryのコマンド
 for.chat.command.forestry.format=形式: /%s <sub-command>
 
-for.chat.command.forestry.version.desc=- %s : バージョン情報
+for.chat.command.forestry.version.desc=- %s: バージョン情報
 for.chat.command.forestry.version.help=現在のバージョンを出力する
 for.chat.command.forestry.version.format=形式: /%s
 
-for.chat.command.forestry.plugins.desc=- %s : Forestryプラグインのリスト
+for.chat.command.forestry.plugins.desc=- %s: Forestryプラグインのリスト
 for.chat.command.forestry.plugins.help=すべてのForestryプラグインを列挙する。緑は有効なもの、赤は無効なもの。
 for.chat.command.forestry.plugins.format=形式: /%s
 
-for.chat.command.forestry.plugins.info.desc=- %s : 特定のプラグインについての情報
+for.chat.command.forestry.plugins.info.desc=- %s: 特定のプラグインについての情報
 for.chat.command.forestry.plugins.info.help=特定のプラグインについての情報を出力する
 for.chat.command.forestry.plugins.info.format=形式: /%s <plugin-name>
 
@@ -81,7 +81,7 @@ for.flowers.end=エンド (ドラゴンの卵)
 for.flowers.gourd=瓜 (カボチャ・スイカ)
 for.flowers.jungle=ジャングル (ツタ・シダ)
 for.flowers.mushrooms=キノコ
-for.flowers.nether=ネザー (ネザーウォート)
+for.flowers.nether=ネザー
 for.flowers.vanilla=花
 for.flowers.wheat=小麦
 for.flowers.snow=雪
@@ -94,7 +94,7 @@ fluid.ice=削氷
 fluid.juice=果汁
 fluid.short.mead=ショートミード
 fluid.mead=ミード
-fluid.milk=牛乳
+fluid.milk=ミルク
 fluid.seedoil=種油
 tile.forestry.fluid.bioethanol.name=エタノール
 tile.forestry.fluid.biomass.name=バイオマス
@@ -104,7 +104,7 @@ tile.forestry.fluid.ice.name=削氷
 tile.forestry.fluid.juice.name=果汁
 tile.forestry.fluid.short.mead.name=ショートミード
 tile.forestry.fluid.mead.name=ミード
-tile.forestry.fluid.milk.name=牛乳
+tile.forestry.fluid.milk.name=ミルク
 tile.forestry.fluid.seedoil.name=種油
 
 for.gui.access=アクセス
@@ -200,7 +200,7 @@ for.gui.escritoire.notes.level3.4=以前は見られなかった点があった�
 for.gui.escritoire.notes.level4.count=7
 for.gui.escritoire.notes.level4.1=私の不満の叫び声に、家政婦は心配して研究室を覗き込んだ。
 for.gui.escritoire.notes.level4.2=狂乱と絶望の淵で、私はすべてのメモをびりびりに破り捨てた!
-for.gui.escritoire.notes.level4.3=これは…何の意味もない!
+for.gui.escritoire.notes.level4.3=これは...何の意味もない!
 for.gui.escritoire.notes.level4.4=そんなはずがない。以前はそんなことはなかった!
 for.gui.escritoire.notes.level4.5=大槌ではほとんどへこまなかったので、チェーンソーを注文した。
 for.gui.escritoire.notes.level4.6=それは怪しげで、冷酷で、小さな目で、確かに私を見つめていた。
@@ -216,9 +216,9 @@ for.gui.escritoire.notes.success.5=そうだ!
 for.gui.escritoire.notes.failure.count=5
 for.gui.escritoire.notes.failure.1=すべてが水泡に帰した。
 for.gui.escritoire.notes.failure.2=メモを火にくべた。
-for.gui.escritoire.notes.failure.3=なぜだ？初めのうちはあんなに順調に進んでいたのに…
+for.gui.escritoire.notes.failure.3=なぜだ？初めのうちはあんなに順調に進んでいたのに...
 for.gui.escritoire.notes.failure.4=失敗。まただ。
-for.gui.escritoire.notes.failure.5=なんという…
+for.gui.escritoire.notes.failure.5=なんという...
 
 for.gui.mail.foreveryattached=商品単価：
 for.gui.mail.from=差出人
@@ -242,6 +242,11 @@ for.gui.nocturnal=夜行性
 for.gui.noeffect=効果なし
 for.gui.owner=所有者
 for.gui.page=ページ
+
+for.gui.search_ingredients=Search Items
+for.gui.search_ingredients.internal_inventory=Internal Inventory
+for.gui.search_ingredients.player_inventory=Player Inventory
+for.gui.search_ingredients.all_inventories=All Inventories
 
 for.gui.pipe.filter.anything=すべてのアイテム
 for.gui.pipe.filter.bee=すべての蜂
@@ -335,7 +340,7 @@ for.gui.stored=蓄電量
 for.gui.temperature=温度
 for.gui.tolerance=耐性
 for.gui.temptol=温度耐性
-for.gui.tooltip.tmi=Shiftで詳細を表示
+for.gui.tooltip.tmi=Shiftを押して詳細を表示します
 for.gui.triple=トリプル
 for.gui.unknown=未知のゲノム
 for.gui.warm=温暖
@@ -348,7 +353,7 @@ for.hints.accesspipe.desc=機械を非公開に設定するとチューブやパ
 for.hints.accesspipe.tag=パイプのアクセス制限
 for.hints.accessrules.desc=アクセスが"共用"だと、誰でも機械を壊したり、機械とやりとりしたりできます。"制限あり"でも、やりとりは誰でもできます。
 for.hints.accessrules.tag=アクセスの原則
-for.hints.apiaristsuit.desc=養蜂用防護服一式を装備すると、蜂の有害な影響をすべて防ぐことができます。
+for.hints.apiaristsuit.desc=養蜂用防護服一式を装備すると、蜂の有害な効果をすべて防ぐことができます。
 for.hints.apiaristsuit.tag=防護服!
 for.hints.beebiomes.desc=蜂はその種に適したバイオームでしか活動しません。蜂分析器と活動環境探知器を使って探しましょう。
 for.hints.beebiomes.tag=バイオームを選んで!
@@ -366,7 +371,7 @@ for.hints.energybuffer.desc=エンジンは対象ブロックにエネルギー�
 for.hints.energybuffer.tag=エネルギーのバッファリング!
 for.hints.energyunit.desc=エンジンのエネルギー出力は"Redstone Flux per tick"を表すRF/tという単位で計測されます。1秒は20tickです。
 for.hints.energyunit.tag=セイ・レッドストーンフラックス!
-for.hints.enginebronzefuels.desc=バイオガスエンジンでは、バイオマス、種油、ハチミツ、牛乳、そして水と、様々な燃料が使用可能です!
+for.hints.enginebronzefuels.desc=バイオガスエンジンでは、バイオマス、種油、ハチミツ、ミルク、そして水と、様々な燃料が使用可能です!
 for.hints.enginebronzefuels.tag=全ての燃料を使おう!
 for.hints.enginebronzeheatloss.desc=バイオガスエンジンでは水を使うことができますが、燃料効率は最悪で、絶えず溶岩を消費します。
 for.hints.enginebronzeheatloss.tag=水には注意して!
@@ -470,6 +475,9 @@ item.for.adventurerBagT2.name=冒険家の強化バックパック
 item.for.ambrosia.name=アンブロシア
 item.for.apatite.name=燐灰石
 
+item.for.coinBag.name=Coiner's Backpack
+item.for.coinBagT2.name=Coiner's Woven Backpack
+
 item.for.apiaristBag.name=養蜂家のバックパック
 item.for.apiaristBoots.name=養蜂用靴
 item.for.apiaristChest.name=養蜂用上着
@@ -481,8 +489,8 @@ item.for.ash.name=灰
 item.for.beealyzer.name=蜂分析器
 item.for.habitatLocator.name=活動環境探知器
 
-item.for.cart.beehouse.name=ビーハウス付きトロッコ
-item.for.cart.apiary.name=養蜂箱付きトロッコ
+item.for.cart.beehouse.name=ビーハウス付きのトロッコ
+item.for.cart.apiary.name=養蜂箱付きのトロッコ
 
 item.for.beeCombs.cocoa.name=ココアの巣板
 item.for.beeCombs.darkened.name=暗黒の巣板
@@ -539,7 +547,7 @@ item.for.canMead.name=ミード入り缶
 item.for.canOil.name=石油入り缶
 item.for.canSeedOil.name=種油入り缶
 item.for.canShortMead.name=ショートミード入り缶
-item.for.carton.name=ボール紙
+item.for.carton.name=厚紙
 
 item.for.circuitboard.basic.name=基本回路基板
 item.for.circuitboard.enhanced.name=強化回路基板
@@ -560,7 +568,7 @@ item.for.diggerBag.name=採掘者のバックパック
 item.for.diggerBagT2.name=採掘者の強化バックパック
 
 item.for.fertilizerBio.name=堆肥
-item.for.fertilizerCompound.name=無機肥料
+item.for.fertilizerCompound.name=リン酸肥料
 item.for.foresterBag.name=木こりのバックパック
 item.for.foresterBagT2.name=木こりの強化バックパック
 
@@ -568,7 +576,7 @@ item.for.frameImpregnated.name=含侵加工済み巣枠
 item.for.frameProven.name=秘伝の巣枠
 item.for.frameUntreated.name=未加工の巣枠
 
-for.frame.tooltip.durability=耐久値:
+for.frame.tooltip.durability=耐久力:
 for.frame.tooltip.territory=受粉範囲:
 for.frame.tooltip.mutationRate=突然変異確率:
 for.frame.tooltip.lifespan=寿命:
@@ -701,10 +709,10 @@ item.for.waxCast.name=蜜蝋製の鋳型
 item.for.woodPulp.name=木材パルプ
 item.for.wrench.name=レンチ [Forestry]
 
-itemGroup.apiculture=養蜂
-itemGroup.arboriculture=林業
+itemGroup.apiculture=Forestry (養蜂)
+itemGroup.arboriculture=Forestry (林業)
 itemGroup.forestry=Forestry
-itemGroup.lepidopterology=鱗翅類学
+itemGroup.lepidopterology=Forestry (鱗翅類学)
 
 tile.for.core.0.name=分析機 [Forestry]
 tile.for.core.1.name=書き物机
@@ -718,7 +726,7 @@ tile.for.engine.4.name=時計仕掛けのエンジン
 tile.for.factory.0.name=瓶詰機
 tile.for.factory.1.name=工作機
 tile.for.factory.2.name=遠心分離機
-tile.for.factory.3.name=バイオマス発酵槽
+tile.for.factory.3.name=発酵槽
 tile.for.factory.4.name=加湿機
 tile.for.factory.5.name=圧搾機
 tile.for.factory.6.name=蒸留機
@@ -782,31 +790,31 @@ for.jubilance.resource=養蜂箱の下に%sが必要
 
 # BEES
 for.errors.isRaining.desc=雨
-for.errors.isRaining.help=雨の中で活動できるのは雨耐性の蜂だけです。
+for.errors.isRaining.help=雨の中で活動できるのは雨耐性を持つ蜂だけです。
 for.errors.noDrone.desc=雄蜂なし
-for.errors.noDrone.help=交配には雄蜂が必要です。
+for.errors.noDrone.help=交配には§8《§0雄蜂§8／Drone》§0が必要です。
 for.errors.noFlower.desc=花なし
-for.errors.noFlower.help=蜂が適切な花を見つけられていません。蜂分析器を使って花の好みを確認しましょう。
+for.errors.noFlower.help=蜂が適切な花を見つけられていません。§8《§0蜂分析器§8／Beealyzer》§0を使って花の好みを確認しましょう。
 for.errors.noQueen.desc=女王蜂なし
-for.errors.noQueen.help=巣に女王蜂、または王女蜂と雄蜂を補給してください。
+for.errors.noQueen.help=巣に§8《§0女王蜂§8／Queen》§0、または§8《§0王女蜂§8／Princess》§0と§8《§0雄蜂§8／Drone》§0を配置してください。
 for.errors.noSky.desc=空に障害物あり
 for.errors.noSky.help=この巣は上から直射日光を受ける必要があります。
 for.errors.notDay.desc=日中ではない
-for.errors.notDay.help=この蜂は日中しか活動できません。
+for.errors.notDay.help=この蜂は日中でしか活動できません。
 for.errors.notGloomy.desc=暗さ不足
 for.errors.notGloomy.help=この蜂は暗闇でしか活動できません。
 for.errors.notLucid.desc=明るさ不足
 for.errors.notLucid.help=この蜂は暗闇の中を飛ぶのが苦手です。
 for.errors.notNight.desc=夜間ではない
-for.errors.notNight.help=この蜂は夜間しか活動できません。
+for.errors.notNight.help=この蜂は夜間にしか活動できません。
 for.errors.tooHot.desc=暑すぎ
-for.errors.tooHot.help=蜂がこの暑さでだらけてしまい働くことができません。活動環境探知器を使って涼しい気候を探しましょう。
+for.errors.tooHot.help=蜂がこの暑さでだらけてしまい働くことができません。§8《§0活動環境探知器§8／Habitat Locator》§0を使って涼しい気候を探しましょう。
 for.errors.tooCold.desc=寒すぎ
-for.errors.tooCold.help=蜂がこの凍えるような寒さのなか生き延びるために身を寄せ合っています。動環境探知器を使って暖かい気候を探しましょう。
+for.errors.tooCold.help=蜂がこの凍えるような寒さのなか生き延びるために身を寄せ合っています。§8《§0活動環境探知器§8／Habitat Locator》§0を使って暖かい気候を探しましょう。
 for.errors.tooHumid.desc=多湿すぎ
-for.errors.tooHumid.help=ここの気候のせいで、湿気が多すぎて蜂が飛べません。活動環境探知器を使って乾燥した気候を探しましょう。
+for.errors.tooHumid.help=この気候のせいで、湿気が多すぎて蜂が飛べません。§8《§0活動環境探知器§8／Habitat Locator》§0を使って乾燥した気候を探しましょう。
 for.errors.tooArid.desc=乾燥しすぎ
-for.errors.tooArid.help=ここの気候のせいで、蜂が干からびて活動できなくなっています。活動環境探知器を使って湿った気候を探しましょう。
+for.errors.tooArid.help=この気候のせいで、蜂が干からびて活動できなくなっています。§8《§0活動環境探知器§8／Habitat Locator》§0を使って湿った気候を探しましょう。
 
 # MACHINES
 for.errors.noPower.desc=エネルギーなし
@@ -833,16 +841,16 @@ for.errors.notDark.help=動作にはより暗い環境が必要です。
 # RAIN TANK
 for.errors.notRaining.desc=降雨なし
 for.errors.notRaining.help=雨が降っているときのみ動作します。
-for.errors.noRainBiome.desc=絶対に雨が降らない
+for.errors.noRainBiome.desc=雨が降らない
 for.errors.noRainBiome.help=この場所では雨が降りません。
 for.errors.noSkyRainTank.desc=空に障害物あり
 for.errors.noSkyRainTank.help=雨を集めるため、この機械の上の領域を空けてください。
 
 # ALYZERS
 for.errors.noHoney.desc=ハチミツが必要
-for.errors.noHoney.help=この機器の動作にはハチミツの滴かハニーデューが必要です。
+for.errors.noHoney.help=この機器の動作には§8《§0ハチミツの滴§8／Honey Drop》§0か§8《§0ハニーデュー§8／Honeydew》§0が必要です。
 for.errors.noSpecimen.desc=分析対象なし
-for.errors.noSpecimen.help=分析する標本を入れてください。
+for.errors.noSpecimen.help=分析する対象を入れてください。
 
 # ENGINES
 for.errors.forcedCooldown.desc=強制クールダウン
@@ -856,7 +864,7 @@ for.errors.noHeat.help=このエンジンの稼働には熱源が必要です。
 
 # TRADE STATION
 for.errors.noStamps.desc=切手が必要
-for.errors.noStamps.help=交易ステーションでは、送料の支払いに切手が必要です。
+for.errors.noStamps.help=交易ステーションでは、送料の支払いに§8《§0切手§8／Stamp》§0が必要です。
 for.errors.noPaper.desc=紙が必要
 for.errors.noPaper.help=交易ステーションでは、手紙を送るのに紙が必要です。
 for.errors.noSupplies.desc=在庫が必要
@@ -874,13 +882,13 @@ for.errors.notUnique.help=交易ステーションの名称は固有のもので
 for.errors.noRecipient.desc=受領者なし
 for.errors.noRecipient.help=手紙を送るには宛名を書く必要があります。
 for.errors.notPostpaid.desc=切手が必要
-for.errors.notPostpaid.help=送料の支払いのため切手を貼ってください。
+for.errors.notPostpaid.help=送料の支払いのため§8《§0切手§8／Stamp》§0を貼ってください。
 
 # CIRCUIT BOARDS
 for.errors.circuitMismatch.desc=レイアウトの不一致
 for.errors.circuitMismatch.help=電子管の数と回路基板の大きさが一致していません。
 for.errors.noCircuitBoard.desc=基板なし
-for.errors.noCircuitBoard.help=選択した電子管をはんだ付けするための回路基板を挿入してください。
+for.errors.noCircuitBoard.help=選択した電子管をはんだ付けするための§8《§0回路基板§8／Circuit Board》§0を挿入してください。
 for.errors.noCircuitLayout.desc=レイアウトなし
 for.errors.noCircuitLayout.help=現在のゲーム設定により、利用可能なレイアウトがありません。
 
@@ -888,7 +896,7 @@ for.errors.noCircuitLayout.help=現在のゲーム設定により、利用可能
 for.errors.noFarmland.desc=農地の土台なし
 for.errors.noFarmland.help=農場の土台となる、滑らかな砂岩、レンガ、または石レンガを設置してください。
 for.errors.noFertilizer.desc=無機肥料なし
-for.errors.noFertilizer.help=農場の稼働には無機肥料が必要です。堆肥では不十分です。
+for.errors.noFertilizer.help=農場の稼働には§8《§0無機肥料§8／Fertilizer》§0が必要です。堆肥では不十分です。
 for.errors.noLiquid.desc=水なし
 for.errors.noLiquid.help=降水、温度、湿度に応じて、農場に必要な量の水を供給してください。
 
@@ -898,7 +906,7 @@ for.errors.invalidBiome.help=このバイオームでは機械を動かせませ
 for.errors.noDisposal.desc=廃棄物が処理できない
 for.errors.noDisposal.help=廃棄物を処理するための空間が不十分です。
 for.errors.unknown.desc=不明なエラー
-for.errors.unknown.help=おめでとうございます、不具合を発見しましたね。
+for.errors.unknown.help=おめでとうございます！不具合を発見しましたね。
 for.errors.wrongStacksize.desc=アイテムが多すぎる
 for.errors.wrongStacksize.help=ここでは1つのアイテムしか使用できません。
 
@@ -908,13 +916,13 @@ for.errors.wrongStacksize.help=ここでは1つのアイテムしか使用でき
 
 entity.Villager.apiarist=養蜂家
 
-death.bee.aggressive.player=%1$sは蜂の大群に遭遇した。%2$sが彼の防護服を盗んだ。
+death.bee.aggressive.player=%1$sは蜂の大群に遭遇した。%2$sが彼の防護服を盗んだのだ。
 death.bee.aggressive=%1$sは蜂の大群に遭遇した。刺されもするはずだ。
 death.bee.end.player=%1$sは%2$sと戦いながら敵意の一刺しにより生涯を終えた。
 death.bee.end=%1$sは敵意の一刺しにより生涯を終えた。
 death.bee.radioactive.player=%1$sはヘルメットを着けずにチェルノブイリに立ち入った。%2$sはそれを見てクスクス笑った。
 death.bee.radioactive=%1$sはヘルメットを着けずにチェルノブイリに立ち入った。
-death.bee.heroic.player=%1$sは英雄蜂に殺された! %2$sは彼らに永遠の恩義を感じている。
+death.bee.heroic.player=%1$sは英雄蜂に殺された! %2$sは彼らに永遠の借りができた。
 death.bee.heroic=%1$sは英雄蜂に殺された!
 
 forestry.allele.effect.aggressive=攻撃的
@@ -1005,29 +1013,29 @@ for.bees.species.wintry=冬季
 for.bees.stock.ignoble=遺伝子汚染個体
 for.bees.stock.pristine=純系個体
 
-for.chat.command.forestry.bee.desc=- %s : 養蜂用コマンド
+for.chat.command.forestry.bee.desc=- %s: 養蜂用コマンド
 for.chat.command.forestry.bee.help=養蜂に関連したコマンド。
 for.chat.command.forestry.bee.format=形式: /%s <sub-command>
 
-for.chat.command.forestry.bee.give.desc=- %s : 蜂の付与
+for.chat.command.forestry.bee.give.desc=- %s: 蜂の付与
 for.chat.command.forestry.bee.give.help=プレイヤーに雄蜂、王女蜂、女王蜂または幼虫を与える。
 for.chat.command.forestry.bee.give.format=形式: /%s <species-name> <bee-type> [<player-name>]
 for.chat.command.forestry.bee.give.available=利用可能な蜂のタイプ: %s
 for.chat.command.forestry.bee.give.given=%2$s %3$sを%1$sに与えました
 
-for.chat.command.forestry.bee.mode.desc=- %s : 養蜂モードのコマンド
+for.chat.command.forestry.bee.mode.desc=- %s: 養蜂モードのコマンド
 for.chat.command.forestry.bee.mode.help=養蜂モードに関連したコマンド。
 for.chat.command.forestry.bee.mode.format=形式: /%s <sub-command>
 
-for.chat.command.forestry.bee.mode.info.desc=- %s : 養蜂モードの情報
+for.chat.command.forestry.bee.mode.info.desc=- %s: 養蜂モードの情報
 for.chat.command.forestry.bee.mode.info.help=現在の養蜂モードと利用可能な養蜂モードについての情報。
 for.chat.command.forestry.bee.mode.info.format=形式: /%s <mode-name>
 
-for.chat.command.forestry.bee.mode.set.desc=- %s : 養蜂モードの設定
+for.chat.command.forestry.bee.mode.set.desc=- %s: 養蜂モードの設定
 for.chat.command.forestry.bee.mode.set.help=ワールドの養蜂モードを設定する。
 for.chat.command.forestry.bee.mode.set.format=形式: /%s [<world-#>] <mode-name>
 
-for.chat.command.forestry.bee.save.desc=- %s : 養蜂の統計の保存
+for.chat.command.forestry.bee.save.desc=- %s: 養蜂の統計の保存
 for.chat.command.forestry.bee.save.help=ファイルに養蜂の統計情報を保存する。
 for.chat.command.forestry.bee.save.format=形式: /%s [<player-name>]
 for.chat.command.forestry.bee.save.stats=%2$s時点の%1$sの養蜂の統計 :
@@ -1052,10 +1060,10 @@ for.chat.command.forestry.stats.save.key.notCounted=種数の合計には加算�
 for.chat.command.forestry.stats.save.key.notCounted.symbol=NC
 for.chat.command.forestry.stats.save.mode=モード: 
 
-for.description.speciesAgrarian="他ほどは臭わないよ。やるべきことはやってるしね。"|Myrathi, Cannie - 養蜂家
+for.description.speciesAgrarian="他ほどは臭わないよ。仕事はこなしてるしね。"|Myrathi, Cannie - 養蜂家
 for.description.speciesAustere=危険で激しやすい性格。近づくときは必ず完全防備でいることをお勧めします。|養蜂入門
 for.description.speciesAvenging="家の壁が崩れ始め、頭上では屋根が軋むのが聞こえたが、気にしなかった!新しい女王蜂を掴むと、千匹の小さな虫が私の手袋を刺すのを感じた。"|名無し
-for.description.speciesBoggy="牛がこいつに刺されてるのを見たことがあるよ。数秒後には体中にキノコが生え始めたんだ!…写真?あぁ、撮ってないよ。"|Sengir卿 - 狂人
+for.description.speciesBoggy="牛がこいつに刺されてるのを見たことがあるよ。数秒後には体中にキノコが生え始めたんだ!...写真?あぁ、撮ってないよ。"|Sengir卿 - 狂人
 for.description.speciesCommon=養蜂初心者の参入の印とされています。|養蜂入門
 for.description.speciesCultivated=仕事の早い蜂です。作業以外はどうでもいいと考えています。|養蜂入門
 for.description.speciesDarkened=錬金術的に結合された物質の力に引き寄せられたこの種は、強力なエネルギー源だった。|養蜂辞典
@@ -1065,7 +1073,7 @@ for.description.speciesEdenic="その昆虫の奇妙でささやかな踊りを�
 for.description.speciesEnded="私は村の養蜂箱に、この一見隠者のような昆虫を見つけた。それは休眠しており、明らかにその本来あるべき世界から引き離され、そしてその世界からの断片を強く欲してしていた。"|養蜂入門
 for.description.speciesExotic="熱に震え、防護服が冷や汗でびしょ濡れになったが、私は震える手でようやく1匹を引きずり出すことができた。"|養蜂入門
 for.description.speciesFarmerly=各国の穀倉地帯である広大な草原で見られます。|養蜂入門
-for.description.speciesFiendish=ネザーの熟練養蜂家から、この蜂による激しい攻撃が報告されています。注意が必要です。|Beekeeping 101
+for.description.speciesFiendish=ネザーの熟練養蜂家から、この蜂による激しい攻撃が報告されています。注意が必要です。|養蜂入門
 for.description.speciesForest=森林で最もよくみられる害虫のひとつで、たいていはおとなしい性格です。|養蜂入門
 for.description.speciesFrugal=何世代もの蜂が太陽に焼かれ、この種が生まれました。|養蜂入門
 for.description.speciesGlacial="冬が来る"|E. Stark - 養蜂家
@@ -1164,7 +1172,7 @@ for.multiblock.error.small.x=マルチブロックが小さすぎます。X軸�
 for.multiblock.error.small.y=マルチブロックが小さすぎます。Y軸は%dブロック以上である必要があります。
 for.multiblock.error.small.z=マルチブロックが小さすぎます。Z軸は%dブロック以上である必要があります。
 
-for.multiblock.alveary.error.needSlabs=大型養蜂箱の上に、木材ハーフブロックを設置する必要があります。
+for.multiblock.alveary.error.needSlabs=大型養蜂箱の上に、木材のハーフブロックを設置する必要があります。
 for.multiblock.alveary.error.needSpace=大型養蜂箱の3段目の側面には、蜂の出入りを妨げるものを置いてはいけません。
 for.multiblock.alveary.error.needPlainOnTop=大型養蜂箱の3段目には、通常の大型養蜂箱のみを使用してください。
 for.multiblock.alveary.error.needPlainInterior=大型養蜂箱の内部に配置するブロックは、通常の大型養蜂箱のみを使用してください。
@@ -1181,31 +1189,31 @@ entity.Villager.arborist=樹医
 
 for.arboriculture.effect.none=なし
 
-for.chat.command.forestry.tree.desc=- %s : 林業用コマンド
+for.chat.command.forestry.tree.desc=- %s: 林業用コマンド
 for.chat.command.forestry.tree.help=林業に関連したコマンド。
 for.chat.command.forestry.tree.format=形式: /%s <sub-command>
 
-for.chat.command.forestry.tree.spawnTree.desc=- %s : 木を生成
+for.chat.command.forestry.tree.spawnTree.desc=- %s: 木を生成
 for.chat.command.forestry.tree.spawnTree.help=プレイヤーの近くに木を生成する。
 for.chat.command.forestry.tree.spawnTree.format=形式: /%s <species-name> [<player-name>]
 
-for.chat.command.forestry.tree.spawnForest.desc=- %s : 森を生成
+for.chat.command.forestry.tree.spawnForest.desc=- %s: 森を生成
 for.chat.command.forestry.tree.spawnForest.help=プレイヤーの近くに森を生成する。
 for.chat.command.forestry.tree.spawnForest.format=形式: /%s <species-name> [<player-name>]
 
-for.chat.command.forestry.tree.mode.desc=- %s : 林業モードのコマンド
+for.chat.command.forestry.tree.mode.desc=- %s: 林業モードのコマンド
 for.chat.command.forestry.tree.mode.help=林業モードに関連したコマンド。
 for.chat.command.forestry.tree.mode.format=形式: /%s <sub-command>
 
-for.chat.command.forestry.tree.mode.info.desc=- %s : 林業モードの情報
+for.chat.command.forestry.tree.mode.info.desc=- %s: 林業モードの情報
 for.chat.command.forestry.tree.mode.info.help=現在の林業モードと利用可能な林業モードについての情報。
 for.chat.command.forestry.tree.mode.info.format=形式: /%s <mode-name>
 
-for.chat.command.forestry.tree.mode.set.desc=- %s : 林業モードの設定
+for.chat.command.forestry.tree.mode.set.desc=- %s: 林業モードの設定
 for.chat.command.forestry.tree.mode.set.help=ワールドの林業モードを設定する。
 for.chat.command.forestry.tree.mode.set.format=形式: /%s [<world-#>] <mode-name>
 
-for.chat.command.forestry.tree.save.desc=- %s : 林業の統計の保存
+for.chat.command.forestry.tree.save.desc=- %s: 林業の統計の保存
 for.chat.command.forestry.tree.save.help=ファイルに林業の統計情報を保存する。
 for.chat.command.forestry.tree.save.format=形式: /%s [<player-name>]
 
@@ -1307,8 +1315,8 @@ for.trees.species.zebrawood=ムイラカチアラ
 for.fences.grammar=%TYPEのフェンス
 for.log.grammar=%TYPEの原木
 for.planks.grammar=%TYPEの木材
-for.slab.grammar=%TYPEの木材ハーフブロック
-for.stairs.grammar=%TYPEの木材の階段
+for.slab.grammar=%TYPEのハーフブロック
+for.stairs.grammar=%TYPEの階段
 
 for.trees.woodType.larch=カラマツ
 for.trees.woodType.teak=チーク
@@ -1328,7 +1336,7 @@ for.trees.woodType.greenheart=グリーンハート
 for.trees.woodType.cherry=サトザクラ
 for.trees.woodType.mahoe=マホー
 for.trees.woodType.poplar=ポプラ
-for.trees.woodType.palm=ヤシ
+for.trees.woodType.palm=ナツメヤシ
 for.trees.woodType.papaya=パパイヤ
 for.trees.woodType.pine=アカマツ
 for.trees.woodType.plum=スモモ
@@ -1388,7 +1396,7 @@ for.hints.farmgui.tag=土は左、種は右！
 for.hints.farmland.desc=滑らかな砂岩やレンガ、石レンガをマルチファームの構築に使用することができます。
 for.hints.farmland.tag=農場を構築しよう！
 for.hints.fertilizer.desc=全ての農場には無機肥料が必要になります。堆肥やマルチでは不十分です。
-for.hints.fertilizer.tag=無機肥料が必要！
+for.hints.fertilizer.tag=リン酸肥料が必要！
 for.hints.gearbox.desc=ギアボックスは、エンジンやケーブルから動力を受け取ることができます。
 for.hints.gearbox.tag=電気を送ろう！
 for.hints.hatch.desc=ハッチはパイプや導管と繋がり、搬入出を自動化できます。
@@ -1398,7 +1406,7 @@ for.hints.manualfarms.tag=手動農場！
 for.hints.valve.desc=全ての農場には水が必要になります。バルブから水を搬入することができます。
 for.hints.valve.tag=水を供給！
 
-for.trigger.lowFertilizer=無機肥料
+for.trigger.lowFertilizer=リン酸肥料
 for.trigger.lowLiquid=水タンク
 for.trigger.lowSoil=土壌
 
@@ -1417,11 +1425,11 @@ tile.for.mushroom.1.name=キノコ
 
 entity.Forestry.butterflyGE.name=蝶
 
-for.chat.command.forestry.butterfly.desc=- %s : 鱗翅類学用コマンド
+for.chat.command.forestry.butterfly.desc=- %s: 鱗翅類学用コマンド
 for.chat.command.forestry.butterfly.help=鱗翅類学に関連したコマンド。
 for.chat.command.forestry.butterfly.format=形式: /%s <sub-command>
 
-for.chat.command.forestry.butterfly.kill.desc=- %s : 全ての蝶を殺す
+for.chat.command.forestry.butterfly.kill.desc=- %s: 全ての蝶を殺す
 for.chat.command.forestry.butterfly.kill.help=読み込み中のチャンク内にいる全ての蝶をキルする。
 for.chat.command.forestry.butterfly.kill.format=形式: /%s [<dimension#>]
 
@@ -1481,15 +1489,15 @@ tile.for.lepidopterology.0.name=鱗翅類学者のチェスト
 
 for.chat.mail.already_mailed=郵便物の再発送はできません。
 
-for.chat.command.forestry.mail.desc=- %s : 郵便システム用コマンド
+for.chat.command.forestry.mail.desc=- %s: 郵便システム用コマンド
 for.chat.command.forestry.mail.help=郵便システムに関連したコマンド。
 for.chat.command.forestry.mail.format=形式: /%s <sub-command>
 
-for.chat.command.forestry.mail.trades.desc=- %s : 全ての交易ステーションの一覧
+for.chat.command.forestry.mail.trades.desc=- %s: 全ての交易ステーションの一覧
 for.chat.command.forestry.mail.trades.help=全ての交易ステーションと利用可能な交易の一覧を表示。
 for.chat.command.forestry.mail.trades.format=形式: /%s
 
-for.chat.command.forestry.mail.virtualize.desc=- %s : 指定した交易ステーションの仮想モードを切り替え
+for.chat.command.forestry.mail.virtualize.desc=- %s: 指定した交易ステーションの仮想モードを切り替え
 for.chat.command.forestry.mail.virtualize.help=指定した交易ステーションの仮想モードを切り替える。仮想モードの場合はアイテムを消費しない。
 for.chat.command.forestry.mail.virtualize.format=形式: /%s <trade-station-name>
 for.chat.command.forestry.mail.virtualize.no_tradestation=「%s」という名前の交易ステーションは見つかりませんでした。
@@ -1684,6 +1692,8 @@ for.config.butterfly.entities.maximum=蝶の最大数
 for.config.butterfly.entities.maximum.comment=蝶がこの数に達すると、新しい蝶はアイテムのままになり、羽ばたくことはありません。
 for.config.butterfly.entities.pollination=蝶による受粉
 for.config.butterfly.entities.pollination.comment=蝶が葉に受粉を行うようになります。
+for.config.butterfly.entities.disable.leaf.spawns=Disable Butterfly Leaf Spawns
+for.config.butterfly.entities.disable.leaf.spawns.comment=Prevent random butterflies from autonomously spawning from Forestry leaves.
 
 for.config.backpacks.item.stacks.format=%sのバックパックに収納できるアイテムを設定します。書式は「'modid:name:meta'」であり、1行に1つとなっています。 ワイルドカード、メタデータの書式は、「'modid:name'」です。
 for.config.backpacks.ore.dict.format=%sのバックパックに収納できる鉱石辞書を設定します。書式は「 '鉱石辞書名'.」です。
@@ -1702,7 +1712,7 @@ for.config.gamemode.recipe.output.fertilizer.apatite.comment=燐灰石から作�
 for.config.gamemode.recipe.output.fertilizer.ash.comment=灰から作成できる無機肥料の数を設定します。
 for.config.gamemode.recipe.output.compost.wheat.comment=小麦から作成できる堆肥の数を設定します。
 for.config.gamemode.recipe.output.compost.ash.comment=灰から作成できる堆肥の数を設定します。
-for.config.gamemode.recipe.output.humus.fertilizer.comment=無機肥料から作成できる腐葉土の数を設定します。
+for.config.gamemode.recipe.output.humus.fertilizer.comment=リン酸肥料から作成できる腐葉土の数を設定します。
 for.config.gamemode.recipe.output.humus.compost.comment=堆肥から作成できる腐葉土の数を設定します。
 for.config.gamemode.recipe.output.bogearth.bucket.comment=バケツから作成できる泥土の数を設定します。
 for.config.gamemode.recipe.output.bogearth.can.comment=缶、セル、カプセルから作成できる泥土の数を設定します。
@@ -1710,9 +1720,9 @@ for.config.gamemode.recipe.output.can.comment=缶の作成数を設定します�
 for.config.gamemode.recipe.output.capsule.comment=蜜蝋製カプセルの作成数を設定します。
 for.config.gamemode.recipe.output.refractory.comment=耐熱性カプセルの作成数を設定します。
 
-for.config.gamemode.fermenter.cycles.fertilizer.comment=無機肥料がバイオマス発酵槽を稼働させられるサイクル数を設定します。
+for.config.gamemode.fermenter.cycles.fertilizer.comment=リン酸肥料がバイオマス発酵槽を稼働させられるサイクル数を設定します。
 for.config.gamemode.fermenter.cycles.compost.comment=堆肥がバイオマス発酵槽を稼働させられるサイクル数を設定します。
-for.config.gamemode.fermenter.value.fertilizer.comment=無機肥料をバイオマス発酵槽に使用するときの1サイクル分のバイオマスの生産量を設定します。
+for.config.gamemode.fermenter.value.fertilizer.comment=リン酸肥料をバイオマス発酵槽に使用するときの1サイクル分のバイオマスの生産量を設定します。
 for.config.gamemode.fermenter.value.compost.comment=堆肥をバイオマス発酵槽に使用するときの1サイクル分のバイオマスの生産量を設定します。
 for.config.gamemode.fermenter.yield.sapling.comment=樹液量のデータを持つ苗木をバイオマス発酵槽に使用するときのバイオマスの基本生産量を設定します。
 for.config.gamemode.fermenter.yield.cactus.comment=バイオマス発酵槽にサボテンを入れたときのバイオマスの生産量を設定します。

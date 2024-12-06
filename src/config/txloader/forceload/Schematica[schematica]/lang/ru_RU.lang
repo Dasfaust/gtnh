@@ -13,17 +13,17 @@ schematica.gui.movehere=Передвинуть сюда
 schematica.gui.flip=Отразить
 schematica.gui.rotate=Повернуть
 schematica.gui.save=Сохранить
-schematica.gui.name=Name
-schematica.gui.savecoordinates=Save Coordinates
+schematica.gui.name=Имя
+schematica.gui.savecoordinates=Сохранить координаты
 schematica.gui.moveschematic=Передвинуть схему
 schematica.gui.layers=Слои
 schematica.gui.operations=Операции
-schematica.gui.unload=Unload
+schematica.gui.unload=Выгрузить
 schematica.gui.point.red=Красная точка
 schematica.gui.point.blue=Синяя точка
 schematica.gui.saveselection=Сохранить схему выделенной области
-schematica.gui.on=ON
-schematica.gui.off=OFF
+schematica.gui.on=Вкл.
+schematica.gui.off=Выкл.
 schematica.gui.x=X:
 schematica.gui.y=Y:
 schematica.gui.z=Z:
@@ -32,31 +32,31 @@ schematica.gui.materialname=Материал
 schematica.gui.materialamount=Количество
 schematica.gui.materialrequired=Required
 schematica.gui.materialavailable=Available
-schematica.gui.materialdump=Save to file
+schematica.gui.materialdump=Сохранить в файл
 schematica.gui.printer=Принтер
 
 # gui - config - categories
-schematica.config.category.debug=Debug
+schematica.config.category.debug=Отладка
 schematica.config.category.debug.tooltip=Debug/developer settings.\nDon't touch unless you know what you're doing.
 schematica.config.category.render=Rendering
 schematica.config.category.render.tooltip=Render related settings.
-schematica.config.category.printer=Printer
+schematica.config.category.printer=Принтер
 schematica.config.category.printer.tooltip=Printer related settings.
 schematica.config.category.printer.swapslots=Hotbar Slots
 schematica.config.category.printer.swapslots.tooltip=Allow the printer to use non empty hotbar slots.
-schematica.config.category.general=General
-schematica.config.category.general.tooltip=General settings.
-schematica.config.category.server=Server
+schematica.config.category.general=Общие
+schematica.config.category.general.tooltip=Основные настройки.
+schematica.config.category.server=Сервер
 schematica.config.category.server.tooltip=Server-side settings.
 
 # gui - config - debug
 schematica.config.showDebugInfo=Show Debug Info
-schematica.config.showDebugInfo.tooltip=Display extra information on the debug screen (F3).
+schematica.config.showDebugInfo.tooltip=Отображение информации на экране отладки (F3).
 
 # gui - config - render
 schematica.config.alphaEnabled=Alpha Enabled
 schematica.config.alphaEnabled.tooltip=Enable transparent textures.
-schematica.config.alpha=Alpha
+schematica.config.alpha=Альфа
 schematica.config.alpha.tooltip=Alpha value used when rendering the schematic (1.0 = opaque, 0.5 = half transparent, 0.0 = transparent).
 schematica.config.highlight=Highlight Blocks
 schematica.config.highlight.tooltip=Highlight invalid placed blocks and to be placed blocks.
@@ -84,24 +84,24 @@ schematica.config.placeAdjacent=Place Only Adjacent
 schematica.config.placeAdjacent.tooltip=Place blocks only if there is an adjacent block next to them.
 
 # gui - config - printer - swap slots
-schematica.config.swapSlot0=Allow Slot 1
-schematica.config.swapSlot0.tooltip=Allow the printer to use the hotbar slot 1.
-schematica.config.swapSlot1=Allow Slot 2
-schematica.config.swapSlot1.tooltip=Allow the printer to use the hotbar slot 2.
-schematica.config.swapSlot2=Allow Slot 3
-schematica.config.swapSlot2.tooltip=Allow the printer to use the hotbar slot 3.
-schematica.config.swapSlot3=Allow Slot 4
-schematica.config.swapSlot3.tooltip=Allow the printer to use the hotbar slot 4.
-schematica.config.swapSlot4=Allow Slot 5
-schematica.config.swapSlot4.tooltip=Allow the printer to use the hotbar slot 5.
-schematica.config.swapSlot5=Allow Slot 6
-schematica.config.swapSlot5.tooltip=Allow the printer to use the hotbar slot 6.
-schematica.config.swapSlot6=Allow Slot 7
-schematica.config.swapSlot6.tooltip=Allow the printer to use the hotbar slot 7.
-schematica.config.swapSlot7=Allow Slot 8
-schematica.config.swapSlot7.tooltip=Allow the printer to use the hotbar slot 8.
-schematica.config.swapSlot8=Allow Slot 9
-schematica.config.swapSlot8.tooltip=Allow the printer to use the hotbar slot 9.
+schematica.config.swapSlot0=Разрешить слот 1
+schematica.config.swapSlot0.tooltip=Разрешите принтеру использовать 1 слот панели быстр. доступа.
+schematica.config.swapSlot1=Разрешить слот 2
+schematica.config.swapSlot1.tooltip=Разрешите принтеру использовать 2 слот панели быстр. доступа.
+schematica.config.swapSlot2=Разрешить слот 3
+schematica.config.swapSlot2.tooltip=Разрешите принтеру использовать 3 слот панели быстр. доступа.
+schematica.config.swapSlot3=Разрешить слот 4
+schematica.config.swapSlot3.tooltip=Разрешите принтеру использовать 4 слот панели быстр. доступа.
+schematica.config.swapSlot4=Разрешить слот 5
+schematica.config.swapSlot4.tooltip=Разрешите принтеру использовать 5 слот панели быстр. доступа.
+schematica.config.swapSlot5=Разрешить слот 6
+schematica.config.swapSlot5.tooltip=Разрешите принтеру использовать 6 слот панели быстр. доступа.
+schematica.config.swapSlot6=Разрешить слот 7
+schematica.config.swapSlot6.tooltip=Разрешите принтеру использовать 7 слот панели быстр. доступа.
+schematica.config.swapSlot7=Разрешить слот 8
+schematica.config.swapSlot7.tooltip=Разрешите принтеру использовать 8 слот панели быстр. доступа.
+schematica.config.swapSlot8=Разрешить слот 9
+schematica.config.swapSlot8.tooltip=Разрешите принтеру использовать 9 слот панели быстр. доступа.
 
 # gui - config - general
 schematica.config.schematicDirectory=Schematic Directory
@@ -114,47 +114,47 @@ Schematica.chat.saveCoordinatesSuccess=Successfully saved coordinates
 Schematica.chat.saveCoordinatesFail=Failed to save coordinates
 
 # gui - config - server
-schematica.config.printerEnabled=Allow Printer
-schematica.config.printerEnabled.tooltip=Allow players to use the printer.
-schematica.config.saveEnabled=Allow Saving
-schematica.config.saveEnabled.tooltip=Allow players to save schematics.
-schematica.config.loadEnabled=Allow Loading
-schematica.config.loadEnabled.tooltip=Allow players to load schematics.
+schematica.config.printerEnabled=Разрешить принтер
+schematica.config.printerEnabled.tooltip=Разрешите игрокам использовать принтер.
+schematica.config.saveEnabled=Разрешить сохранение
+schematica.config.saveEnabled.tooltip=Разрешить игрокам сохранять схемы.
+schematica.config.loadEnabled=Разрешить загрузку
+schematica.config.loadEnabled.tooltip=Разрешить игрокам загружать схемы.
 
 # keys
 schematica.key.category=Schematica
 schematica.key.load=Загрузить схему
 schematica.key.save=Сохранить схему
 schematica.key.control=Манипулирование схемой
-schematica.key.layerInc=Next Layer
-schematica.key.layerDec=Previous layer
+schematica.key.layerInc=Следующий слой
+schematica.key.layerDec=Предыдущий слой
 
 # commands - save
 schematica.command.save.usage=/schematicaSave <startX> <startY> <startZ> <endX> <endY> <endZ> <name>
 schematica.command.save.playersOnly=This command can only be used by players.
 schematica.command.save.started=Started saving %d chunks into %s.
-schematica.command.save.saveSucceeded=Successfully saved %s.
+schematica.command.save.saveSucceeded=Успешно сохранен %s.
 schematica.command.save.saveFailed=There was a problem saving the schematic %s.
 schematica.command.save.quotaExceeded=You have exceeded your quota on the server. Please use /schematicaList and /schematicaRemove to remove some old schematics.
 schematica.command.save.playerSchematicDirUnavailable=There was a problem on the server and your schematic was not saved. Please contact the server administrator.
 
 # commands - list
-schematica.command.list.usage=/schematicaList [page]
+schematica.command.list.usage=/schematicaList [страница]
 schematica.command.list.notAvailable=There was a problem retrieving your list of schematics.
 schematica.command.list.remove=Удалить
-schematica.command.list.download=Download
+schematica.command.list.download=Скачать
 schematica.command.list.header=--- Showing schematics page %d of %d ---
-schematica.command.list.noSuchPage=No such page
-schematica.command.list.noSchematics=You have no schematics available.
+schematica.command.list.noSuchPage=Нет такой страницы
+schematica.command.list.noSchematics=У вас нет доступных схем.
 
 # commands - remove
 schematica.command.remove.usage=/schematicaRemove <name>
-schematica.command.remove.schematicRemoved=Schematic "%s" removed.
-schematica.command.remove.schematicNotFound=Schematic "%s" could not be found.
-schematica.command.remove.areYouSure=Are you sure?
+schematica.command.remove.schematicRemoved=Схема "%s" удалена.
+schematica.command.remove.schematicNotFound=Схему "%s" не удалось найти.
+schematica.command.remove.areYouSure=Вы уверены?
 
 # commands - download
 schematica.command.download.usage=/schematicaDownload <name>
-schematica.command.download.started=Started downloading %s...
-schematica.command.download.downloadSucceeded=Successfully downloaded %s.
-schematica.command.download.downloadFail=Download failed.
+schematica.command.download.started=Начата загрузка %s...
+schematica.command.download.downloadSucceeded=Успешно загружен %s.
+schematica.command.download.downloadFail=Загрузка не удалась.

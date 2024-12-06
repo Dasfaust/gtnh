@@ -1,22 +1,22 @@
 
 //ITEMS
 item.ofanix.name=Ofanix
-item.hunger.name=MSG Pill
-item.minicoal.name=Mini Coal
-item.minicharcoal.name=Mini Charcoal
-item.diamondZane.name=Diamond Zane
-item.terrainEater.name=Terrain Eater
-item.totemTool.name=Totem Tool
-item.splatAxe.name=Splat Axe
+item.hunger.name=MSG-Pille
+item.minicoal.name=Mini Kohle
+item.minicharcoal.name=Mini Holzkohle
+item.diamondZane.name=Diamantzane
+item.terrainEater.name=Geländefresser
+item.totemTool.name=Totemwerkzeug
+item.splatAxe.name=Splat-Axt
 
 // BLOCKS
-tile.ztones:stoneTile.name=Ztone Tile
-tile.ztones:cleanDirt.name=Garden Soil
+tile.ztones:stoneTile.name=Ztone Block
+tile.ztones:cleanDirt.name=Gartenboden
 tile.ztones:booster.name=Booster
-tile.ztones:lamp.name=Lamp
-tile.ztones:lampf.name=Flat Lamp
-tile.ztones:lampt.name=Flat Lamp
-tile.ztones:lampb.name=Flat Lamp
+tile.ztones:lamp.name=Lampe
+tile.ztones:lampf.name=Flache Lampe
+tile.ztones:lampt.name=Flache Lampe
+tile.ztones:lampb.name=Flache Lampe
 tile.ztones:aurora.name=Aurora
 
 
@@ -177,22 +177,22 @@ tile.reedBlock. (13).name=Reed ⑬
 tile.reedBlock. (14).name=Reed ⑭
 tile.reedBlock. (15).name=Reed ⑮
 
-tile.glaxx. (0).name=Tinted Glass ⓪
-tile.glaxx. (1).name=Tinted Glass ①
-tile.glaxx. (2).name=Tinted Glass ②
-tile.glaxx. (3).name=Tinted Glass ③
-tile.glaxx. (4).name=Tinted Glass ④
-tile.glaxx. (5).name=Tinted Glass ⑤
-tile.glaxx. (6).name=Tinted Glass ⑥
-tile.glaxx. (7).name=Tinted Glass ⑦
-tile.glaxx. (8).name=Tinted Glass ⑧
-tile.glaxx. (9).name=Tinted Glass ⑨
-tile.glaxx. (10).name=Tinted Glass ⑩
-tile.glaxx. (11).name=Tinted Glass ⑪
-tile.glaxx. (12).name=Tinted Glass ⑫
-tile.glaxx. (13).name=Tinted Glass ⑬
-tile.glaxx. (14).name=Tinted Glass ⑭
-tile.glaxx. (15).name=Tinted Glass ⑮
+tile.glaxx. (0).name=Getöntes Glas ⓪
+tile.glaxx. (1).name=Getöntes Glas ①
+tile.glaxx. (2).name=Getöntes Glas ②
+tile.glaxx. (3).name=Getöntes Glas ③
+tile.glaxx. (4).name=Getöntes Glas ④
+tile.glaxx. (5).name=Getöntes Glas ⑤
+tile.glaxx. (6).name=Getöntes Glas ⑥
+tile.glaxx. (7).name=Getöntes Glas ⑦
+tile.glaxx. (8).name=Getöntes Glas ⑧
+tile.glaxx. (9).name=Getöntes Glas ⑨
+tile.glaxx. (10).name=Getöntes Glas ⑩
+tile.glaxx. (11).name=Getöntes Glas ⑪
+tile.glaxx. (12).name=Getöntes Glas ⑫
+tile.glaxx. (13).name=Getöntes Glas ⑬
+tile.glaxx. (14).name=Getöntes Glas ⑭
+tile.glaxx. (15).name=Getöntes Glas ⑮
 
 tile.agonBlock. (0).name=Agon ⓪
 tile.agonBlock. (1).name=Agon ①

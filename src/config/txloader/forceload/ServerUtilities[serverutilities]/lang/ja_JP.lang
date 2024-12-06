@@ -15,9 +15,16 @@ serverutilities.lang.god_on=God mode turned on for %s
 serverutilities.lang.god_off=God mode turned off for %s
 serverutilities.lang.heal=%s has been healed
 serverutilities.lang.permissions_dumped=%s permissions successfully dumped to file at: %s.
-serverutilties.config.disabled=Disabled by server.
-serverutilities.vp.button=Show Server Utilities Claims Overlay
+serverutilities.disabled.config=Disabled in config
+serverutilities.disabled.server=Disabled by server
+serverutilities.navigator.button=Show Server Utilities Claims Overlay
+serverutilities.unsaved_changes.title=Unsaved Changes
+serverutilities.unsaved_changes=You have unsaved changes. Do you want to save them?
+serverutilities.command_overview=Command Overview
 
+serverutilities.stat.time_afk=Time AFK
+serverutilities.stat.time_afk_percent=Percentage of time spent AFK
+serverutilities.stat.time_active=Time actively playing (not AFK)
 serverutilities.stat.dph=一時間あたりの死亡数
 serverutilities.stat.last_seen=最終ログイン時間
 
@@ -45,6 +52,13 @@ action_bar=Action Bar
 nothing_changed=Nothing changed!
 player_must_be_online=Player must be online!
 
+serverutilities.task.cleanup_entity=Removing %s in %d seconds
+serverutilities.task.cleanup_hostiles=Hostile mobs
+serverutilities.task.cleanup_passives=Passive mobs
+serverutilities.task.cleanup_items=Dropped items
+serverutilities.task.cleanup_experience=XP orbs
+serverutilities.task.cleanup_removed=Removed %s entities from world
+
 serverutilities.lang.reload_server_button=Reload Server
 serverutilities.lang.reload_server=Server reloaded in %s
 serverutilities.lang.reload_client=You can press %s to reload client
@@ -69,9 +83,9 @@ serverutilities.select_item.caps=Edit Capabilities
 serverutilities.select_item.display_name=Set Display Name
 serverutilities.select_team.gui=Select Team
 
-serverutilities.world.dimension.overworld=Overworld
-serverutilities.world.dimension.end=The End
-serverutilities.world.dimension.nether=Nether
+serverutilities.world.dimension.overworld=オーバーワールド
+serverutilities.world.dimension.end=エンド
+serverutilities.world.dimension.nether=ネザー
 
 # Config
 serverutilities=Server Utilities
@@ -171,9 +185,9 @@ serverutilities_client.button_nighttime=Button Nighttime
 serverutilities_client.item_ore_names=Display Item OreDictionary Names
 serverutilities_client.item_ore_names.item_tooltip=Ore Dictionary Names:
 serverutilities_client.item_nbt=Display Item NBT
-serverutilities_client.sidebar_buttons=Sidebar Button Location
+serverutilities_client.sidebar_buttons=Sidebar Location
 serverutilities_client.sidebar_buttons_above_potion=Draw Buttons Above Potion Label
-serverutilities_client.sidebar_buttons_vertical=Draw Buttons Vertically
+serverutilities_client.sidebar_placement=Sidebar Placement
 serverutilities_client.notification_location=Notification Location
 serverutilities_client.show_dotted_lines=Show Dotted Line On Loaded Chunks
 
@@ -200,6 +214,7 @@ permission.serverutilities.warps.warmup=/warp ウォームアップタイマー
 permission.serverutilities.tpa.warmup=/tpa ウォームアップタイマー
 permission.serverutilities.spawn.warmup=/spawn ウォームアップタイマー
 permission.serverutilities.back.warmup=/back ウォームアップタイマー
+permission.serverutilities.rtp.warmup=/rtp Warmup Timer
 permission.serverutilities.afk.timer=AFK タイマー
 permission.serverutilities.afk.timer.is_afk=%sは現在離席中です
 permission.serverutilities.afk.timer.isnt_afk=%sが復帰しました
@@ -217,6 +232,9 @@ permission.serverutilities.chat.prefix.right.text=チャットのプレフィッ
 permission.serverutilities.chat.suffix.left.text=チャットのサフィックスのテキスト [左]
 permission.serverutilities.chat.suffix.base.text=チャットのサフィックスのテキスト [ベース]
 permission.serverutilities.chat.suffix.right.text=チャットのサフィックスのテキスト [右]
+permission.serverutilities.claims.decay=Claim decay timer. Claims will be permanently removed after team has been inactive for the given time.
+permission.serverutilities.chunkloader.decay=Chunkload decay timer. Loaded chunks will be unloaded after team has been inactive for the given time and are restored once activity resumes.
+
 permission.default_op_rank=Default rank for players with OP or singleplayer with cheat enabled.
 permission.default_player_rank=Default rank for players
 permission.parent=Rank whose permissions will be inherited
@@ -232,6 +250,8 @@ player_config.serverutilities.render_badge=バッジをレンダリング
 player_config.serverutilities.enable_pvp=PVPを有効化
 player_config.serverutilities.nickname=ニックネーム
 player_config.serverutilities.afk=退席の通知場所
+player_config.serverutilities.show_team_prefix=Show Team Prefix In Chat
+player_config.serverutilities.show_team_prefix.info=§rAdd [%s] as a prefix to your chat messages
 
 # Team Settings
 team_config.serverutilities.display=Display
@@ -279,22 +299,24 @@ sidebar_button.serverutilities.claimed_chunks=領有チャンク
 sidebar_button.serverutilities.trash_can=ゴミ箱
 sidebar_button.serverutilities.trash_can.tooltip=ゴミ箱を開きます。開いている間はアイテムはそこに残りますが、GUIを閉じるとアイテムを消滅します
 sidebar_button.serverutilities.mail=メール
+serverutilities.sidebar_button.reset=Reset Sidebar
+serverutilities.sidebar_button.reset.tooltip=Reset Sidebar Position
 
-admin_panel.serverutilities.file_browser=ファイルブラウザ
-admin_panel.serverutilities.crash_reports=クラッシュレポートを表示
-admin_panel.serverutilities.config=設定を編集
-admin_panel.serverutilities.ranks=ランクを編集
-admin_panel.serverutilities.ranks.player_ranks=プレイヤーランク
-admin_panel.serverutilities.ranks.select_rank=ランクを選択
-admin_panel.serverutilities.ranks.edit.id=ID
-admin_panel.serverutilities.ranks.edit.parent=Parent
-admin_panel.serverutilities.ranks.edit.chat_formatting=チャットのフォーマット
-admin_panel.serverutilities.ranks.edit.permissions=パーミッション
-admin_panel.serverutilities.claimed_chunks=全ての領有チャンクを表示
-admin_panel.serverutilities.loaded_chunks=全てのロード済みチャンクを表示
-admin_panel.serverutilities.whitelist=ホワイトリストを編集
-admin_panel.serverutilities.ops=OPを編集
-admin_panel.serverutilities.edit_world=ワールドを編集
+serverutilities.admin_panel.file_browser=File Browser
+serverutilities.admin_panel.crash_reports=View Crash Reports
+serverutilities.admin_panel.config=Edit Config
+serverutilities.admin_panel.claimed_chunks=View All Claimed Chunks
+serverutilities.admin_panel.loaded_chunks=View All Loaded Chunks
+serverutilities.admin_panel.whitelist=Edit Whitelist
+serverutilities.admin_panel.ops=Edit OPs
+serverutilities.admin_panel.edit_world=Edit World
+serverutilities.admin_panel.ranks.player_ranks=Player Ranks
+serverutilities.admin_panel.ranks.select_rank=Select Rank
+serverutilities.admin_panel.edit_rank=Edit Ranks
+serverutilities.admin_panel.ranks.add_perm=Add Permission
+serverutilities.admin_panel.ranks.add_command=Add Command Permission
+serverutilities.admin_panel.ranks.cant_remove=Default rank can't be removed!
+serverutilities.admin_panel.ranks.delete_confirm=This will permanently delete rank: %s. Are you sure?
 
 # Keys
 key.serverutilities.nbt=NBTの編集
@@ -356,7 +378,6 @@ commands.upload_crash_report.usage=/upload_crash_report <ファイル>
 commands.heal.usage=/heal [プレイヤー]
 commands.killall.usage=/killall [タイプ] [ディメンション]
 commands.nbtedit.usage=/nbtedit
-commands.nbtedit.too_large=NBTのサイズが大きすぎます！
 commands.nbtedit.block.usage=/nbtedit block <x> <y> <z>
 commands.nbtedit.entity.usage=/nbtedit entity <id>
 commands.nbtedit.player.usage=/nbtedit player <プレイヤー>
@@ -533,7 +554,7 @@ gui.infinite=Infinite
 facing.north=North
 facing.south=South
 facing.west=West
-facing.east=East
+facing.east=東
 
 relative_facing.bottom=Bottom
 relative_facing.top=Top

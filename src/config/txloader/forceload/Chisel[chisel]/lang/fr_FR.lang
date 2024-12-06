@@ -4,9 +4,9 @@
 stat.blockChiseled=Blocks Chiseled
 
 #Entity localizations
-entity.chisel.snowman.name=Snow Golem
+entity.chisel.snowman.name=Golem de neige
 
-item.chisel.nomobspawnsonthisblock.desc=Mobs cannot Spawn on this Block
+item.chisel.nomobspawnsonthisblock.desc=Les créatures ne peuvent pas apparaître sur ce bloc
 
 #Item localizations
 item.chisel.chisel_iron.name=Chisel
@@ -16,15 +16,15 @@ item.chisel.chisel.desc.lc1=Left click to chisel blocks in world
 item.chisel.chisel.desc.lc2=Can target a block by leaving it in the inventory
 item.chisel.chisel.desc.modes=Has multiple modes for chiseling.
 
-item.chisel.chisel_diamond.name=Diamond Chisel
-item.chisel.chisel_obsidian.name=Obsidian Chisel
-item.chisel.chisel_netherstar.name=Nether Star Chisel
-item.chisel.chisel_netherstar.gtnh.name=Bedrockium Chisel
+item.chisel.chisel_diamond.name=Burin en Diamant
+item.chisel.chisel_obsidian.name=Burin en Obsidienne
+item.chisel.chisel_netherstar.name=Burin en Étoile du Nether
+item.chisel.chisel_netherstar.gtnh.name=Burin en Bedrockium
 
 item.ballMoss.name=Ball O' Moss
 item.ballMoss.desc=Right-Click to throw. This will turn Cobblestone to Moss Stone on impact.
-item.cloudBottle.name=Cloud In A Bottle
-item.cloudBottle.desc=Right-Click to throw. This will spawn clouds on impact.
+item.cloudBottle.name=Nuage embouteillé
+item.cloudBottle.desc=Clic-droit pour lancer. Cela fera apparaitre des nuages à l'impact
 item.smashingRock.name=Smashing Rock
 item.smashingRock.desc=Right-Click to throw. This will turn Cobblestone into Gravel, Gravel into Sand etc on impact.
 item.upgrade_speed.name=Speed Upgrade
@@ -192,7 +192,7 @@ tile.chisel.voidstonePillar.name=Voidstone Pillar
 tile.voidstonePillar.0.desc=Striped Voidstone Pillar
 
 #Warning
-tile.chisel.warningSign.name=Warning Sign
+tile.chisel.warningSign.name=Panneau danger
 tile.warningSign.0.desc=Radiation
 tile.warningSign.1.desc=Biohazard
 tile.warningSign.2.desc=Fire
@@ -201,7 +201,7 @@ tile.warningSign.4.desc=Death
 tile.warningSign.5.desc=Falling Objects
 tile.warningSign.6.desc=Danger of Falling
 tile.warningSign.7.desc=High Voltage
-tile.warningSign.8.desc=Generic Warning
+tile.warningSign.8.desc=Danger générique
 tile.warningSign.9.desc=Dangerous Chemicals
 tile.warningSign.10.desc=Under Construction
 tile.warningSign.11.desc=Loud Sounds
@@ -1878,3 +1878,16 @@ tile.glotek.12.desc=Cranberry
 tile.glotek.13.desc=Brink Pink
 tile.glotek.14.desc=Dark Salmon
 tile.glotek.15.desc=Harvest Gold
+
+#Froglight
+tile.chisel.froglight.name=Froglight
+tile.froglight.0.desc=Aluminium
+tile.froglight.1.desc=Titanium
+tile.froglight.2.desc=Tungstensteel
+tile.froglight.3.desc=Osmium
+tile.froglight.4.desc=Fluxed
+tile.froglight.5.desc=Uranium
+tile.froglight.6.desc=Girisium
+tile.froglight.7.desc=Orundum
+tile.froglight.8.desc=Blood-Stained
+tile.froglight.9.desc=Ichor

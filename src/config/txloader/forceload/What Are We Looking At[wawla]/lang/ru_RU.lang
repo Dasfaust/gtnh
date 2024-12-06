@@ -25,7 +25,7 @@ tooltip.wawla.blockLevel=Требуемый уровень
 tooltip.wawla.amount=Количество
 tooltip.wawla.lightLevel=Уровень освещения
 tooltip.wawla.sit=Сидит
-tooltip.wawla.birth=Cooldown
+tooltip.wawla.birth=Кулдаун
 tooltip.wawla.age=Зрелость
 tooltip.wawla.tooltype.shovel=Лопата
 tooltip.wawla.tooltype.pickaxe=Кирка
@@ -33,14 +33,14 @@ tooltip.wawla.tooltype.axe=Топор
 tooltip.wawla.armorprot=Защита
 tooltip.wawla.armor=Очки брони
 tooltip.wawla.progress=Прогресс
-tooltip.wawla.missingEnch=Описание для этого зачарования не найдено.
+tooltip.wawla.missingEnch=Описание для этого зачарования не найдено. 
 tooltip.wawla.tnt.fuse=Время до взрыва
 tooltip.wawla.profession=Профессия
-tooltip.wawla.unknownplayer=Unknown Player
-tooltip.wawla.sleepable=Sleepable
-tooltip.wawla.hardness=Hardness
-tooltip.wawla.resistance=Blast Resistance
-tooltip.wawla.enchPower=Enchantment Power
+tooltip.wawla.unknownplayer=Неизвестный игрок
+tooltip.wawla.sleepable=Спящий
+tooltip.wawla.hardness=Твёрдость
+tooltip.wawla.resistance=Взрывоустойчивость
+tooltip.wawla.enchPower=Сила зачарования
 
 #Fixed/Missing Strings
 tile.null.name=Безымянный блок, сообщите автору мода.
@@ -49,7 +49,7 @@ entity.ItemFrame.name=Предметная рамка
 #Vanilla Module Options
 option.wawla.showEquipment=Экипировка сущностей?
 option.wawla.furnace.output=Выход печи?
-option.wawla.showHead=Player Head Names?
+option.wawla.showHead=Имена голов игроков?
 option.wawla.horse.showJump=Сила прыжка лошади?
 option.wawla.furnace.fuel=Топливо печи?
 option.wawla.harvest.showHarvest=Можно ли добыть блок?
@@ -66,39 +66,39 @@ option.wawla.light.lightLevel=Уровень освещения?
 option.wawla.light.showDay=Дневной уровень освещения?
 option.wawla.light.monsterSpawn=Уровень освещения для монстров?
 option.wawla.pets.showOwner=Владелец питомца?
-option.wawla.pets.cooldown=Birth Cooldown?
+option.wawla.pets.cooldown=Перезарядка после рождения?
 option.wawla.pets.age=Возраст ребёнка?
 option.wawla.pets.sitting=Сидит ли?
 option.wawla.showMobArmor=Показывать очки брони мобов?
 option.wawla.harvest.showProgress=Показывать прогресс добычи блока
 option.wawla.tnt.fuse=Показывать время до взрыва
 option.wawla.showProfession=Показывать профессии жителей
-option.wawla.bed.sleepable=Bed Status?
-option.wawla.info.showHardness=Show Block Hardness?
-option.wawla.info.showResistance=Show Blast Resistance?
+option.wawla.bed.sleepable=Состояние кровати?
+option.wawla.info.showHardness=Показывать прочность блока?
+option.wawla.info.showResistance=Показывать взрывоустойчивость?
 
 #Vanilla Enchantment Descriptions
 description.enchantment.protect.all=Это зачарование уменьшает наносимый урон владельцу от многих источников. Оно сочетается с такими зачарованиями, как Огнестойкость и Лёгкость, однако можно достичь ограничения по снижению урона. Это зачарование применимо ко всем видам брони.
-description.enchantment.protect.fire=Это зачарование уменьшает получаемый урон от источников огня, таких как огонь, ифриты и лава. Это зачарование также уменьшает общее количество времени, во время которого владелец горит. Это зачарование применимо ко всем видам брони.
+description.enchantment.protect.fire=Это зачарование уменьшает получаемый урон от источников огня, таких как огонь, ифриты и лава. Это зачарование также уменьшает общее количество времени, во время которого владелец горит. Это зачарование применимо ко всем видам брони. 
 description.enchantment.protect.fall=Это зачарование уменьшает получаемый урон от падений, оно также уменьшает получаемый урон от использования жемчуга Края. Это зачарование применимо только к ботинками.
 description.enchantment.protect.explosion=Это зачарование уменьшает получаемый урон от взрывов, таких как динамит и криперы. Это зачарование также уменьшает отдачу от взрывов. Это зачарование применимо ко всем видам брони.
 description.enchantment.protect.projectile=Это зачарование уменьшает получаемый урон от снарядов, таких как стрелы и огненные шары. Это зачарование применимо ко всем видам брони.
 description.enchantment.oxygen=Это зачарование улучшает зрение владельца под водой. Это зачарование также увеличивает общее количество кислорода владельца на 15 секунд за уровень. Время получения урона от удушения также увеличивается на одну секунду за уровень. Это зачарование применимо только к шлемам.
-description.enchantment.waterWorker=Это зачарование увеличивает скорость ломания блоков владельцом, под водой. Это зачарование применимо только к шлемам.
-description.enchantment.thorns=Это зачарование имеет 15% шанс за уровень, нанести урон мобам, которые бьют владельца с уроном в пол сердца до двух сердец. Это зачарование применимо ко всем видам брони.
-description.enchantment.damage.all=Это зачарование увеличивает урон предмета на 1.25 за уровень. Это зачарование применимо ко многим видам инструментов, однако меч основной вид.
+description.enchantment.waterWorker=Это зачарование увеличивает скорость ломания блоков владельцом, под водой. Это зачарование применимо только к шлемам. 
+description.enchantment.thorns=Это зачарование имеет 15% шанс за уровень, нанести урон мобам, которые бьют владельца с уроном в пол сердца до двух сердец. Это зачарование применимо ко всем видам брони. 
+description.enchantment.damage.all=Это зачарование увеличивает урон предмета на 1.25 за уровень. Это зачарование применимо ко многим видам инструментов, однако меч основной вид. 
 description.enchantment.damage.undead=Это зачарование увеличивает наносимый урон мёртвым мобам, таким как скелеты, зомби и иссушителю на 2.5 сердца за уровень. Это зачарование применимо ко многим видам инструментов, однако меч основной вид.
 description.enchantment.damage.arthropods=Это зачарование увеличивает наносимый урон мобам, которые похожи на "паука", таким как пауки, пещерные пауки, чешуйницы и чешуйницы Края на 2.5 сердца за уровень. Это зачарование применимо ко многим видам инструментов, однако меч основной вид.
 description.enchantment.knockback=Это зачарование отбрасывает мобов от игрока. Это зачарование применимо только к мечам.
-description.enchantment.fire=Это зачарование поджигает мобов. Моб получит 3 сердца урона от огня вместе с дополнительными 4 сердцами урона от огня за уровень. Это зачарование применимо только к мечам.
-description.enchantment.lootBonus=Это зачарование заставляет мобов ронять больше предметов. Максимальное количество предметов увеличивается на 1 за уровень. Шанс редких предметов увеличивается на 3% плюс дополнительные .5% за уровень потом. Это зачарование применимо только к мечам.
+description.enchantment.fire=Это зачарование поджигает мобов. Моб получит 3 сердца урона от огня вместе с дополнительными 4 сердцами урона от огня за уровень. Это зачарование применимо только к мечам. 
+description.enchantment.lootBonus=Это зачарование заставляет мобов ронять больше предметов. Максимальное количество предметов увеличивается на 1 за уровень. Шанс редких предметов увеличивается на 3% плюс дополнительные 5% за уровень потом. Это зачарование применимо только к мечам.
 description.enchantment.digging=Это зачарование позволяет ломать блоки быстрее на 30%/69%/120%/186%/271%. Чтобы эффект применился, инструмент должен быть использован на правильном блоке. Этот эффект применяется на кирки, лопаты, топоры и ножницы.
 description.enchantment.untouching=Это зачарование позволяет получить блоки, которые нельзя получить в обычных условиях. Примеры: лёд, трава и блоки руды. Это зачарование применимо к киркам, лопатам, топорам и ножницам.
 description.enchantment.durability=Это зачарование увеличивает среднюю прочность инструмента или части брони. Этот эффект применим ко всем предметам, у которых есть прочность. Примеры: Огниво, удочки, все виды брони и инструментов.
 description.enchantment.lootBonusDigger=Это зачарование даёт шанс получить двойное количество предметов с некоторых блоков. Каждый уровень увеличивает количество шансов. Шансы того, что шанс удастся уменьшаются, однако модификатор выпадения увеличивается. 33%/25%/20% для 2/3/4 предметов. Для блоков, которые дают несколько предметов, таких как арбузы, максимальное количество предметов, которые могут выпасть, увеличивается на 1 за уровень. Шанс получения кремния из гравия также увеличен. Шансы его получения 14%/25/100%. Это зачарование применимо к киркам, лопатам, топорам и ножницам.
 description.enchantment.arrowDamage=Это зачарование увеличивает наносимый урон луком на 25% умноженное на уровень + 1. Урон округляется до ближайшего пол сердца. Это зачарование применимо только к лукам.
 description.enchantment.arrowKnockback=Это зачарование отбрасывает мобов от игрока, при попадании стрелы. Это зачарование применимо только к лукам.
-description.enchantment.arrowFire=Это зачарование поджигает запущенные стрелы. Попадание в мобов поджигает их. Этот огонь поджигает только мобов, игроков и блоки динамита. Это зачарование применимо только к лукам.
+description.enchantment.arrowFire=Это зачарование поджигает запущенные стрелы. Попадание в мобов поджигает их. Этот огонь поджигает только мобов, игроков и блоки динамита. Это зачарование применимо только к лукам. 
 description.enchantment.arrowInfinite=Это зачарование предотвращает затраты стрел, во время выстрела. Этот эффект требует хотябы одну стрелу в инвентаре игрока. Это зачарование применимо только к лукам.
 description.enchantment.lootBonusFishing=Это зачарование увеличивает шансы игроков получения сокровищ, во время рыбалки на 1% за уровень. Это зачарование применимо только к удочкам.
 description.enchantment.fishingSpeed=Это зачарование уменьшает время на поимку рыбы на 5 секунд за уровень. Оно также увеличивает шанс получения хлама и сокровищ на 1% за уровень.
@@ -112,31 +112,31 @@ description.villager.profession.butcher=Мясник
 description.villager.profession.zombie=Зомби
 description.villager.profession.witch=Ведьма
 description.villager.profession.misingno=Обычный
-description.villager.profession.openblocks.king-ish=Королевский
+description.villager.profession.openblocks.king-ish=Король Рок-н-Ролла
 description.villager.profession.tinker.villagertools=Инженер
 description.villager.profession.extvil.Miller=Мельник
 description.villager.profession.extvil.Fisher=Рыбак
 description.villager.profession.extvil.Baker=Пекарь
-description.villager.profession.extvil.Miner=Miner
+description.villager.profession.extvil.Miner=Шахтёр
 description.villager.profession.extvil.Scientist=Учёный
-description.villager.profession.extvillom.Tanner=Tanner
+description.villager.profession.extvillom.Tanner=Дубильщик
 description.villager.profession.forestry.beekeeper=Пчеловод
 description.villager.profession.forestry.lumberjack=Дровосек
 description.villager.profession.mystcraft.archivist=Архивист
 description.villager.profession.bcaddons.Engineer=Инженер
 description.villager.profession.thaumcraft.wizard=Волшебник
 description.villager.profession.thaumcraft.moneychanger=Торговец
-description.villager.profession.compactmachines.villager=Compact Machinist
+description.villager.profession.compactmachines.villager=Компактный машинист
 description.villager.profession.railcraft.trackman=Железнодорожный рабочий
 description.villager.profession.pneumaticcraft.VillagerMechanic=Механик
 description.villager.profession.witchery.apothecary=Аптекарь
 description.villager.profession.minefactoryreloaded.zoologist=Зоолог
-description.villager.profession.is_mtc.card_master=Card Master
+description.villager.profession.is_mtc.card_master=Картограф
 description.villager.profession.gravestone.undertaker=Гробовщик
 description.villager.profession.gcewing_sg.tokra=Ток'ра
-description.villager.profession.steamcraft.villager=Steamcrafter
+description.villager.profession.steamcraft.villager=Стимкрафт
 description.villager.profession.fantastic.fantastic_fisherman=Профессиональный рыбак
-description.villager.profession.defeatedcrow.villager_cafe=Cafe
+description.villager.profession.defeatedcrow.villager_cafe=Кафе
 description.villager.profession.defeatedcrow.villager_yome=Йоме
 description.villager.profession.grccellar.brewer=Варщик
 description.villager.profession.peripheralsplusplus.CCVillager=Компьютерный техник
@@ -144,7 +144,7 @@ description.villager.profession.evilcraft.werewolfVillager=Оборотень
 description.villager.profession.redgear_brewcraft.villagerwitch=Ведьма
 description.villager.profession.redgear_brewcraft.villagerwarlock=Колдун
 description.villager.profession.fossil.Archaeologist=Археолог
-description.villager.profession.pennyarcade.CoinMerchant=Coin Vendor
+description.villager.profession.pennyarcade.CoinMerchant=Торговец монетами
 description.villager.profession.psychedelicraft.villagerDealer=Наркоторговец
 description.villager.profession.jukeboxreloaded.villager=Торговец пластинками
 description.villager.profession.minecraft.etymologist=Этимолог
@@ -161,38 +161,38 @@ description.villager.profession.lozmod.villager_beedle=Биддл
 description.villager.profession.lozmod.villager_beedle_special=Биддл
 description.villager.profession.minecraft.farmer=Фермер
 description.villager.profession.savemoney.insurer=Страховщик
-description.villager.profession.gvcguns.gvcVillager=Arms Dealer
-description.villager.profession.actuallyadditions.jamVillager=Jam Villager
-description.villager.profession.jewelrycraft2.jeweler=Jeweler
-description.villager.profession.pokecube_adventures.cubesalesman=Salesman
+description.villager.profession.gvcguns.gvcVillager=Торговец оружием
+description.villager.profession.actuallyadditions.jamVillager=Джем житель
+description.villager.profession.jewelrycraft2.jeweler=Ювелир
+description.villager.profession.pokecube_adventures.cubesalesman=Продавец
 description.villager.profession.terraarts.YE3TE2y=YE3TE2y
-description.villager.profession.xw.smithy3=Smithy
-description.villager.profession.xw.hunter_v1=Hunter
+description.villager.profession.xw.smithy3=Кузнец
+description.villager.profession.xw.hunter_v1=Охотник
 description.villager.profession.diversity.warrior=Воин
-description.villager.profession.diversity.priest=Priest
-description.villager.profession.diversity.butcher=Butcher
-description.villager.profession.diversity.chief=Chief
-description.villager.profession.diversity.breeder=Breeder
-description.villager.profession.diversity.guru=Guru
-description.villager.profession.diversity.farmer=Farmer
-description.villager.profession.jbrobot.jbvillagerblock=Blocks
-description.villager.profession.jbrobot.jbvillageritem=Items
-description.villager.profession.jbrobot.jbvillagermodel=Models
-description.villager.profession.jbrobot.jbvillagermotion=Motion
-description.villager.profession.jbrobot.jbvillagercarving=Carving
-description.villager.profession.wa.villager=Villager
-description.villager.profession.wa.swordsmith=Swordsmith
-description.villager.profession.wa.teaMaster=Tea Master
-description.villager.profession.wa.priest=Priest
-description.villager.profession.rftools.rftoolsvillager=RFTools Engineer
-description.villager.profession.forbidden.heretic=Heretic
-description.villager.profession.agricraft.villager=Agricraft Farmer
+description.villager.profession.diversity.priest=Священник
+description.villager.profession.diversity.butcher=Мясник
+description.villager.profession.diversity.chief=Глава
+description.villager.profession.diversity.breeder=Заводчик
+description.villager.profession.diversity.guru=Учитель
+description.villager.profession.diversity.farmer=Фермер
+description.villager.profession.jbrobot.jbvillagerblock=Блоки
+description.villager.profession.jbrobot.jbvillageritem=Предметы
+description.villager.profession.jbrobot.jbvillagermodel=Модель
+description.villager.profession.jbrobot.jbvillagermotion=Моушен
+description.villager.profession.jbrobot.jbvillagercarving=Карвингист
+description.villager.profession.wa.villager=Житель
+description.villager.profession.wa.swordsmith=Мечник
+description.villager.profession.wa.teaMaster=Чайный мастер
+description.villager.profession.wa.priest=Священник
+description.villager.profession.rftools.rftoolsvillager=Инженер RFTools
+description.villager.profession.forbidden.heretic=Еретик
+description.villager.profession.agricraft.villager=Сельскохозяйственный фермер
 
 #Jewelrycraft Tooltips
 tooltip.wawla.jewelry.molten=Molten
 tooltip.wawla.jewelry.unmelted=Unmelted
 tooltip.wawla.jewelry.melttime=Melt Time
-tooltip.wawla.jewelry.cooling=Cooling
+tooltip.wawla.jewelry.cooling=Охлаждение
 
 #Jewelrycraft Options
 option.wawla.jewelrycraft.showMoltenAmount=Molten Amounts
@@ -205,9 +205,9 @@ tooltip.wawla.tinkers.dryness=Вяление
 
 #Tinkers Construct Options
 option.wawla.tinkers.hideLandmine=Спрятать мины?
-option.wawla.tinkers.showDryerTime=Прогресс вяления?
-option.wawla.tinkers.showDryerItem=Предмет на доске для вяления?
-option.wawla.tinkers.showFurnace=Cодержимое печь-плиты?
+option.wawla.tinkers.showDryerTime=Прогресс сушки?
+option.wawla.tinkers.showDryerItem=Предмет на сушильной стойке?
+option.wawla.tinkers.showFurnace=Содержимое печь-плиты?
 option.wawla.tinkers.showBurnTime=Время горения?
 
 #AquaCulture Enchantment Descriptions
@@ -323,74 +323,74 @@ description.enchantment.fly_faster=Decreases the duration between flaps on Simpl
 
 #More Swords Mod Enchantment Descriptions
 description.msm.unused=Note: This item/block has been added to help achieve compatibility with other mods. As of now these do not do anything and are not an ordinary part of this mod. No new ores or tools will be added this is ONLY for for mod compatibility.
-description.enchantment.msm.ignite=This enchantment will set damaged mobs on fire doing damage equal to that of the enchantment level.
-description.enchantment.msm.spark=This enchantment will do 3 fire damage to mobs within 2.4 blocks of the damaged mob. Both the player and the target mob will not be set on fire.
-description.enchantment.msm.feast=This enchantment will restore 0-3 durability when used. The amount restored is multiplied by the level of the effect.
-description.enchantment.msm.vitality=This enchantment will consume 256 durability when used and in turn give the user several buffs such as regen, insta health and extra hearts.
-description.enchantment.msm.venomAspect=This enchantment will poison target mob. The effect will last for seconds equivalent to the level of the effect. It's worth noting that many vanilla mobs such as spiders, zombies and skeletons can not be poisoned rendering this effect useless.
-description.enchantment.msm.absorb=This enchantment has a 5% chance to restore 0-2 hunger points when used.
-description.enchantment.msm.keenEdge=This enchantment increases the damage of the sword by 1 for each level of the effect.
-description.enchantment.msm.scorn=This enchantment will double the damage of the sword by 2 when used in dimensions other than the surface world.
-description.enchantment.msm.enderPulse=This enchantment will warp the player where they are looking when used. This effect has a range of 18 blocks per level. This enchantment will damage the item by 50 points every time it is used. The player will also take 1 damage in fall damage.
-description.enchantment.msm.enderAura=This enchantment has a 15% chance of activating when the player is hit. When activated the player will warp to a random mob within 30 blocks. This mob may not always be friendly. If no mob is found then the effect will be canceled.
-description.enchantment.msm.greed=This enchantment has a 7% chance to drop 1-3 extra points of exp.
-description.enchantment.msm.wisdom=This enchantment is currently broken. My bad :/
-description.enchantment.msm.frozenAspect=This enchantment will slow mobs for 3 seconds per level.
-description.enchantment.msm.frostWave=This enchantment will slow mobs within 2.5 blocks of the target mob for 1.5 seconds.
-description.enchantment.msm.ascension=This enchantment will propel targeted mobs upwards into the air. Hit the mob before it hits the ground to make increase the launch aspect of the effect exponential amount.
-description.enchantment.msm.descension=This enchantment will cause the player to fall at a much slower rate than normal. To activate the effect press and hold shift.
-description.enchantment.msm.shadows=This enchantment will blind the target mob for 1.5 seconds. There is also a 12% chance that the wither effect will be applied for a second.
-description.enchantment.msm.decay=This enchantment will apply the wither effect to the target mob for just under 4 seconds.
-description.enchantment.msm.stealth=This enchantment will cause the player to become invisible when activated. Unlike the potion of invisibility this effect will not give off particles and has no time limit or duration. To toggle this on or off simply right click with the sword. It's worth noting that swords and armor will still be visible while this effect is enabled.
-description.enchantment.msm.extinction=This enchantment will kill all mobs on the map that are an instance of the target mob. This can be used on boats to kill all boats in the world and can be used to manage entities in the world. This effect will not target players.
+description.enchantment.msm.ignite=Это заклинание поджигает поврежденных мобов, нанося им урон, равный уровню зачарования.
+description.enchantment.msm.spark=Это зачарование наносит 3 урона огнем мобам в радиусе 2,4 блока от поврежденного моба. И игрок и целевой моб не будут подожжены.
+description.enchantment.msm.feast=При использовании этого зачарования восстанавливается 0-3 прочности. Восстановленное количество умножается на уровень зачарования.
+description.enchantment.msm.vitality=Это зачарование расходует 256 прочности при использовании и дает пользователю несколько баффов таких как: реген, мгновенное здоровье и дополнительные сердца.
+description.enchantment.msm.venomAspect=Это зачарование отравит целевого моба. Эффект длится несколько секунд, равных уровню зачарования. Стоит отметить, что многие ванильные мобы, такие как пауки, зомби и скелеты, не могут быть отравлены, что делает этот эффект бесполезным.
+description.enchantment.msm.absorb=Это зачарование с шансом 5% восстанавливает 0-2 очка голода при использовании.
+description.enchantment.msm.keenEdge=Это зачарование увеличивает урон меча на 1 за каждый уровень зачарования.
+description.enchantment.msm.scorn=Это зачарование удваивает урон меча на 2 при использовании в измерениях, отличных от поверхностного мира.
+description.enchantment.msm.enderPulse=Это зачарование будет искажать игрока, куда он смотрит при использовании. Радиус действия составляет 18 блоков за уровень. При каждом использовании это зачарование наносит предмету урон в 50 пунктов. Игрок также получит 1 урон при падении.
+description.enchantment.msm.enderAura=Это зачарование с шансом 15% активируется, когда игрок получает удар. При активации игрок переместится к случайному мобу в радиусе 30 блоков. Этот моб не всегда может быть дружелюбным. Если моб не будет найден, эффект будет отменен.
+description.enchantment.msm.greed=Это зачарование имеет 7% шанс получить 1-3 доп. очка опыта.
+description.enchantment.msm.wisdom=В настоящее время это зачарование сломано. Виноват :/
+description.enchantment.msm.frozenAspect=Это зачарование замедляет мобов на 3 секунды за уровень.
+description.enchantment.msm.frostWave=Это зачарование замедляет мобов в радиусе 2,5 блоков от целевого моба на 1,5 секунды.
+description.enchantment.msm.ascension=Это зачарование поднимет целевых мобов в воздух. Ударьте моба до того, как он упадет на землю, чтобы увеличить эффект запуска в геометрической прогрессии.
+description.enchantment.msm.descension=Это зачарование заставит игрока падать гораздо медленнее, чем обычно. Для активации эффекта нажмите и удерживайте Shift.
+description.enchantment.msm.shadows=Это зачарование ослепляет целевого моба на 1,5 секунды. Также существует 12% шанс, что эффект иссушения будет применен на секунду.
+description.enchantment.msm.decay=Это зачарование применяет эффект Иссушения целевому мобу на 4 секунды.
+description.enchantment.msm.stealth=При активации этого зачарования игрок становится невидимым. В отличие от зелья невидимости, этот эффект не испускает частиц и не имеет временного ограничения или продолжительности. Чтобы включить или выключить просто щелкните ПКМ мечом. Стоит отметить, что мечи и броня все равно будут видны, пока этот эффект включен.
+description.enchantment.msm.extinction=Это зачарование убьет всех мобов на карте, которые являются экземплярами целевого моба. Это можно использовать на лодках, чтобы уничтожить все лодки в мире, а также для управления объектами в мире. Этот эффект не будет нацелен на игроков.
 
 #Railcraft Enchantments
-description.enchantment.railcraft.crowbar.destruction=This enchant is exclusively for crowbars. Deconstructs blocks in a wide area.
-description.enchantment.railcraft.crowbar.implosion=This enchant is exclusively for crowbars. Increases damage dealt to Creepers.
-description.enchantment.railcraft.crowbar.wrecking=This enchant is exclusively for crowbars. Increases damage (works the same as Sharpness).
+description.enchantment.railcraft.crowbar.destruction=Это зачарование предназначено исключительно для монтировки. Разбирает блоки на обширной территории.
+description.enchantment.railcraft.crowbar.implosion=Это зачарование предназначено исключительно для монтировки. Увеличивает урон, наносимый криперам.
+description.enchantment.railcraft.crowbar.wrecking=Это зачарование предназначено исключительно для монтировки. Увеличивает урон (работает так же, как "Острота").
 
 #OpenBlocks Enchantments
-description.enchantment.openblocks.explosive=When taking damage, Gunpowder will be consumed to create an explosion that damages mobs and blocks.
-description.enchantment.openblocks.flimflam=Brings "bad luck" to anything that attacks the player.
-description.enchantment.openblocks.laststand=When the user is at half a heart, instead of dying from the next blow it uses XP levels to absorb damage.
+description.enchantment.openblocks.explosive=При получении урона порох расходуется, создавая взрыв, который наносит урон мобам и блокам.
+description.enchantment.openblocks.flimflam=Приносит "несчастье" всему, что атакует игрока.
+description.enchantment.openblocks.laststand=Когда у пользователя остается половина сердца, вместо того чтобы умереть от следующего удара, он использует уровни XP для поглощения урона.
 
 #Forbidden Magic Enchantments
-description.enchantment.cluster=A Chameleon Pickaxe with the Fiery Core enchantment has a chance of dropping clusters when mining certain ores. Clusters are a lot purer than raw ore and can be smelted for the of the ore's normal smelting result. Higher levels of Fiery Core increase the chance of dropping clusters.
-description.enchantment.consuming=Any Cobblestone, Dirt, Gravel, or Netherrack mined by a Consuming tool will be destroyed instead of falling to the ground.
-description.enchantment.corrupting=The Corrupting enchant allows you to harvest Nether Shards without having to be in the Nether. A pickaxe enchanted with Corrupting will randomly corrupt harvested elemental shards, changing them into nether shards. The shards only seem susceptible while they are encased in infused stone, so corrupting a shard cluster will have no effect.
-description.enchantment.educational=You've created an enchantment to infuse a weapon with the very essence of knowledge and learning. Hammering such learning into monsters' heads will result in them dropping more experience than normal, depending on the level of enchantment.
+description.enchantment.cluster=Хамелеоновая кирка с зачарованием "Огненное ядро" имеет шанс выпадения кластеров при добыче определенных руд. Кластеры намного чище сырой руды и могут быть выплавлены за обычный результат плавки руды. Более высокие уровни Огненного ядра увеличивают шанс выпадения кластеров.
+description.enchantment.consuming=Булыжник, земля, гравий или трава, добытые с помощью инструмента "Потребление", будут уничтожены, а не упадут на землю.
+description.enchantment.corrupting=Чары Искажение позволяют вам собирать Адские осколки, не находясь в Аду. Кирка, зачарованная на "Искажение", случайным образом искажает собранные кристаллы элементалей, превращая их в Адские осколки. Кристаллы кажутся уязвимыми только тогда, когда они заключены в камень, поэтому повреждение скопления кристаллов не будет иметь никакого эффекта.
+description.enchantment.educational=Вы создали зачарование, чтобы наделить оружие самой сутью знаний и обучения. Вбивая такое обучение в головы монстров, они будут терять больше опыта, чем обычно, в зависимости от уровня зачарования.
 description.enchantment.greedy=Every time a Capitalist weapon slays a hostile creature, there's a chance to drop Emerald Fragment. If a Capitalist weapon is used to kill a villager, it will instead drop one of the villager's emeralds.
-description.enchantment.impact=A Chameleon Tools with Impact enchantment mines a 3 x 3 area of blocks instead of just one, making exploratory mining faster and flattening areas much easier.
-description.enchantment.voidtouched=The Voidtouched enchant gives Chameleon Tool the same regenerating quality as Void Tools.
-description.enchantment.wrath=The Wrath enchantment increases the offensive power of a weapon, but is still compatible with Sharpness, Bane of Arthropods and Smite.
+description.enchantment.impact=Хамелеоновые инструменты с зачарование "Влияние" добывают не один блок, а область 3x3, что ускоряет добычу полезных ископаемых и облегчает выравнивание территорий.
+description.enchantment.voidtouched=Чары Прикосновение пустоты придают Хамелеоновым инструментам те же регенерирующие свойства, что и у пустотных инструментов.
+description.enchantment.wrath=Чары "Гнев" увеличивает атакующую силу оружия, но по-прежнему совместимы с "Остротой", "Бич членистоногих" и "Небесная кара".
 
 #BiblioCraft Enchantments
-description.Eternal Compass=When the player dies, they will spawn with an Eternal Compass which will lead them back to their death point.
-description.Reading=When looking at items in BiblioCraft blocks in the world their hover text will be displayed.
+description.Eternal Compass=Когда игрок умрет, он появится с Вечным компасом, который приведет его обратно к точке смерти.
+description.Reading=При просмотре предметов в блоках BiblioCraft в мире будет отображаться их всплывающий текст.
 
 #Witching Gadgets Enchantments
-description.enchantment.wg.backstab=Items enchanted with Backstabbing do additional 20% damage per level when attacking from behind, plus another 40% when the target is not aware of you.
+description.enchantment.wg.backstab=Предметы, зачарованные на "Удар в спину" наносят дополнительно 20% урона за уровень при атаке сзади, плюс еще 40% если цель не знает о вас.
 description.enchantment.wg.gemstoneBrittle=Infuse a witchery cut gem with brittleness.
 description.enchantment.wg.gemstonePotency=Infuse a witchery cut gem to make it more potent.
-description.enchantment.wg.invisibleGear=The first level of this enchantment will make your gear translucent when you are invsible yourself, the second level will make it permanently invisible.
-description.enchantment.wg.rideProtect=Moving around is incredibly difficult when someone is piggyback-riding you. Enchanting your helmet with this repulsion spell should fix that problem. Everyone who tries to jump upon you will get thrown off and damaged.
-description.enchantment.wg.soulbound=When the player dies the item/tool/armor will be kept in the inventory and not drop on the ground.
+description.enchantment.wg.invisibleGear=Первый уровень этого зачарования сделает ваше снаряжение полупрозрачным, когда вы сами будете невидимы, второй уровень сделает его невидимым навсегда.
+description.enchantment.wg.rideProtect=Передвигаться невероятно сложно, когда кто-то едет на вас. Зачарование вашего шлема этим заклинанием отталкивания должно решить эту проблему. Каждый, кто попытается на вас наброситься, будет сброшен и поврежден.
+description.enchantment.wg.soulbound=Когда игрок умирает, предмет/инструмент/броня сохраняется в инвентаре, а не падает на землю.
 description.enchantment.wg.stealth=Applying this enchantment to your boots or leggings will give you a chance of staying undetected while you are crouching. The chance rises by 10% with every level, but is diminished by 10% if you are in view of the target in question. Should you be discovered, all enemies in a 5 block radius will be notified.
-description.enchantment.wg.unveiling=This enchantment can be applied to the Goggles of Revealing or other headgear of the same function. While wearing the enchanted item, you will be able to see creatures with the invisibility buff. Furthermore, the Translucency enchantment is rendered ineffective when used by others and users of the spectral mantle are shown more clearly.
+description.enchantment.wg.unveiling=Это зачарование можно применить к Очкам откровения или другим головным уборам с той же функцией. Нося зачарованный предмет, вы сможете видеть существ с баффом невидимости. Кроме того, зачарование Полупрозрачность становится неэффективным, когда его используют другие, а пользователи с Призрачной мантией отображаются более четко.
 
 #Thaumic Exploration Enchantments
-description.enchantment.binding=At level I, slows mobs hit for a few seconds. At level II, prevents Endermen from teleporting and Creepers from exploding for a few seconds.
-description.enchantment.disarm=Attacked enemies have a chance to drop their weapons, does not work on other players. Note: The Thorns enchantment from Vanilla also triggers this.
-description.enchantment.nightVision=Gain a permanent Nightvision potion effect while holding an item with this enchantment.
+description.enchantment.binding=На уровне I замедляет пораженных мобов на несколько секунд. На уровне II не дает Эндерменам телепортироваться, а Криперам взрываться на несколько секунд.
+description.enchantment.disarm=Атакованные враги имеют шанс выронить свое оружие, не действует на других игроков. Примечание: зачарование Шипы из Ванилы также вызывает это.
+description.enchantment.nightVision=Получите постоянный эффект зелья ночного зрения, удерживая предмет с этими чарами.
 
 #EnderIO Enchantments
-description.enchantment.autosmelt=Any block mined by an item enchanted with this will have its drop instantly smelted as if processed by a Furnace.
-description.enchantment.xpboost=This enchantment increases the amount of Experience dropped by killing mobs or players or by breaking blocks by a percentage. 
-description.enchantment.enderio.soulBound=When the player dies the item/tool/armor will be kept in the inventory and not drop on the ground.
+description.enchantment.autosmelt=Любой блок добытый с помощью предмета зачарованного этим чарами будет мгновенно переплавлен, как если бы он был обработан в печи.
+description.enchantment.xpboost=Это зачарование увеличивает количество опыта, получаемого при убийстве мобов или игроков, а также при разрушении блоков, на определенный процент.
+description.enchantment.enderio.soulBound=Когда игрок умирает, предмет/инструмент/броня сохраняется в инвентаре, а не падает на землю.
 
 #EnderZoo Enchantments
-description.enchantment.enderzoo.witherArrow=Applies Wither effect on hit for 5 seconds.
-description.enchantment.enderzoo.witherWeapon=Applies Wither effect on hit for 5 seconds.
+description.enchantment.enderzoo.witherArrow=Применяет эффект Иссушения при попадании на 5 секунд.
+description.enchantment.enderzoo.witherWeapon=Применяет эффект Иссушения при попадании на 5 секунд.
 
 #BattleGear Enchantments
 description.enchantment.bash.weightless=Уменьшите потерю выносливости при каждом ударе щитом.
@@ -402,17 +402,17 @@ description.enchantment.bow.loot=Добавляет шанс увеличить 
 description.enchantment.bow.charge=Уменьшите время зарядки лука, не влияя на поле зрения.
 
 #Thaumic Bases Enchantments
-description.enchantment.elderKnowledge=Chance to recieve knowledge from fallen mobs.
-description.enchantment.eldritchBane=Deal more damage to eldritch creatures.
-description.enchantment.magicTouch=Gain more Aspect Orbs from killed enemies.
-description.enchantment.tainted=Inflict taint poison on attacked enemies.
-description.enchantment.vaporising=Gain Crystalized Essentia of slain mobs.
+description.enchantment.elderKnowledge=Шанс получить знания от павших мобов.
+description.enchantment.eldritchBane=Наносите больше урона древним существам.
+description.enchantment.magicTouch=Получайте больше Сферы аспектов с убитых врагов.
+description.enchantment.tainted=Наносит Магический яд атакованным врагам.
+description.enchantment.vaporising=Получайте кристаллизованную эссенцию убитых мобов.
 
 #Misc. Enchantments
-description.enchant.cofh.holding=Increases the amount of slots (8-9 per level) of a strongbox or satchel.
-description.enchant.cofh.multishot=Makes bows shoot multiple arrows at 1 arrow cost.
-description.enchantment.draconicevolution.reaperEnchant=Killing a mob has a chance of dropping a corresponding Mob Soul. This bonus chance stacks with the native chance to drop a soul of the various Draconic Evolution weapons.
-description.enchantment.damage.endermen=Deal more damage to Ender mobs and prevent them from teleporting.
-description.enchantment.damage.radioactivity=Add radioactivity to your weapon or armor causing mobs or players to suffer.
-description.gadomancy.enchantment.revealer=An enchantment for your helmet. When used, it makes nodes visible, just like Thaumcraft's Goggles of Revealing.
-description.enchantment.projectred.expansion.fuel_efficiency=Better fuel efficiency for your jetpack.
+description.enchant.cofh.holding=Увеличивает количество слотов (8-9 на уровень) сейфа или сумки.
+description.enchant.cofh.multishot=Позволяет лукам стрелять несколькими стрелами, затратив при этом одну стрелу.
+description.enchantment.draconicevolution.reaperEnchant=Убийство моба имеет шанс выпадения соответствующей Души Моба. Этот бонусный шанс складывается с собственным шансом выпадения души различных оружий Draconic Evolution.
+description.enchantment.damage.endermen=Наносите больше урона мобам Энда и не позволяйте им телепортироваться.
+description.enchantment.damage.radioactivity=Добавьте радиоактивность к своему оружию или броне, заставляя мобов или игроков страдать.
+description.gadomancy.enchantment.revealer=Чары для вашего шлема. При использовании они делают узлы видимыми, как Очки откровения Таумкрафта.
+description.enchantment.projectred.expansion.fuel_efficiency=Повышение эффективности топлива для вашего реактивного ранца.

@@ -19,22 +19,22 @@ item.door_acacia.name=Дверь из акации
 item.door_dark_oak.name=Дверь из тёмного дуба
 item.saloon.name=Дверь салуна
 
-item.curtain_white.name=White Curtain
-item.curtain_orange.name=Orange Curtain
-item.curtain_magenta.name=Magenta Curtain
-item.curtain_light_blue.name=Light Blue Curtain
-item.curtain_yellow.name=Yellow Curtain
-item.curtain_lime.name=Lime Curtain
-item.curtain_pink.name=Pink Curtain
-item.curtain_gray.name=Gray Curtain
-item.curtain_silver.name=SilverCurtain
-item.curtain_cyan.name=Cyan Curtain
-item.curtain_purple.name=Purple Curtain
-item.curtain_blue.name=Blue Curtain
-item.curtain_brown.name=Brown Curtain
-item.curtain_green.name=Green Curtain
-item.curtain_red.name=Red Curtain
-item.curtain_black.name=Black Curtain
+item.curtain_white.name=Занавеска белая
+item.curtain_orange.name=Занавеска оранжевая
+item.curtain_magenta.name=Занавеска сиреневая
+item.curtain_light_blue.name=Занавеска голубая
+item.curtain_yellow.name=Занавеска жёлтая
+item.curtain_lime.name=Занавеска лаймовая
+item.curtain_pink.name=Занавеска розовая
+item.curtain_gray.name=Занавеска серая
+item.curtain_silver.name=Занавеска серебряная
+item.curtain_cyan.name=Занавеска бирюзовая
+item.curtain_purple.name=Занавеска фиолетовая
+item.curtain_blue.name=Занавеска синяя
+item.curtain_brown.name=Занавеска коричневая
+item.curtain_green.name=Занавеска зелёная
+item.curtain_red.name=Занавеска красная
+item.curtain_black.name=Занавеска чёрная
 
 
 tile.player_sensor.name=Датчик игрока
@@ -55,7 +55,7 @@ tile.wood_sliding_door.name=Деревянная стеклянная дверь
 tile.iron_sliding_door.name=Железная стеклянная дверь
 tile.rustyHatch.name=Ржавый люк
 tile.carriage_door.name=Дверь-фрейм
-tile.medieval_door.name=Medieval Door
+tile.medieval_door.name=Средневековая дверь
 tile.forcefieldDoor.name=Силовое поле
 tile.rustyLadder.name=Ржавая лестница
 tile.door_spruce.name=Дверь из ели
@@ -81,15 +81,15 @@ tile.trapdoor_dark_oak.name=Люк из тёмного дуба
 tile.trapdoor_jungle.name=Люк из тропического дерева
 tile.trapdoor_spruce.name=Люк из ели
 
-tile.curtain_white.name=White Curtain
-tile.curtain_orange.name=Orange Curtain
-tile.curtain_magenta.name=Magenta Curtain
-tile.curtain_light_blue.name=Занавеска светло-синяя
+tile.curtain_white.name=Занавеска белая
+tile.curtain_orange.name=Занавеска оранжевая
+tile.curtain_magenta.name=Занавеска сиреневая
+tile.curtain_light_blue.name=Занавеска голубая
 tile.curtain_yellow.name=Занавеска жёлтая
 tile.curtain_lime.name=Занавеска лаймовая
 tile.curtain_pink.name=Занавеска розовая
 tile.curtain_gray.name=Занавеска серая
-tile.curtain_silver.name=SilverCurtain
+tile.curtain_silver.name=Занавеска серебряная
 tile.curtain_cyan.name=Занавеска бирюзовая
 tile.curtain_purple.name=Занавеска фиолетовая
 tile.curtain_blue.name=Занавеска синяя
@@ -126,7 +126,7 @@ config.enhancedMixedBlockPlacement.comment1=Позволяет размести�
 config.enhancedMixedBlockPlacement.comment2=Присядьте, чтобы изменить размещение блока.
 
 config.enableCamoFenceGate=Включить "камуфляжные" калитки
-config.enableCamoFenceGate.comment=Позволяет калиткам использовать текстуру ближайших блоков.
+config.enableCamoFenceGate.comment=Позволяет калиткам использовать текстуру ближайших блоков. 
 
 
 door_movement.rotating_door=Вращение

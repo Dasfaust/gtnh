@@ -1,23 +1,23 @@
 
 //ITEMS
-item.ofanix.name=Ofanix
-item.hunger.name=MSG Pill
+item.ofanix.name=Офаникс
+item.hunger.name=Таблетка глутамата натрия
 item.minicoal.name=Мини Уголь
 item.minicharcoal.name=Мини Древесный уголь
-item.diamondZane.name=Diamond Zane
-item.terrainEater.name=Terrain Eater
-item.totemTool.name=Totem Tool
-item.splatAxe.name=Splat Axe
+item.diamondZane.name=Алмазный Зейн
+item.terrainEater.name=Пожиратель местности
+item.totemTool.name=Тотемный инструмент
+item.splatAxe.name=Топор-сплат
 
 // BLOCKS
-tile.ztones:stoneTile.name=Ztone Tile
-tile.ztones:cleanDirt.name=Garden Soil
-tile.ztones:booster.name=Booster
-tile.ztones:lamp.name=Lamp
-tile.ztones:lampf.name=Flat Lamp
-tile.ztones:lampt.name=Flat Lamp
-tile.ztones:lampb.name=Flat Lamp
-tile.ztones:aurora.name=Aurora
+tile.ztones:stoneTile.name=Плитка Ztone
+tile.ztones:cleanDirt.name=Садовая почва
+tile.ztones:booster.name=Ускоритель
+tile.ztones:lamp.name=Лампа
+tile.ztones:lampf.name=Плоская лампа
+tile.ztones:lampt.name=Плоская лампа
+tile.ztones:lampb.name=Плоская лампа
+tile.ztones:aurora.name=Аврора
 
 
 ⓪①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮
@@ -106,7 +106,7 @@ tile.zaneBlock. (10).name=Zane ⑩
 tile.zaneBlock. (11).name=Zane ⑪
 tile.zaneBlock. (12).name=Zane ⑫
 tile.zaneBlock. (13).name=Zane ⑬
-tile.zaneBlock. (14).name=Zane ⑭
+tile.zaneBlock. (14).name=Zest ⑭
 tile.zaneBlock. (15).name=Zane ⑮
 
 tile.azurBlock. (0).name=Azur ⓪

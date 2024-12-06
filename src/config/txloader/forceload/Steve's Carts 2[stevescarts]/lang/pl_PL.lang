@@ -1,5 +1,5 @@
-itemGroup.SC2Modules=Steve's Carts 2 Modules
-itemGroup.SC2Items=Steve's Carts 2 Components
+itemGroup.SC2Modules=Steve's Carts 2 Moduły
+itemGroup.SC2Items=Steve's Carts 2 Komponenty
 itemGroup.SC2Blocks=Steve's Carts 2 Blocks
 
 # ======================================
@@ -229,7 +229,7 @@ item.SC2:track_remover.name=Track Remover
 item.SC2:basic_farmer.name=Basic Farmer
 item.SC2:basic_wood_cutter.name=Basic Wood Cutter
 item.SC2:hydrator.name=Hydrator
-item.SC2:height_controller.name=Height Controller
+item.SC2:height_controller.name=Kontroler Wysokości
 item.SC2:fertilizer.name=Fertilizer
 item.SC2:entity_detector_animal.name=Entity Detector: Animal
 item.SC2:liquid_sensors.name=Liquid Sensors

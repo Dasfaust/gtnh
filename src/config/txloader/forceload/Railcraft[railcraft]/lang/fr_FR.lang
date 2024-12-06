@@ -283,7 +283,7 @@ item.railcraft.tool.surveyor.tip=Links Signals into Signal Blocks
 item.railcraft.tool.whistle.tuner.name=Whistle Tuner
 
 
-item.railcraft.upgrade.lapotron=Lapotron Loader Upgrade
+item.railcraft.upgrade.lapotron.name=Lapotron Loader Upgrade
 
 item.synthetic=Synthetic
 
@@ -456,6 +456,10 @@ railcraft.gui.item.loader.stock.tip=Moved items until the\n destination matches 
 railcraft.gui.item.loader.stock=Stock
 railcraft.gui.item.loader.transfer.tip=Move exactly as many\n items as are in the filter
 railcraft.gui.item.loader.transfer=Transfer
+railcraft.gui.item.loader.match_metadata.tip=Match Metadata
+railcraft.gui.item.loader.ignore_metadata.tip=Ignore Metadata
+railcraft.gui.item.loader.match_nbt.tip=Match NBT Data
+railcraft.gui.item.loader.ignore_nbt.tip=Ignore NBT Data
 
 railcraft.gui.link.broken=Link Broken
 railcraft.gui.link.created=Link Created
@@ -741,7 +745,7 @@ tile.railcraft.machine.alpha.coke.oven.tip=Multi-Block: 3x3x3 (Hollow)
 tile.railcraft.machine.alpha.feed.station.name=Feed Station
 tile.railcraft.machine.alpha.rock.crusher.name=Rock Crusher
 tile.railcraft.machine.alpha.rock.crusher.tip=Multi-Block: 3x2x2
-tile.railcraft.machine.alpha.rolling.machine.name=Rolling Machine
+tile.railcraft.machine.alpha.rolling.machine.name=Laminoir
 tile.railcraft.machine.alpha.smoker.name=Smoker
 tile.railcraft.machine.alpha.steam.oven.name=Steam Oven
 tile.railcraft.machine.alpha.steam.oven.tip=Multi-Block: 2x2x2

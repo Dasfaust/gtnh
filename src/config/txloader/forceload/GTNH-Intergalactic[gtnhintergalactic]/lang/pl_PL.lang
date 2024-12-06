@@ -8,11 +8,11 @@
 
 
 # Creative Tabs
-itemGroup.GTNH-Intergalactic=GTNH-Intergalactic
+itemGroup.GTNH-Intergalactic=GTNH-Międzygalaktyczny
 
 # Achievements
-achievement.gt.blockmachines.spaceelevator=Space Elevator
-achievement.gt.blockmachines.spaceelevator.desc=You've reached the next milestone of intergalactic transportation
+achievement.gt.blockmachines.spaceelevator=Winda Kosmiczna
+achievement.gt.blockmachines.spaceelevator.desc=Zdobyłeś kolejny etap międzygalaktycznego transportu
 achievement.gt.blockmachines.projectmoduleassemblert1=Space Elevator Assembler Module MK-I
 achievement.gt.blockmachines.projectmoduleassemblert1.desc=Assembling in space? Blasphemy!
 achievement.gt.blockmachines.projectmoduleassemblert2=Space Elevator Assembler Module MK-II
@@ -126,6 +126,7 @@ GT5U.gui.text.no_space_station=§7Not on a space station
 GT5U.gui.text.invalid_depth=§7Invalid depth
 GT5U.gui.text.missing_project=§7Missing §b%s §7 at §b%s
 GT5U.gui.text.no_plasma=§7Not enough plasma
+GT5U.gui.text.invalid_overdrive=§7Invalid overdrive settings
 GT5U.gui.text.no_project_selected=§7Not working on any project
 ig.text.project=Project
 ig.text.upgrades=Upgrades
